@@ -143,16 +143,12 @@ class Database:
         result = cursor.fetchall()
         field_names = [i[0] for i in cursor.description]
         conn.close()
-<<<<<<< HEAD
         return result, field_names
-=======
-        return result
 
 
 if __name__ == "__main__":
     sql_class = Database()
     sql_class.convert_csv_to_sql( table_name='property_table', csv_file_name='../database/property_table.csv')
-    data = sql_class.fetch_query(query='SELECT * FROM property_table;')
+    data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
     print (data)
     # sql_class.close()
->>>>>>> origin/main
