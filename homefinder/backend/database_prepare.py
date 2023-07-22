@@ -31,6 +31,22 @@ class sql_db():
                 hardwood_floors Bool,
                 balcony Bool
             );
+            CREATE TABLE image_table (
+                image_id int not null,
+                property_id int not null,
+                image_type TEXT CHECK( image_type IN ('indoor', 'outdoor') ),
+                image_url text,
+                PRIMARY KEY (image_id),
+                FOREIGN KEY (property_id) REFERENCES property_table(property_id)
+            );
+            CREATE TABLE agent_table (
+                agend_id int not null,
+                property_id int not null,
+                primary_email text,
+                primary_phone text,
+                PRIMARY KEY (agend_id),
+                FOREIGN KEY (property_id) REFERENCES property_table(property_id)
+            )
         ''')
         self.conn.commit()
 
