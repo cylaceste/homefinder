@@ -28,12 +28,13 @@ def get_agent_response(message_history):
 @app.route('/get_locations', methods=['GET'])
 def get_locations():
     query = 'SELECT * FROM property_table;'
-    properties = property_database.fetch_query(query)
+    properties, fields = property_database.fetch_query(query)
     locations = [
         {
             "latitude": property[14],
             "longitude": property[15],
-            "info": f"Property Name: {property[1]} \n Description: {property[2]}"
+            "info": '\n'.join([f"{field_name}: {field_value}" for field_name, field_value in zip(fields, property) if field_name not in {'latitude', 'longitude'}])
+            # "info": f"Property Name: {property[1]} \n Description: {property[2]}"
         } for property in properties
     ]
     return jsonify(locations)

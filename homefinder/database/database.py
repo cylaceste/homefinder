@@ -164,12 +164,13 @@ class Database:
         else:
             cursor.execute(query, params)
         result = cursor.fetchall()
+        field_names = [i[0] for i in cursor.description]
         conn.close()
-        return result
+        return result, field_names
 
 
 if __name__ == "__main__":
     sql_class = Database()
-    data = sql_class.fetch_query(query='SELECT * FROM property_table;')
+    data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
     print (data)
     # sql_class.close()
