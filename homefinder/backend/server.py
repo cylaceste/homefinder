@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import sys
 import os
+from typing import Dict, List, Any
 current_file_directory = os.path.dirname(os.path.realpath(__file__))
 database_dir = os.path.join(current_file_directory,'..','database')
 sys.path.insert(0, database_dir)
@@ -29,12 +30,13 @@ def get_agent_response(message_history):
 def get_locations():
     query = 'SELECT * FROM property_table;'
     properties, fields = property_database.fetch_query(query)
-    print(properties[0][13], properties[0][14])
+    properties: List[Dict[str, Any]] = [{fields[i]: property[i] for i in range(len(property))} for property in properties]
     locations = [
         {
-            "latitude": property[13],
-            "longitude": property[14],
-            "info": '\n'.join([f"{field_name}: {field_value}" for field_name, field_value in zip(fields, property) if field_name not in {'latitude', 'longitude'}])
+            "latitude": property['latitude'],
+            "longitude": property['longitude'],
+            "info": '\n'.join([f"{field_name}: {field_value}" for field_name, field_value in property.items() if field_name not in {'latitude', 'longitude', 'property_id'}]),
+            "images": [image_url for image_url in property_database.get_images_for_property_id(property['property_id'])],
             # "info": f"Property Name: {property[1]} \n Description: {property[2]}"
         } for property in properties
     ]
