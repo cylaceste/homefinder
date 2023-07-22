@@ -45,7 +45,7 @@ function MapPage() {
             {locations.map((location, index) => (
                 <Marker key={index} position={[location.latitude, location.longitude]}>
                     <Popup>
-                        {location.info}
+                        <span style={{whiteSpace: "pre-line"}}>{location.info}</span>
                     </Popup>
                 </Marker>
             ))}
