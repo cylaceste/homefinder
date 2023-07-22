@@ -1,10 +1,24 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import sqlite3 as sq
+import sys
+import os
+current_file_directory = os.path.dirname(os.path.realpath(__file__))
+database_dir = os.path.join(current_file_directory,'..','database')
+sys.path.insert(0, database_dir)
+from database import PropertyDatabase
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from your React app
+property_database = PropertyDatabase()
+row = [1, 'Property name', 'Description', 2, 1, 100, 50000.00, 'Buy', 'Condo', 'garage', 'in_suite', True, False, 0.0000000, 0.0000000, 2000, False, True, True, False]
+property_database.insert_row('property_table', row)
 
+# Insert multiple rows
+rows = [
+    [2, 'Property name 2', 'Description 2', 3, 2, 150, 60000.00, 'Rent', 'Apartment', 'underground', 'shared', False, True, 1.0000000, 1.0000000, 2001, True, False, False, True],
+    [3, 'Property name 3', 'Description 3', 4, 3, 200, 70000.00, 'Buy', 'House', 'covered', 'in_suite', True, False, 2.0000000, 2.0000000, 2002, False, True, True, False]
+]
+property_database.insert_row('property_table', rows)
 @app.route('/send_message', methods=['POST'])
 def send_message():
     message_history = request.get_json()  # Get the message history from the request
@@ -22,22 +36,17 @@ def get_agent_response(message_history):
 
 @app.route('/get_locations', methods=['GET'])
 def get_locations():
-    # This is where you'd typically fetch these locations from your database
-    # For this example, I'm returning a static list of locations
+    query = 'SELECT * FROM property_table;'
+    properties = property_database.fetch_query(query)
     locations = [
         {
-            "latitude": 52.505,
-            "longitude": -0.09,
-            "info": "Location 1"
-        },
-        {
-            "latitude": 51.51,
-            "longitude": -0.1,
-            "info": "Location 2"
-        }
+            "latitude": property[14],
+            "longitude": property[15],
+            "info": f"Property Name: {property[1]} \n Description: {property[2]}"
+        } for property in properties
     ]
-    
     return jsonify(locations)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
