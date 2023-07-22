@@ -44,8 +44,8 @@ class Database:
                     laundry TEXT CHECK( laundry IN ('in_suite', 'shared') ),
                     furnished BOOL,
                     pet_friendly BOOL,
-                    longitude DECIMAL(10,7),
                     latitude DECIMAL(10,7),
+                    longitude DECIMAL(10,7),
                     build_year YEAR,
                     smoking_allowed BOOL,
                     air_conditioning BOOL,
@@ -83,7 +83,7 @@ class Database:
                 sql_script = '''
                     INSERT INTO property_table (property_id, property_name, description, num_bedroom, num_bathroom, 
                     area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly,
-                    longitude, latitude, build_year, air_conditioning, hardwood_floors, balcony)
+                    latitude, longitude, build_year, air_conditioning, hardwood_floors, balcony)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     '''
                     #
@@ -100,8 +100,8 @@ class Database:
                     row.laundry,
                     row.furnished,                    
                     row.pet_friendly,
-                    row.longitude,
                     row.latitude,
+                    row.longitude,
                     row.build_year,
                     row.air_conditioning,
                     row.hardwood_floors,
