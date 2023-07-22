@@ -20,7 +20,33 @@ def get_agent_response(message_history):
     # last_user_message = [message["user"] for message in message_history if "user" in message][-1]
 
     openai.api_key = os.getenv("OPENAI_API_KEY")
-    prompt_messages = []
+    sql_table_query =
+"""
+CREATE TABLE edmonton_rent_property_table (
+    pk_column propertyId PRIMARY KEY,
+    property_name VARCHAR(255),
+    description VARCHAR,
+    num_bedroom INT,
+    num_bathroom INT,
+    area_size INT,
+    furnished BOOL,
+    pet_friendly BOOL,
+    thrumb_nail VARCHAR,
+    Inside_figure VARCHAR,
+    Outside_figure VARCHAR,
+    Geolocation VARCHAR,
+    property_types ENUM(Condo, Apartment, House),
+    build_year YEAR,
+);
+"""
+
+    prompt_messages = [{
+        "role": "system",
+        "content": "Given the following SQL tables, your job is to write "
+        "queries given a user’s request. Return only the query, your "
+        "response should start with INSERT INTO and your entire text "
+        "response should be runnable.\n\n{sql_table_query}"
+    }]
     for message in message_history:
         if 'user' in message:
             prompt_messages.append({
@@ -44,25 +70,6 @@ def get_agent_response(message_history):
 
     # return f"ECHO: {last_user_message}"
     return f"ECHO: {response_content}"
-
-@app.route('/get_locations', methods=['GET'])
-def get_locations():
-    # This is where you'd typically fetch these locations from your database
-    # For this example, I'm returning a static list of locations
-    locations = [
-        {
-            "latitude": 52.505,
-            "longitude": -0.09,
-            "info": "Location 1"
-        },
-        {
-            "latitude": 51.51,
-            "longitude": -0.1,
-            "info": "Location 2"
-        }
-    ]
-    
-    return jsonify(locations)
 
 if __name__ == '__main__':
     app.run(debug=True)
