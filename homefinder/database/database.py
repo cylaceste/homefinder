@@ -75,5 +75,6 @@ class PropertyDatabase:
         else:
             cursor.execute(query, params)
         result = cursor.fetchall()
+        field_names = [i[0] for i in cursor.description]
         conn.close()
-        return result
+        return result, field_names
