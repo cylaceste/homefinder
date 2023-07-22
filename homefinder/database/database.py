@@ -5,10 +5,12 @@ import pandas as pd
 
 current_file_directory = os.path.dirname(os.path.realpath(__file__))
 database_path = os.path.join(current_file_directory, 'property_database')
+property_table_csv = os.path.join(current_file_directory, 'property_table.csv')
 class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
         self._create_table()
+        self.convert_csv_to_sql('property_table', property_table_csv)
 
     def get_connection(self):
         conn = sqlite3.connect(self.database_name, uri=True)
