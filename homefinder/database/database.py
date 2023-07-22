@@ -1,10 +1,11 @@
 import os
 import sqlite3
 from typing import List, Optional, Tuple, Any
-
+current_file_directory = os.path.dirname(os.path.realpath(__file__))
+database_path = os.path.join(current_file_directory, 'property_database')
 class PropertyDatabase:
-    def __init__(self):
-        self.database_name = 'property_db'
+    def __init__(self, database_name = database_path):
+        self.database_name = database_name
         self._create_property_table()
 
     def get_connection(self):
@@ -15,7 +16,7 @@ class PropertyDatabase:
     def _create_property_table(self):
         query = self.get_property_table_definition()
         conn, cursor = self.get_connection()
-        cursor.execute('DROP TABLE if exists property_table')
+        cursor.execute('DROP TABLE if exists property_table ')
         cursor.execute(query)
         conn.commit()
         conn.close()
