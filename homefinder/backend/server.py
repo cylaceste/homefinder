@@ -29,10 +29,11 @@ def get_agent_response(message_history):
 def get_locations():
     query = 'SELECT * FROM property_table;'
     properties, fields = property_database.fetch_query(query)
+    print(properties[0][13], properties[0][14])
     locations = [
         {
-            "latitude": property[14],
-            "longitude": property[15],
+            "latitude": property[13],
+            "longitude": property[14],
             "info": '\n'.join([f"{field_name}: {field_value}" for field_name, field_value in zip(fields, property) if field_name not in {'latitude', 'longitude'}])
             # "info": f"Property Name: {property[1]} \n Description: {property[2]}"
         } for property in properties

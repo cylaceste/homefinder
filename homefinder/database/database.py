@@ -5,6 +5,7 @@ import pandas as pd
 
 current_file_directory = os.path.dirname(os.path.realpath(__file__))
 database_path = os.path.join(current_file_directory, 'property_database')
+property_table_csv = os.path.join(current_file_directory, 'property_table.csv')
 class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
@@ -45,8 +46,8 @@ class Database:
                     laundry TEXT CHECK( laundry IN ('in_suite', 'shared') ),
                     furnished BOOL,
                     pet_friendly BOOL,
-                    longitude DECIMAL(10,7),
                     latitude DECIMAL(10,7),
+                    longitude DECIMAL(10,7),
                     build_year YEAR,
                     smoking_allowed BOOL,
                     air_conditioning BOOL,
@@ -82,7 +83,7 @@ class Database:
                 sql_script = '''
                     INSERT INTO property_table (property_id, property_name, description, num_bedroom, num_bathroom, 
                     area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly,
-                    longitude, latitude, build_year, air_conditioning, hardwood_floors, balcony)
+                    latitude, longitude, build_year, air_conditioning, hardwood_floors, balcony)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     '''
                 record = (row.property_id, 
@@ -98,8 +99,8 @@ class Database:
                     row.laundry,
                     row.furnished,                    
                     row.pet_friendly,
-                    row.longitude,
                     row.latitude,
+                    row.longitude,
                     row.build_year,
                     row.air_conditioning,
                     row.hardwood_floors,
