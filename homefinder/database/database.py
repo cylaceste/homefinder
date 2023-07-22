@@ -10,7 +10,9 @@ class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
         self._create_table()
-        self.convert_csv_to_sql('property_table', property_table_csv)
+        self._convert_csv_to_sql( table_name='property_table', csv_file_name='../database/property_table.csv')
+        self._convert_csv_to_sql( table_name='image_table', csv_file_name='../database/image_table.csv')
+        self._convert_csv_to_sql( table_name='agent_table', csv_file_name='../database/agent_table.csv')
 
     def get_connection(self):
         conn = sqlite3.connect(self.database_name, uri=True)
@@ -65,20 +67,18 @@ class Database:
 
     def get_agent_table_definition(self) -> str:
         return '''CREATE TABLE agent_table (
-                agend_id int not null,
+                agent_id int not null,
                 property_id int not null,
                 primary_email text,
                 primary_phone text,
-                PRIMARY KEY (agend_id),
                 FOREIGN KEY (property_id) REFERENCES property_table(property_id)
             );'''
 
-    def convert_csv_to_sql(self, table_name='property_table', csv_file_name='property_table.csv'):
+    def _convert_csv_to_sql(self, table_name='property_table', csv_file_name='property_table.csv'):
         conn, cursor = self.get_connection()
         sql_script = ""
         if table_name == 'property_table':
             df = pd.read_csv(csv_file_name)
-            print (df.columns.tolist())
             for row in df.itertuples():
                 sql_script = '''
                     INSERT INTO property_table (property_id, property_name, description, num_bedroom, num_bathroom, 
@@ -86,7 +86,6 @@ class Database:
                     latitude, longitude, build_year, air_conditioning, hardwood_floors, balcony)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     '''
-                    #
                 record = (row.property_id, 
                     row.property_name,
                     row.description,
@@ -106,6 +105,29 @@ class Database:
                     row.air_conditioning,
                     row.hardwood_floors,
                     row.balcony)
+                cursor.execute(sql_script, record)
+            conn.commit()
+            conn.close()
+        elif table_name == 'image_table':
+            df = pd.read_csv(csv_file_name)
+            print (df.columns.tolist())
+            for row in df.itertuples():
+                sql_script = '''
+                    INSERT INTO image_table (image_id, property_id, image_type, image_url)
+                    VALUES (?, ?, ?, ?)
+                    '''
+                record = (row.image_id, row.property_id, row.image_type, row.image_url)
+                cursor.execute(sql_script, record)
+            conn.commit()
+            conn.close()
+        elif table_name == 'agent_table':
+            df = pd.read_csv(csv_file_name)
+            for row in df.itertuples():
+                sql_script = '''
+                    INSERT INTO agent_table (agent_id, property_id, primary_email, primary_phone)
+                    VALUES (?, ?, ?, ?)
+                    '''
+                record = (row.agent_id, row.property_id, row.primary_email, row.primary_phone)
                 cursor.execute(sql_script, record)
             conn.commit()
             conn.close()
@@ -150,7 +172,6 @@ class Database:
 
 if __name__ == "__main__":
     sql_class = Database()
-    sql_class.convert_csv_to_sql( table_name='property_table', csv_file_name='../database/property_table.csv')
     data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
     print (data)
     # sql_class.close()
