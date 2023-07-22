@@ -104,6 +104,7 @@ class Database:
                     row.balcony)
                 cursor.execute(sql_script, record)
             conn.commit()
+            conn.close()
         else:
             pass
         return 
