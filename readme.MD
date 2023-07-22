@@ -24,7 +24,7 @@ set OPENAI_KEY=<your_openai_key>
 
 2. Install requirements. From root directory, use your terminal to run:
 ```
-pip install -r homefinder/requirements.txt
+pip install -r homefinder/backend/requirements.txt
 ```
 
 3. Start the server
