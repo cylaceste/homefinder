@@ -25,7 +25,7 @@ def get_locations():
     # For this example, I'm returning a static list of locations
     locations = [
         {
-            "latitude": 51.505,
+            "latitude": 52.505,
             "longitude": -0.09,
             "info": "Location 1"
         },

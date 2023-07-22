@@ -5,9 +5,10 @@ TODO Describe the app
 ## Frontend
 1. Install nodejs from https://nodejs.org/en
 
-2. From the root directory run the following to cd into the frontend application and start it. Be patient!
+2. From the root directory run the following to cd into the frontend application, install packages and start the app. Be patient!
 ```
 cd homefinder/frontend
+npm install
 npm start
 ```
 
