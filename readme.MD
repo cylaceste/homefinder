@@ -29,5 +29,5 @@ pip install -r homefinder/requirements.txt
 
 3. Start the server
 ```
-python homefinder/server.py
+python homefinder/backend/server.py
 ```
