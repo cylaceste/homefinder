@@ -45,5 +45,24 @@ def get_agent_response(message_history):
     # return f"ECHO: {last_user_message}"
     return f"ECHO: {response_content}"
 
+@app.route('/get_locations', methods=['GET'])
+def get_locations():
+    # This is where you'd typically fetch these locations from your database
+    # For this example, I'm returning a static list of locations
+    locations = [
+        {
+            "latitude": 52.505,
+            "longitude": -0.09,
+            "info": "Location 1"
+        },
+        {
+            "latitude": 51.51,
+            "longitude": -0.1,
+            "info": "Location 2"
+        }
+    ]
+    
+    return jsonify(locations)
+
 if __name__ == '__main__':
     app.run(debug=True)
