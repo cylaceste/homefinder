@@ -4,7 +4,7 @@ class sql_db():
     def __init__(self):
         # connect SQL server
         # conn = sq.connect('mysql.db')
-        self.conn = sq.connect("file::memory:?cache=shared")
+        self.conn = sq.connect(":memory:?cache=shared")
         self.c = self.conn.cursor()  
         self.c.executescript('''
             drop table if exists property_table;
