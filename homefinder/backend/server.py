@@ -1,18 +1,23 @@
-from flask import Flask, render_template, jsonify, request
-import openai
-import json
-import concurrent.futures
-import os
+from flask import Flask, request, jsonify
+from flask_cors import CORS
 
-TEMPLATE_DIR: str = os.path.join(os.path.dirname(__file__), 'templates')
-app: Flask = Flask(__name__, template_folder=TEMPLATE_DIR)
+app = Flask(__name__)
+CORS(app)  # Allow requests from your React app
 
-openai.api_key = os.getenv("OPENAI_KEY")
+@app.route('/send_message', methods=['POST'])
+def send_message():
+    message_history = request.get_json()  # Get the message history from the request
 
-@app.route('/', methods=['GET'])
-def index() -> str:
-    return 200, 'Found route!'
+    # Logic for getting agent's response
+    agent_response = get_agent_response(message_history)
 
+    return jsonify({"agent": agent_response})
+
+def get_agent_response(message_history):
+    # Implement your logic for generating the agent's response here
+    # For simplicity, let's just echo back the last user's message
+    last_user_message = [message["user"] for message in message_history if "user" in message][-1]
+    return f"ECHO: {last_user_message}"
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=80)
+    app.run(debug=True)
