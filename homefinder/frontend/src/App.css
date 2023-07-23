@@ -20,3 +20,11 @@
 .message-list .assistant {
   text-align: right;
 }
+
+.logo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 70px;  
+  width: auto;  
+}

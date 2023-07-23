@@ -44,13 +44,29 @@ function MapPage(properties) {
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
             />
-            {locations.map((location, index) => (
-                <Marker key={index} position={[location.latitude, location.longitude]}>
+            {locations.map((location, index) => {
+                let infoWithoutImageUrls = location.info;
+                const imageUrlIndex = infoWithoutImageUrls.indexOf("image_urls: ");
+                if(imageUrlIndex !== -1) {
+                  infoWithoutImageUrls = infoWithoutImageUrls.substring(0, imageUrlIndex);
+                }
+                
+                return (
+                  <Marker key={index} position={[location.latitude, location.longitude]}>
                     <Popup className="large-popup">
-                        <span style={{whiteSpace: "pre-line"}}>{location.info}</span>
+                      <div className="custom-popup-content">
+                        <span style={{whiteSpace: "pre-line"}}>{infoWithoutImageUrls}</span>
+                        {
+                          location.image_urls.split(',').slice(0, 6).map((url, index) => 
+                            <img key={index} src={url} alt="Property" width="50" height="50"/>
+                          )
+                        }
+                      </div>
                     </Popup>
-                </Marker>
-            ))}
+                  </Marker>
+                );
+
+            })}
         </MapContainer>
     );
 }

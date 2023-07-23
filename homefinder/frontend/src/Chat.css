@@ -67,3 +67,22 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+.leaflet-popup-content-wrapper {
+    width: auto !important;
+}
+
+.leaflet-popup-content {
+    width: auto !important;
+}
+
+.custom-popup-content {
+    width: 500px;
+}
+.user-message {
+    background-color: lightgray;
+    align-self: flex-end;
+  }
+  
+  .agent-message {
+    background-color: lightcoral;
+  }
