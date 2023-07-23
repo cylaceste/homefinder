@@ -174,4 +174,3 @@ if __name__ == "__main__":
     sql_class = Database()
     data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
     print (data)
-    # sql_class.close()
