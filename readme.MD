@@ -1,8 +1,11 @@
 
 # TODO 
 Describe the app
+
 Finish Front end and beautify
+
 Add more info to database
+
 
 # homefinder
 
