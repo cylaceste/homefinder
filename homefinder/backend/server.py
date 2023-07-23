@@ -25,43 +25,28 @@ app = Flask(__name__)
 CORS(app)  # Allow requests from your React app
 property_database = Database()
 "Store prompt components to keep things DRY"
-pc = {"preamble": """You are a real estate assistant helping guide a user buy or rent a home in Calgary or Edmonton. 
+pc = {"preamble": """You are a real estate assistant helping guide a user buy or rent a home in Edmonton. 
 Your task is to return a JSON formatted string without any additional text.
 Do not include any introductory or concluding text. Your response should be strictly 
 the JSON formatted string.""",
     "schema": f"""The schema for the database is {property_database.get_database_definition()}.""",
-    "query_for_info": f"""You can, optionally, query the {DATABASE_TYPE} database by returning a
-response that looks like json formatted string 
-like {{"query_for_info": your_db_query_here}} and with no other keys or text, then system
-will run this query on the database and return the information to you. 
-your_db_query_here must be a {DATABASE_TYPE} query that uses things that would exist
-based on the provided schema. Remember to limit your query with a LIMIT 10 or something similar
-or it will be too much info to pass back. Only do this if you need information, for example, 
-an agents phone number or to retrieve information to answer a query from the user or 
-a hunch you might have.""",
-    "query_response": f"""You can respond back to the user by providing a json formatted string
-that has the form {{"sql_query": sql_query, "assistant_response": assistant_response}} with
-no other keys or text other than what's in the json.
-For sql_query, given the database schema and the conversation with the user, and any
-information you received from system, write a sql_query to fetch 10 properties 
-and the following columns: latitude, longitude, property_description. Each database will be different 
-and these columns may appear under different names, so be sure to rename the columns in the schema 
-to these names. Also, return an image_urls column which contains a comma-separated list of all image urls 
-which belong to each property. Return any additional columns the user might be interested in. 
-Avoid columns that are not needed, probably the table keys, etc.
-Be sure to add a where clause which filters based on information from the conversation with the user.
-When writing join statements, be sure to include which table each column is coming from.
-Remember that the only columns you can use are from the schema, so be creative. For example,
-if the user asks for homes in Edmonton or Calgary, use the latitude and longitude in a where
-clause to box these cities in.
-For the assistant_response, explain that you're showing them properties you think they might 
-be interested in, along with an explanation of what kind of homes you're showing based on the filter 
-in the WHERE clause and why you picked each filter. Then, prompt the user with a question based on the database schema 
-which will help you refine your query further and explain why you're asking that question. 
-Prioritize questions that a real estate agent might ask, such as whether they plan to buy or rent,
-or their budget
-If you don't have enough information to do this, create a generic sql_query of homes and 
-prompt the user for more information."""}
+    "query_for_info": f"""
+Optionally, you can query the {DATABASE_TYPE} database. To do this, provide a JSON string in the format {{"query_for_info": your_db_query_here}}. The system will execute the query and return the results. 
+
+Ensure that 'your_db_query_here' is a valid {DATABASE_TYPE} query, based on the provided schema. To manage the data volume, limit your query with a 'LIMIT 10' or similar clause. 
+
+Use this feature if you need specific details, such as an agent's phone number, or to respond to user queries based on a particular hunch.
+""",
+    "query_response": f"""
+To respond, provide a JSON string with the format {{"sql_query": sql_query, "assistant_response": assistant_response}}. 'sql_query' should be a query that fetches 10 properties with the columns: latitude, longitude, and property_description. Ensure to include these regardless of the query. Based on the database schema, rename these columns if needed. Also include an 'image_urls' column with a comma-separated list of images for each property. 
+
+Include additional columns if relevant to the user but avoid unnecessary ones like table keys. Make sure to filter the data based on user conversation using a WHERE clause. Specify the table source when joining statements, and remember to use only columns from the schema. Creativity is key; for instance, if a user wants properties in Edmonton or Calgary, use the latitude and longitude to define these areas in your WHERE clause.
+
+'assistant_response' should describe the properties shown and why they were chosen based on the filters used. It should also pose a question to the user that will help refine your query, explaining why the question is necessary. Prioritize questions that a real estate agent would ask, like intent to buy or rent and budget. 
+
+If you lack sufficient data, generate a generic query and ask the user for more details.
+"""
+}
 
 @app.route('/send_message', methods=['POST'])
 def send_message():
@@ -96,6 +81,7 @@ def get_agent_response(message_history: List[Dict[str, str]]):
         response_dict: Dict[str, str] = ast.literal_eval(response_content)
         query_for_info = response_dict.get('query_for_info', '')
         if query_for_info:
+            print('query for info:', query_for_info)
             sql_query_result = json.dumps(property_database.fetch_query(query_for_info))
             # Remove the query_for_info prompt component
             # Presumably we don't want to query the database multiple times
@@ -107,6 +93,7 @@ def get_agent_response(message_history: List[Dict[str, str]]):
                 })
         else:
             query_from_gpt = response_dict.get('sql_query', '')
+            print('query_from_gpt:', query_from_gpt)
             response_payload = {"properties": get_locations(query_from_gpt) if query_from_gpt else [],
             "message_history": message_history + [{"role": "assistant", "content": response_dict['assistant_response']}]
             }

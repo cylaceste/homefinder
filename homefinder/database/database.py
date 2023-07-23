@@ -194,8 +194,8 @@ if __name__ == "__main__":
     # GROUP BY property_table.property_id
     # LIMIT 10;
     # '''
-    query = "SELECT * from property_table where price < 2000"
-    # query = "SELECT property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id LIMIT 10;"
+    # query = "SELECT * from property_table where price < 2000"
+    query = "SELECT property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id LIMIT 10;"
     data = sql_class.fetch_query(query=query)[0]
     print(data)
     # print(sql_class.get_database_definition())
