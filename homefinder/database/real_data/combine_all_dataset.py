@@ -1,6 +1,7 @@
 import pandas as pd
 
-file_list = ['rent_1', 'sales_1']
+file_list = ['rent_1', 'sale_1', 'sale_2', 'sale_3', 'sale_4', 'sale_5',
+'sale_6', 'sale_7', 'sale_8', 'sale_9', 'sale_10']
 target_path = '../'
 property_table_files = []
 image_table_files = []

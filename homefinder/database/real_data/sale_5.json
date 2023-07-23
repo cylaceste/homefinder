@@ -1,0 +1,1003 @@
+{
+  "responseStatus": 0,
+  "totalRecords": 3439,
+  "totalPages": 125,
+  "properties": [
+    {
+      "mlsId": 12001038,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3647 75 Street",
+      "address2": "Edmonton,  AB T6K 0L5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6K 0L5",
+      "subDivision": "Lee Ridge",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Lee Ridge"
+      },
+      "price": "$409,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1273,
+      "acreage": 0.16,
+      "lotSizeSqFt": 6872.32,
+      "daysOnSite": 3,
+      "yearBuilt": "1973",
+      "dateAdded": "7/21/2023",
+      "description": "Excellent South east of Edmonton this clean Bungalaow offers 1273 sq ft 5 bedroom 3 up and 2 down backing directly onto Lee Ridge Park and School. Huge lot over 6500 sqft with ample space between the back of the house to garage . Entrance starts with Front living room and dining right next to it and there you are steps away for the open concept kitchen. Original kitchen with dinette area and patio doors that lead to the spacious East Facing Back yard. Three Bedrooms Upstairs. Master has a 2 piece ensuite and a big window in master bedroom. Main floor offers an other Full washroom.  Basement is fully developed (tons of storage) with large rumpus room and 2 more bedrooms both with windows. Upgrades include: Funace 2016, Hot Water Tank 2019, Shingles on House and Garage 2020. Separate entrance from the back of the home would make creation of an in law suite highly possible. Large Double Detached garage and long driveway for parking extra vehicles, NOT to forget there ia a SEPARATE ENTRANCE to finished basmnt",
+      "photos": {
+        "count": 46,
+        "width": 300,
+        "height": 169,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689993627/83/83_E4351132_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351132",
+      "detailUrl": "/property-search/detail/83/E4351132/3647-75-street-edmonton-ab-t6k-0l5/",
+      "recordNumber": 49,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Initia Real Estate",
+        "phone": "780-705-5393"
+      },
+      "agent": {
+        "name": "Mir Khan",
+        "phone": ""
+      },
+      "lat": "53.470075",
+      "lon": "-113.448936",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000898,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "# 7715 130 Ave",
+      "address2": "Edmonton,  AB T5C 1Y3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5C 1Y3",
+      "subDivision": "Balwin",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Balwin"
+      },
+      "price": "$388,800",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1081,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "1961",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome home to this beautiful 4-bedroom, 2-bathroom bungalow in the heart of Balwin, Edmonton! This well-maintained residence features quartz countertops throughout, giving it a touch of modern elegance. The property also boasts a high-efficiency furnace and hot water system installed in 2021, ensuring energy efficiency and comfort.  Additional highlights include new shingles on the garage and newer ones on the house, providing peace of mind and protection for years to come. With its thoughtful updates and practical layout, this single-family home is perfect for families and individuals alike.  Don't miss the chance to own this gem in Balwin. Come and see it today!",
+      "photos": {
+        "count": 19,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689993626/83/83_E4351130_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351130",
+      "detailUrl": "/property-search/detail/83/E4351130/7715-130-ave-edmonton-ab-t5c-1y3/",
+      "recordNumber": 50,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Professionals",
+        "phone": "780-458-8300"
+      },
+      "agent": {
+        "name": "Jenna Message",
+        "phone": ""
+      },
+      "lat": "53.589307",
+      "lon": "-113.458477",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000899,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "14620 59 Street",
+      "address2": "Edmonton,  AB T5A 1Y2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5A 1Y2",
+      "subDivision": "Mcleod",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Mcleod"
+      },
+      "price": "$274,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1046,
+      "acreage": 0.15,
+      "lotSizeSqFt": 6597.73,
+      "daysOnSite": 3,
+      "yearBuilt": "1968",
+      "dateAdded": "7/21/2023",
+      "description": "Mcleod Bungalow! Perfect for first time homeowners or investors. facing the park and school in Mcleod, 3  bedroom in main level plus one in the basement, huge living room in main level and family room in the fully finished basement, 2 full bath rooms, oversized double detached garage and long driveway for RV parking. very convenient location, close to all shopping, schools and public transportation. Only minutes from the Henday & Yellowhead, So much potential throughout!",
+      "photos": {
+        "count": 19,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689993627/83/83_E4351129_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351129",
+      "detailUrl": "/property-search/detail/83/E4351129/14620-59-street-edmonton-ab-t5a-1y2/",
+      "recordNumber": 51,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Real Estate",
+        "phone": "780-488-4000"
+      },
+      "agent": {
+        "name": "Walter Diduck",
+        "phone": ""
+      },
+      "lat": "53.60912",
+      "lon": "-113.432201",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000900,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "14105 47 Avenue",
+      "address2": "Edmonton,  AB T6H 0B8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6H 0B8",
+      "subDivision": "Brookside",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Brookside"
+      },
+      "price": "$874,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 2,
+        "half": 2,
+        "threeQuarter": -1
+      },
+      "sqft": 2614,
+      "acreage": 0.25,
+      "lotSizeSqFt": 10697.81,
+      "daysOnSite": 3,
+      "yearBuilt": "1975",
+      "dateAdded": "7/21/2023",
+      "description": "Gorgeous home in desirable Brookside.  Steps to the ski hill, river valley , Brookside School and easy access to Whitemud Drive, the Anthony Henday, U of A and University hospital. Pride of ownership!! Many upgrades and renovations over time.  Furnace, roof, eaves, windows, hardwood floors, slate and travertine flooring,  kitchen, bathrooms, huge deck, pergola and patio areas.  Home had an addition providing huge FR, kitchen, eating area +++++ with so many windows overlooking south facing PRIVATE mature backyard.  Lot 993.82.  Additional windows added to formal LR,  garden patio door added in formal Dr. to deck. 4 huge bedrooms up, hardwood floors throughout, renovated baths, 2nd fireplace in developed basement, recreation, and game area, extra bedroom and bath..  Double attached, heated garage, shed and greenhouse plus even more...... Beautiful in Brookside!!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 199,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689993626/83/83_E4351128_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351128",
+      "detailUrl": "/property-search/detail/83/E4351128/14105-47-avenue-edmonton-ab-t6h-0b8/",
+      "recordNumber": 52,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Elite",
+        "phone": "780-406-4000"
+      },
+      "agent": {
+        "name": "Sharon Campbell",
+        "phone": ""
+      },
+      "lat": "53.484305",
+      "lon": "-113.564659",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000775,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "483 Ronning Street",
+      "address2": "Edmonton,  AB T6R 1B6",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6R 1B6",
+      "subDivision": "Rhatigan Ridge",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Rhatigan Ridge"
+      },
+      "price": "$1,150,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 3035,
+      "acreage": 0.2,
+      "lotSizeSqFt": 8824.25,
+      "daysOnSite": 3,
+      "yearBuilt": "1989",
+      "dateAdded": "7/21/2023",
+      "description": "Meticulously cared for, this family home in the heart of Terwillegar Park Estates is just steps to the river valley pathway system, biking trails, and the Terwillegar dog park. Notice the vaulted ceiling, curved staircase, two fireplaces, gourmet kitchen, and bright sunroom. Fabulous laundry room and 1/2 bath of the oversized 2-car garage with epoxy flooring and ample storage. Room for all the family with 4 bdrms up, a 4 piece bath and 5 pce master ensuite. Dream entertaining space in the lower level with 5th bedroom and 3 pce bath... Even a bonus summer kitchen. Enjoy your large composite deck in the treed backyard, sunny front patio, raised garden beds and roon for your RV in this large lot. Quiet yet conveniently located to all school levels and shopping, with easy access to major arteries. So much to love!",
+      "photos": {
+        "count": 39,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689990022/83/83_E4351126_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351126",
+      "detailUrl": "/property-search/detail/83/E4351126/483-ronning-street-edmonton-ab-t6r-1b6/",
+      "recordNumber": 53,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Elite",
+        "phone": "780-406-4000"
+      },
+      "agent": {
+        "name": "Denis Rowley",
+        "phone": ""
+      },
+      "lat": "53.474549",
+      "lon": "-113.594578",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000774,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "5303 106 Street",
+      "address2": "Edmonton,  AB T6H 2T2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6H 2T2",
+      "subDivision": "Pleasantview (Edmonton)",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Pleasantview (Edmonton)"
+      },
+      "price": "$359,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1058,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "1960",
+      "dateAdded": "7/21/2023",
+      "description": "5 bedroom 1050 sq ft bungalow with a fully finished basement. 3 bedrooms up 2 down.  Nice starter or revenue property.  Upgrades include most windows replaced, newer kitchen and back splash, bathroom upgrade, flooring, shingles on the house and garage, interior and exterior doors, deck, garage door, new concrete garage driveway pad. Back door leads to basement and upper level, has potential for basement suite. Large recreation room in basement.  Room for a garden or RV parking. 22'x24' detached garage. Close to buses, parks and schools, shopping, including Southgate Mall and the Whitemud. Great older neighbourhood.",
+      "photos": {
+        "count": 33,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689990023/83/83_E4351125_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351125",
+      "detailUrl": "/property-search/detail/83/E4351125/5303-106-street-edmonton-ab-t6h-2t2/",
+      "recordNumber": 54,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Century 21 Leading",
+        "phone": "780-962-9696"
+      },
+      "agent": {
+        "name": "Barry Twynam",
+        "phone": ""
+      },
+      "lat": "53.490009",
+      "lon": "-113.504206",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000708,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "4401 116 Avenue",
+      "address2": "Edmonton,  AB T5W 0X2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5W 0X2",
+      "subDivision": "Beverly Heights",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Beverly Heights"
+      },
+      "price": "$239,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 2,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 759,
+      "acreage": 0.14,
+      "lotSizeSqFt": 6239.73,
+      "daysOnSite": 3,
+      "yearBuilt": "1956",
+      "dateAdded": "7/21/2023",
+      "description": "ATTENTION FLIPPERS AND DEVELOPERS. 52x120 ft CORNER LOT surrounded by large mature trees and offers desirable SOUTH BACKING EXPOSURES. Home offers ORIGINAL HARDWOOD FLOORS, UPDATED TILE FLOORING, UPDATED BATH, NEWER ASPHALT SHINGLE ROOF, NEWER FURNACE (2016), NEWER HOT WATER TANK, and 100 AMP electrical upgrade as well. OVERSIZED DOUBLE DETACHED GARAGE. Steps from both Beverly Heights Park & Lawton Junior High School. Home is being sold in as-is, where is condition.",
+      "photos": {
+        "count": 20,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689990024/83/83_E4351122_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351122",
+      "detailUrl": "/property-search/detail/83/E4351122/4401-116-avenue-edmonton-ab-t5w-0x2/",
+      "recordNumber": 55,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Sable Realty",
+        "phone": "780-429-4168"
+      },
+      "agent": {
+        "name": "Shane Gwilliam",
+        "phone": ""
+      },
+      "lat": "53.568225",
+      "lon": "-113.409391",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000397,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "Address Withheld",
+      "address2": "Edmonton,  AB T6R 3G3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6R 3G3",
+      "subDivision": "Patricia Heights",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Patricia Heights"
+      },
+      "price": "$309,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1191,
+      "acreage": 0.17,
+      "lotSizeSqFt": 7605.56,
+      "daysOnSite": 3,
+      "yearBuilt": "1968",
+      "dateAdded": "7/21/2023",
+      "description": "This nearly 1200 sqft home is in need of work but located in the beautiful community of Patricia Heights. There is so much potential and some hard work could really pay off! The home is situated on a massive pie lot and there is a double detached garage. The home has 3 bedrooms on the main floor and the primary also has a 3 piece ensuite. A 4 piece main bathroom, large living room, dining room and kitchen complete the main floor of this home.",
+      "photos": {
+        "count": 22,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689986391/83/83_E4351121_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351121",
+      "detailUrl": "/property-search/detail/83/E4351121/address-withheld-edmonton-ab-t6r-3g3/",
+      "recordNumber": 56,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Royal Lepage Noralta Real Estate",
+        "phone": "780-998-7801"
+      },
+      "agent": {
+        "name": "Amanda Crow",
+        "phone": ""
+      },
+      "lat": "",
+      "lon": "",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000395,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "814 Lee Ridge Road",
+      "address2": "Edmonton,  AB T6P 0P8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6P 0P8",
+      "subDivision": "Lee Ridge",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Lee Ridge"
+      },
+      "price": "$424,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1517,
+      "acreage": 0.18,
+      "lotSizeSqFt": 7926.43,
+      "daysOnSite": 3,
+      "yearBuilt": "1975",
+      "dateAdded": "7/21/2023",
+      "description": "Family Sized Bungalow! Terrific, well maintained home on Lee Ridge Crescent in South Edmonton. This home boasts a total of 2900 Sq Ft of living space. The main floor features a large living room with a corner, brick facing, wood burning fireplace, adjacent is the dining area and kitchen. It has 3 generous bedrooms, a 5-pce family bath & a 3-pce ensuite.. Completed with main floor laundry. The developed basement has a 2nd kitchen, a family room with a 2nd fireplace, 2 additional bedrooms, a 3-pce bath, a storage room & separate utility room. This well maintained home has numerous upgrades. Parking is in the O/S double attached garage with direct access to the house. The home sits on a 7900 sq ft pie shaped, fully fenced lot in a quiet well maintained cul de sac. It is beautifully landscaped, the backyard is a gorgeous private oasis with a large deck & sunroom. Situated in Lee Ridge with great access to public transportation, excellent schools and much more. A great place to call home!",
+      "photos": {
+        "count": 47,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689986392/83/83_E4351119_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351119",
+      "detailUrl": "/property-search/detail/83/E4351119/814-lee-ridge-road-edmonton-ab-t6p-0p8/",
+      "recordNumber": 57,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Royal Lepage Noralta Real Estate",
+        "phone": "780-431-5600"
+      },
+      "agent": {
+        "name": "Doug Singleton",
+        "phone": ""
+      },
+      "lat": "53.473603",
+      "lon": "-113.440023",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000159,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3471 Cutler Crescent",
+      "address2": "Edmonton,  AB T6W 2B3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 2B3",
+      "subDivision": "Chappelle Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Chappelle Area"
+      },
+      "price": "$500,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1596,
+      "acreage": 0.09,
+      "lotSizeSqFt": 4080.81,
+      "daysOnSite": 3,
+      "yearBuilt": "2013",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to your dream home in Chappelle! This stunning property boasts a pie lot and an oversized 22x24 double garage, providing ample space for your family's needs. The openness of the main floor welcomes you as you enter, with large windows throughout the home with ample natural light, creating a warm and inviting atmosphere. The kitchen is a chef's delight with granite countertops and an under-mount sink, while the main floor's hardwood floors exude elegance. Stay comfortable year-round with air conditioning, and revel in the professionally developed basement featuring an additional bedroom with a walk-in wrap-around closet and plenty of storage space. For optimal rest, all bedrooms are equipped with blackout blinds. With over 2,200 SF of living space, this clean, well-maintained, and pet/smoke-free home offers the perfect canvas for your personalized touches. Plus, you'll love the convenience of being within walking distance to parks, making outdoor activities a breeze. Your ideal home awaits!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689986414/83/83_E4351114_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351114",
+      "detailUrl": "/property-search/detail/83/E4351114/3471-cutler-crescent-edmonton-ab-t6w-2b3/",
+      "recordNumber": 58,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Challenge Realty",
+        "phone": "780-483-4848"
+      },
+      "agent": {
+        "name": "Moe Yassine",
+        "phone": ""
+      },
+      "lat": "53.404657",
+      "lon": "-113.568792",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000032,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "6020 Maynard Way",
+      "address2": "Edmonton,  AB T6R 0P6",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6R 0P6",
+      "subDivision": "Mactaggart",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "MacTaggart"
+      },
+      "price": "$799,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2746,
+      "acreage": 0.16,
+      "lotSizeSqFt": 7062.3,
+      "daysOnSite": 3,
+      "yearBuilt": "2009",
+      "dateAdded": "7/21/2023",
+      "description": "Discover the charm of this traditional two-storey gem boasting four bedrooms, potentially five, in the sought-after MacTaggart community. As you enter, be captivated by the grand two-storey vaulted entry and gleaming hardwood floors. The main level offers a living room, formal dining room, and a spacious den with french doors. The family room features a gas fireplace and adjoins a bright nook, while the kitchen boasts granite countertops, complemented by an oversized walk-in pantry. Ascend the  curved staircase to the upper level, where a spacious primary suite awaits, featuring a luxurious 5-piece ensuite with a jetted tub. Two additional bedrooms share a Jack-n-Jill ensuite, while a generous bonus room with double doors offers privacy for your leisure activities. The basement, with  a separate entrance, is equipped with a bedroom and bathroom and provides even more flexibility and space for your family's needs. Backing the school and greenspace offers easy access for school-going children!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982924/83/83_E4351113_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 1,
+        "date": "Sunday, July 23, 2023",
+        "time": "2:00 PM - 4:00 PM"
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351113",
+      "detailUrl": "/property-search/detail/83/E4351113/6020-maynard-way-edmonton-ab-t6r-0p6/",
+      "recordNumber": 59,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "More Real Estate",
+        "phone": "780-757-5000"
+      },
+      "agent": {
+        "name": "Darlene Reid",
+        "phone": ""
+      },
+      "lat": "53.441316",
+      "lon": "-113.558555",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12000031,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "4913 Terwillegar Common",
+      "address2": "Edmonton,  AB T6R 0P5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6R 0P5",
+      "subDivision": "South Terwillegar",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "South Terwillegar"
+      },
+      "price": "$418,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1815,
+      "acreage": 0.05,
+      "lotSizeSqFt": 2067.1,
+      "daysOnSite": 3,
+      "yearBuilt": "2008",
+      "dateAdded": "7/21/2023",
+      "description": "A rare find in Heart of Terwillegar South community with NO CONDO FEES & NO HOA, Boosting over 2400sqft of living space with 4 FINISHED LEVEL. 4 bedroom and 3.5 Washroom with a GAS FIREPLACE on main floor with a spacious Kitchen and Half Washroom, HUGE COMPOSITE DECK and Double Detached garage with no landscaping maintenance required. Many Customization in the house including KITCHEN COUNTERS TOP, ITALIAN TILE FLOORING. Upstairs is PRIVATE MASTER SUITE with 5 PIECE HUGE WASHROOM. Book your showing today before its gone.",
+      "photos": {
+        "count": 48,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982811/83/83_E4351112_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Residential Attached",
+      "mlsRegionId": 83,
+      "mls": "E4351112",
+      "detailUrl": "/property-search/detail/83/E4351112/4913-terwillegar-common-edmonton-ab-t6r-0p5/",
+      "recordNumber": 60,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Aditya Batra",
+        "phone": ""
+      },
+      "lat": "53.443867",
+      "lon": "-113.574632",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    }
+  ]
+}

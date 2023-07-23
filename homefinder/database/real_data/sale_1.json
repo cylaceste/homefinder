@@ -1,0 +1,1003 @@
+{
+  "responseStatus": 0,
+  "totalRecords": 3437,
+  "totalPages": 125,
+  "properties": [
+    {
+      "mlsId": 12005064,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1936 Chapman Road SW, Edmonton, Alberta",
+      "address2": "Edmonton,  AB T6W 0Y7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 0Y7",
+      "subDivision": "Chappelle Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Chappelle Area"
+      },
+      "price": "$529,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2079,
+      "acreage": 0.1,
+      "lotSizeSqFt": 4197.92,
+      "daysOnSite": 1,
+      "yearBuilt": "2012",
+      "dateAdded": "7/23/2023",
+      "description": "Welcome to Chapelle Gardens! This beautiful family home features 4 bedrooms PLUS a den, 2.5 bathrooms, Almost 2100 sqft of living space and oversized double attached garage. Entering the home, sandblasted doors lead into a den which makes a perfect home office space! You will see 9 ft ceilings, and hardwood & tile flooring throughout the main floor. The kitchen is beautifully finished with granite counters, crown moulding, a prep island, new top of the line stainless steel appliances, eating bar, ceramic tile backsplash, a walk-through pantry, and a spacious breakfast nook! The living room boasts a beautiful gas fireplace. A laundry room/mudroom and a 2 piece bathroom complete the main floor. Retreat to the spacious master suite, which features a 4 piece ensuite with a separate soaker tub and shower, and a walk-in closet. The 2nd, 3rd, and 4th bedrooms are all a good size, and the large bonus room is the perfect place to relax with the family while you enjoy the convenience of central AIR CONDITIONING!",
+      "photos": {
+        "count": 35,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690137749/83/83_E4351240_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351240",
+      "detailUrl": "/property-search/detail/83/E4351240/1936-chapman-road-sw-edmonton-alberta-edmonton-ab-t6w-0y7/",
+      "recordNumber": 1,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Exp Realty",
+        "phone": "403-262-7653"
+      },
+      "agent": {
+        "name": "Hasan Raza",
+        "phone": ""
+      },
+      "lat": "53.407572",
+      "lon": "-113.575534",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 1,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12005040,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1726 Adamson Crescent",
+      "address2": "Edmonton,  AB T6W 1Z4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 1Z4",
+      "subDivision": "Allard",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Allard"
+      },
+      "price": "$1,179,999",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 5,
+        "full": 4,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 3420,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 1,
+      "yearBuilt": "2011",
+      "dateAdded": "7/23/2023",
+      "description": "Immaculate WALK-OUT Executive Estate Home w/ spectacular views of the expansive backyard overlooking the Blackmud Creek - your sanctuary awaits! Be impressed w/ 4 SEASON SOLARIUM w/dbl sided F/P & fully enclosed swim spa (hot tub & 4ft deep swim tank). Boasting 5 bdrms + 4.5 baths this home has room for the whole family. Top floors boasts 4 large bedrooms, 3 full baths (1 ensuite, Jack & Jill) & fully enclosed den. LUXURIOUS Primary suite is gorgeous & massive plus offers a retreat to relax w/ walk-in closet & OPULENT 5-pc ensuite w/ body spray shower & basin tub. Boasting A/C, 2 hot water tanks, 2 furnaces, in-floor heating in ensuite, HEPA filter, 2 glass railing balconies, aggregate flooring, built-in custom cabinets in office, Hunter Douglas blinds, fully finished walk-out basement w/ 5th bedroom, wet bar, family room & 3pc bath. Quick access to EIA, QE2, Henday & Ellerslie.",
+      "photos": {
+        "count": 30,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690137749/83/83_E4351238_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351238",
+      "detailUrl": "/property-search/detail/83/E4351238/1726-adamson-crescent-edmonton-ab-t6w-1z4/",
+      "recordNumber": 2,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Homes & Gardens Real Estate Limited",
+        "phone": "780-436-1162"
+      },
+      "agent": {
+        "name": "Tennille Sydor",
+        "phone": ""
+      },
+      "lat": "53.402227",
+      "lon": "-113.513531",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 1,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004960,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "377 Orchards Boulevard",
+      "address2": "Edmonton,  AB T6X 2B7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6X 2B7",
+      "subDivision": "The Orchards At Ellerslie",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "The Orchards At Ellerslie"
+      },
+      "price": "$365,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1249,
+      "acreage": 0.05,
+      "lotSizeSqFt": 2172.8,
+      "daysOnSite": 1,
+      "yearBuilt": "2016",
+      "dateAdded": "7/23/2023",
+      "description": "BRIGHT & ELEGANT - 2 storey, 3 bed, 2.5 bath, half-duplex located in front of Orchards Park and minutes walk to school. Enjoying large windows throughout providing a flood of natural light. Come with brand new Luxury Vinyl Plank flooring on main level and new carpet on second floor. The main floor is excellent for hosting and entertaining with an open concept floor that has a generous size living room, dinning room, and plenty of space in kitchen for cooking & hosting. Second floor offers a private master bedroom with large walk-in-closet and 4pc ensuite. An additional 2 bedrooms, 4 pc bath & convenient upstairs laundry. Double detached garage and fully fenced & landscaped backyard. Located in the family friendly neighborhood of The Orchards at Ellerslie close to all amenities. Walking distance to Jan Reimer K-9 school, within minutes to the community clubhouse, walking trails, bus routes, shopping, and so much more  A must see!",
+      "photos": {
+        "count": 29,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690134167/83/83_E4351237_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351237",
+      "detailUrl": "/property-search/detail/83/E4351237/377-orchards-boulevard-edmonton-ab-t6x-2b7/",
+      "recordNumber": 3,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Mozaic Realty Group",
+        "phone": "780-905-3008"
+      },
+      "agent": {
+        "name": "Mina Gayed",
+        "phone": ""
+      },
+      "lat": "53.407973",
+      "lon": "-113.459686",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 1,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004857,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "12436 75 Street",
+      "address2": "Edmonton,  AB T5B 2C2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5B 2C2",
+      "subDivision": "Elmwood Park",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Elmwood Park"
+      },
+      "price": "$325,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 7,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1898,
+      "acreage": 0.13,
+      "lotSizeSqFt": 5502.83,
+      "daysOnSite": 1,
+      "yearBuilt": "1959",
+      "dateAdded": "7/23/2023",
+      "description": "Fantastic investment property or perfect home for a large family in Elmwood Park. Less than 15 minutes from downtown. 7 Bedrooms, 3 full bathrooms and 3 kitchens including a legal 2 bedroom suite in the basement. Substantial renovations to the property include New windows, flooring throughout, new kitchen/bath on the main floor, and a renovated basement suite. Main and upper level are currently vacant but were bringing in $1700 per month in rent, and the basement is currently rented for $950 per month. Total income was $2,650 per month with tenants splitting the utilities. You could live upstairs with 4 bedrooms and 2 full baths and continue renting out the basement, or rent the whole thing out for a healthy cashflow of about $600 per month with 20% down and a 6% interest 25 year amortization mortgage. (Imagine what it would be once rates go down). The house could benefit from some fresh paint, new shingles and new high efficiency furnaces... but even as is offers excellent value for the dollar!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690130546/83/83_E4351234_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351234",
+      "detailUrl": "/property-search/detail/83/E4351234/12436-75-street-edmonton-ab-t5b-2c2/",
+      "recordNumber": 4,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Yegpro Realty",
+        "phone": "780-457-5657"
+      },
+      "agent": {
+        "name": "Trevor Tardif",
+        "phone": ""
+      },
+      "lat": "53.581021",
+      "lon": "-113.457287",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 1,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004535,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3105 31 Avenue",
+      "address2": "Edmonton,  AB T6T 1W8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6T 1W8",
+      "subDivision": "Silver Berry",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Silver Berry"
+      },
+      "price": "$299,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 1,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1119,
+      "acreage": 0.07,
+      "lotSizeSqFt": 3141.55,
+      "daysOnSite": 2,
+      "yearBuilt": "2004",
+      "dateAdded": "7/22/2023",
+      "description": "Affordable Half Duplex. Attention first time home buyers. Even with interest increase, this is still an affordable home in a great location close by many amenities and walking trails in a family friendly community. Better than renting because you are in charge of your expenses. The home would benefit from some TLC but that is where you can build some sweat equity in your home if you want it. Fancy a project, then the upstairs master bed closet is so large you may consider to turn it into an en-suite and really add value or if you rather, you could finish the basement if you feel that is an easier project to tackle. Main level features corner gas fireplace to add ambience when you want it. Kitchen has lots of cupboards and counter space so you have a lot of area when it comes to prep food. Sunny south facing deck and rear yard provides an ideal place if you like to grow things plus there is double detached garage with rear lane access.",
+      "photos": {
+        "count": 36,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690090905/83/83_E4351226_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351226",
+      "detailUrl": "/property-search/detail/83/E4351226/3105-31-avenue-edmonton-ab-t6t-1w8/",
+      "recordNumber": 5,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Coldwell Banker Venture Realty",
+        "phone": "780-483-0601"
+      },
+      "agent": {
+        "name": "Selena Cheung",
+        "phone": ""
+      },
+      "lat": "53.461217",
+      "lon": "-113.384678",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004528,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1012 56 Street",
+      "address2": "Edmonton,  AB T6L 1Y3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6L 1Y3",
+      "subDivision": "Sakaw",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Sakaw"
+      },
+      "price": "$375,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1090,
+      "acreage": 0.13,
+      "lotSizeSqFt": 5699.27,
+      "daysOnSite": 2,
+      "yearBuilt": "1983",
+      "dateAdded": "7/22/2023",
+      "description": "SECOND KITCHEN| SEPARATE ENTRANCE| FULL MASTER ENSUITE. This home will tick everything on your check list. This very well cared for home is located in Millwoods near schools, shopping and many other amenities close by, all within walking distance too. Located in the desireable neighborhood of Sakaw near the GREY NUNS HOSPITAL and MILLWOODS TOWN CENTER. Well maintained and fenced back yard is backing onto a green space with walk way! Upon entrance you will be greeted with neautral colors throughout the home which is complimented with a unique layout, a large well laid out living room, perfect for entertaining your guests, a spacious kitchen with dining area, 3 very decent sized bedrooms of which the master has a FULL 3 PIECE ENSUITE. Yes! you got that right...a full ensuite with a shower. The basement is FULLY FINISHED with a SECOND KITCHEN and a SEPARATE ENTRANCE. There is 1 bedroom, a den, full bathroom with a JACUZZI and a spacious LIVING ROOM which finishes off the basement. This beauty is a must see!",
+      "photos": {
+        "count": 1,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690090905/83/83_E4351225_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351225",
+      "detailUrl": "/property-search/detail/83/E4351225/1012-56-street-edmonton-ab-t6l-1y3/",
+      "recordNumber": 6,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Elite",
+        "phone": "780-464-4100"
+      },
+      "agent": {
+        "name": "Nancy Narayan",
+        "phone": ""
+      },
+      "lat": "53.43826",
+      "lon": "-113.426184",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004490,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "11920 152B Avenue",
+      "address2": "Edmonton,  AB T5X 1G4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5X 1G4",
+      "subDivision": "Caernarvon",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Caernarvon"
+      },
+      "price": "$469,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1281,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 2,
+      "yearBuilt": "1973",
+      "dateAdded": "7/22/2023",
+      "description": "Completely Renovated with a SECOND KITCHEN. 4 Bedrooms, 2.5 bathrooms beautiful Bungalow home in Caernarvon community. Upstairs welcomes you with 3 bedrooms an ensuite and a spacious living room featuring vaulted ceilings and a stone facing fireplace. Enter the French doors into a Modern kitchen with BRAND NEW SS APPLIANCES, white cabinets with quarts counter top with custom island and Ceramic Tile flooring. NEW PAINT, NEW FLOORING, NEW WINDOWS  & CHANDELIER lighting throughout the home. Basement with Kitchen, living room and a huge bedroom. Backyard beautifully landscaped and fenced ready for family BBQs and events with double garage and abundance parking. This home features uncompromising design, master craftsmanship and finishes. An exquisite home that blend seamlessly to create a masterpiece while embracing the comfort and convenience of today's modern lifestyle. Inviting, warm, private & spectacularly beautiful. Walking distance from many amenities, YMCA, parks and schools. COME SEE YOUR NEW HOME.",
+      "photos": {
+        "count": 49,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690087815/83/83_E4351223_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351223",
+      "detailUrl": "/property-search/detail/83/E4351223/11920-152b-avenue-edmonton-ab-t5x-1g4/",
+      "recordNumber": 7,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Devonshire Realty",
+        "phone": "780-438-2500"
+      },
+      "agent": {
+        "name": "Joseph Yisak",
+        "phone": ""
+      },
+      "lat": "53.615319",
+      "lon": "-113.526787",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004425,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1696 Cunningham Way",
+      "address2": "Edmonton,  AB T6W 0W5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 0W5",
+      "subDivision": "Callaghan",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Callaghan"
+      },
+      "price": "$410,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1444,
+      "acreage": 0.08,
+      "lotSizeSqFt": 3333.58,
+      "daysOnSite": 2,
+      "yearBuilt": "2011",
+      "dateAdded": "7/22/2023",
+      "description": "This one checks ALL the boxes!  Tucked away in desirable Callaghan this meticulously kept home is FULLY finished on all 3 levels and boasts a modern open concept design with island kitchen,  high end stainless appliances, open to dining nook with access to the fenced and landscaped yard backing walking trail! Living room offers a gas fireplace flanked by windows, 2 piece bath completes the main level, upper floor features a small bonus room (loft), large primary will full ensuite, 2 additional bedrooms that share a 4 piece bath, lower level completed with exceptional space for theatre room, a SPA inspired bath with jetted AIR tub and a SAUNA, the perfect retreat to unwind at the end of the day.  This home comes complete with central A/C and  Electric car charger capabilities!  Don't wait on this gorgeous home within walking distance to SuperStore anchored strip mall, schools and easy access to major connecting routes.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690083632/83/83_E4351219_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351219",
+      "detailUrl": "/property-search/detail/83/E4351219/1696-cunningham-way-edmonton-ab-t6w-0w5/",
+      "recordNumber": 8,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "2% Realty Pro",
+        "phone": "780-660-0000"
+      },
+      "agent": {
+        "name": "Jacquie Smith",
+        "phone": ""
+      },
+      "lat": "53.405592",
+      "lon": "-113.53026",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004356,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "12238 89 Street",
+      "address2": "Edmonton,  AB T5B 3W6",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5B 3W6",
+      "subDivision": "Delton",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Delton"
+      },
+      "price": "$374,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1604,
+      "acreage": 0.08,
+      "lotSizeSqFt": 3503.11,
+      "daysOnSite": 2,
+      "yearBuilt": "2017",
+      "dateAdded": "7/22/2023",
+      "description": "Location, Layout, Bidet! Close to schools, NAIT, shopping, downtown, easy transportation & Yellowhead. Now that we've established how amazing this mature location is, the house is second to none. 2017 build, but wasn't lived in for the first year so it feels like a new house without the GST. Main floor has high ceilings with an open concept, Vinyl Plank Flooring, Quartz counters, SS Appliances. Upstairs has plush \\u0022like new\\u0022 carpets big walkways into two generous sized bedrooms leading to the  LARGE MAIN BEDROOM with an ensuite and walking in closet!! Basement is set up for your success and vision of what could be. Top it all off with a yard for the kids and garage to park. Mature neighbourhood has tall overhanging trees and ample parking. This is a turnkey house, move in ready, no fixes or work. GET IN AND GET HOME",
+      "photos": {
+        "count": 31,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690080070/83/83_E4351216_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351216",
+      "detailUrl": "/property-search/detail/83/E4351216/12238-89-street-edmonton-ab-t5b-3w6/",
+      "recordNumber": 9,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Excel Realty",
+        "phone": "587-461-8272"
+      },
+      "agent": {
+        "name": "Tyson Lawley",
+        "phone": ""
+      },
+      "lat": "53.577993",
+      "lon": "-113.478309",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004324,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "9111 151 Street",
+      "address2": "Edmonton,  AB T5R 1J5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5R 1J5",
+      "subDivision": "Jasper Park",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Jasper Park"
+      },
+      "price": "$385,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 887,
+      "acreage": 0.16,
+      "lotSizeSqFt": 7058.21,
+      "daysOnSite": 2,
+      "yearBuilt": "1956",
+      "dateAdded": "7/22/2023",
+      "description": "Located in a highly desirable neighbourhood close to downtown and NAIT. This charming bungalow offers a separate entrance to a mother-in-law suite. The upper level boasts an open floor-plan creating a welcoming atmosphere with a large kitchen and dining area, living room, 2 bedrooms, and a 4 piece bath. The mother-in-law suite is an exceptional addition to this property. This self-contained living space offers privacy, a second kitchen, living room, bedroom, and 4 piece bathroom. The location of this property is truly unbeatable. The proximity to downtown and NAIT ensures easy access to amenities, entertainment, and educational institutions, making it highly attractive.",
+      "photos": {
+        "count": 9,
+        "width": 300,
+        "height": 224,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690076444/83/83_E4351214_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351214",
+      "detailUrl": "/property-search/detail/83/E4351214/9111-151-street-edmonton-ab-t5r-1j5/",
+      "recordNumber": 10,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Century 21 All Stars Realty Ltd",
+        "phone": "780-434-4700"
+      },
+      "agent": {
+        "name": "Alyesha Neufeld",
+        "phone": ""
+      },
+      "lat": "53.525341",
+      "lon": "-113.581275",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004229,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "173 Edgemont Road",
+      "address2": "Edmonton,  AB T6M 1J3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6M 1J3",
+      "subDivision": "Edgemont (Edmonton)",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Edgemont (Edmonton)"
+      },
+      "price": "$699,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 1,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2160,
+      "acreage": 0.12,
+      "lotSizeSqFt": 5087.02,
+      "daysOnSite": 2,
+      "yearBuilt": "2021",
+      "dateAdded": "7/22/2023",
+      "description": "With easy access to world-class amenities like West Edmonton Mall, Edgemont provides a lively lifestyle unlike any other in West Edmonton. A community-built with your kids in mind, enjoy the benefits of outdoor and indoor recreation. You will never have a boring day! With open concept living space, the house is built with your growing family in mind. This single-family home features a double car garage. Close to shopping and future school.",
+      "photos": {
+        "count": 1,
+        "width": 182,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690072865/83/83_E4351211_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351211",
+      "detailUrl": "/property-search/detail/83/E4351211/173-edgemont-road-edmonton-ab-t6m-1j3/",
+      "recordNumber": 11,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Exp Realty",
+        "phone": "403-262-7653"
+      },
+      "agent": {
+        "name": ". Poonam",
+        "phone": ""
+      },
+      "lat": "53.47673",
+      "lon": "-113.66652",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12004222,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1160 Christie Vista",
+      "address2": "Edmonton,  AB T6W 4S5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 4S5",
+      "subDivision": "Cavanagh",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Cavanagh"
+      },
+      "price": "$649,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2178,
+      "acreage": 0.27,
+      "lotSizeSqFt": 11760.21,
+      "daysOnSite": 2,
+      "yearBuilt": "2021",
+      "dateAdded": "7/22/2023",
+      "description": "Welcome to your dream home in Cavanagh on a MASSIVE 1092 Sq Metre PIE LOT! This 2177 sqft home comes with every upgrade possible! 9' ceilings on the main AND UPPER FLOOR! Comes equipped with central A/C, HEATED OVERSIZED double garage, extra long driveway (house was pushed back) and a SEPARATE ENTRANCE! PERFECT for a future suite/extra living space! The main floor has tile in the entrances and custom hardwood flooring throughout plus a den/office space! The kitchen is a chef's dream with upgraded appliances. Thermador built-in fridge and Bosch gas cooktop, dishwasher, wall oven and microwave/speed oven! All countertops in the home are quartz! Upstairs you have 3 bedrooms, 4 pc bath, laundry room and a massive bonus room at the back. The hallway has been widened creating a very open-feeling space! The master suite comes with a 5pc ensuite and a walk-in closet with custom shelving! No wire racks here! The showstopper is the MASSIVE backyard, nestled in a quite cul-dec-sac next to a ravine! Come and see!!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690072871/83/83_E4351210_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351210",
+      "detailUrl": "/property-search/detail/83/E4351210/1160-christie-vista-edmonton-ab-t6w-4s5/",
+      "recordNumber": 12,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Exp Realty",
+        "phone": "403-262-7653"
+      },
+      "agent": {
+        "name": "Jeremy Dehek",
+        "phone": ""
+      },
+      "lat": "53.412452",
+      "lon": "-113.515617",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    }
+  ]
+}

@@ -19,7 +19,7 @@ agent_csv_data = []
 for i in range(len(data['properties'])):
     temp_property = data['properties'][i]
     property_data = {}
-    property_id = i + 1000
+    property_id = i + 1000*int(file_name.split('_')[-1])
     property_data['property_id'] = property_id
     property_data['address'] = temp_property['address1'] + ' ' + temp_property['address2']
     property_data['property_name'] = temp_property['address1'] + ' ' + temp_property['address2']

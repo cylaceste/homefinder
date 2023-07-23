@@ -1,0 +1,1003 @@
+{
+  "responseStatus": 0,
+  "totalRecords": 3439,
+  "totalPages": 125,
+  "properties": [
+    {
+      "mlsId": 11999864,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "2044 14 Avenue",
+      "address2": "Edmonton,  AB T6T 2R6",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6T 2R6",
+      "subDivision": "Laurel",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Laurel"
+      },
+      "price": "$759,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 4,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 2837,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "Introducing The Thomas by Sterling Homes. This stunning single-family home boasts 9' ceilings on the main and lower levels, an attached double car garage, and a separate side entrance. As you enter, you'll be greeted by a spacious foyer and mudroom with a generous closet. The kitchen features Thermofoil cabinets, quartz countertops (throughout), a full-height tiled backsplash, an island with a flush eating ledge, a chimney-style hood fan, and elegant pendant & SLD recessed lighting. The great room with a fireplace and the nook are adorned with large windows and sliding glass patio doors topped with transom windows. Completing the main floor is a bedroom and a full bath. Moving upstairs, you'll find a sizable bonus room with a coffered ceiling, a 3-piece main bathroom, a laundry room, and an additional 4-piece bath connected to the bonus room. The primary bedroom is a retreat with a coffered ceiling, a spacious walk-in closet, and a luxurious 5-piece master ensuite. *Photos are representative*",
+      "photos": {
+        "count": 49,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982812/83/83_E4351109_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351109",
+      "detailUrl": "/property-search/detail/83/E4351109/2044-14-avenue-edmonton-ab-t6t-2r6/",
+      "recordNumber": 61,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Bode",
+        "phone": "587-602-3307"
+      },
+      "agent": {
+        "name": "Jeff Jackson",
+        "phone": ""
+      },
+      "lat": "53.442062",
+      "lon": "-113.372594",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999862,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "22005 99A Avenue",
+      "address2": "Edmonton,  AB T5T 4T2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5T 4T2",
+      "subDivision": "Secord",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Secord"
+      },
+      "price": "$430,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 2,
+        "half": 2,
+        "threeQuarter": -1
+      },
+      "sqft": 1581,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2014",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to this lovely family home located in the beautiful west end neighborhood of Secord.  The main floor offers an open concept living area with hardwood floors and plenty of windows. The spacious kitchen offers stainless steel appliances and plenty of cabinets & counter space and overlooks the backyard. In addition, the well laid out floor plan on the main floor offers a front living room and extra spacious dining room which is perfect for entertaining. The  den/office space, powder room and mudroom complete the main floor.  Upstairs you will find 3 spacious bedrooms with the primary bedroom having a walk in closet and 5 pc spa like ensuite bathroom with separate soaker tub.  Head downstairs into your fully finished basement with family room, additional bedroom/den and 2 pc bathroom.  Step out onto your huge south facing deck deck, perfect for BBQ's or just enjoying the summer weather or head out to your double detached garage.  Close to amenities and the Anthony Henday.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982943/83/83_E4351108_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351108",
+      "detailUrl": "/property-search/detail/83/E4351108/22005-99a-avenue-edmonton-ab-t5t-4t2/",
+      "recordNumber": 62,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Liv Real Estate",
+        "phone": "780-486-8655"
+      },
+      "agent": {
+        "name": "Leanne Leuschen",
+        "phone": ""
+      },
+      "lat": "53.539679",
+      "lon": "-113.695182",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999778,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "9420 Colak Lane",
+      "address2": "Edmonton,  AB T6W 5B8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 5B8",
+      "subDivision": "Chappelle Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Chappelle Area"
+      },
+      "price": "$649,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1790,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "BRAND NEW 1800 + sq ft home WITH FULLY FINISHED ONE BEDROOM  LEGAL BASEMENT SUITE with a separate side entrance... ready for IMMEDIATE POSSESSION in the highly sought after neighbourhood of CHAPPELLE!!  This home is surrounded by many walking paths/green space and  flooded by lots of natural light  showing beautifully! You will find the upper floor has a Master bedroom with a large ensuite, bonus room, laundry, 2 more good sized bedrooms and another Full Bathroom. Main floor has an OPEN TO ABOVE living area, dining room and kitchen with custom cabinets. 17 ft ceilings in the living room and 9 ft ceilings on the main floor. ALL APPLIANCES ON MAIN FLOOR AND BASEMENT SUITE ARE INCLUDED!!  Double attached garage, close to Anthony Henday, public transportation, schools, shopping , and many other amenities.",
+      "photos": {
+        "count": 49,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982811/83/83_E4351107_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351107",
+      "detailUrl": "/property-search/detail/83/E4351107/9420-colak-lane-edmonton-ab-t6w-5b8/",
+      "recordNumber": 63,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Excellence",
+        "phone": "780-481-2950"
+      },
+      "agent": {
+        "name": "Rishi Ghai",
+        "phone": ""
+      },
+      "lat": "53.398645",
+      "lon": "-113.587572",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999780,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1432 Latta Court",
+      "address2": "Edmonton,  AB T6R 3N2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6R 3N2",
+      "subDivision": "Leger",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Leger"
+      },
+      "price": "$650,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2101,
+      "acreage": 0.18,
+      "lotSizeSqFt": 7734.72,
+      "daysOnSite": 3,
+      "yearBuilt": "2004",
+      "dateAdded": "7/21/2023",
+      "description": "Landmark Built *AIR CONDITIONED* Beauty in a Private cul-de-sac with a SUNNY Southwest Pie Shaped Lot! Custom Floorplan with Massive Mudroom, Main Floor Office/Den - Open Concept Floorplan with Spacious Island Kitchen - Quartz Countertops - Stainless Appliances and Corner Pantry! Cozy Living Room with Vaulted Ceiling with Stone Gas Fireplace - Durable Vinyl Plank Floors and Soothing Neutral Paint Colors! Upper Level with Primary RETREAT - Large Bedroom Area, Tons of Storage, Dual Vanity, Soaker Tub and Stand Up Shower! Kids Bedrooms are Massive and Joyfully share a JACK AND JILL bathroom setup! Basement is Fully Finished - with Gym/Yoga/Dance Studio - 2 Generous Bedrooms and Bathroom. Roof just replaced in 2021, Oversized Composite Deck and Fantastic Upgrades THROUGHOUT! JUST MOVE IN - Get settled before school starts in this Family Friendly Community - Close to Shopping, Parks and Schools!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689986392/83/83_E4351105_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351105",
+      "detailUrl": "/property-search/detail/83/E4351105/1432-latta-court-edmonton-ab-t6r-3n2/",
+      "recordNumber": 64,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Elite",
+        "phone": "780-406-4000"
+      },
+      "agent": {
+        "name": "Ricky Hill",
+        "phone": ""
+      },
+      "lat": "53.458755",
+      "lon": "-113.574029",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999779,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "9404 Colak Lane",
+      "address2": "Edmonton,  AB T6W 5B8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 5B8",
+      "subDivision": "Chappelle Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Chappelle Area"
+      },
+      "price": "$699,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1810,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "BRAND NEW 1800+  sq ft home ready for IMMEDIATE POSSESSION in the highly sought after neighbourhood of CHAPPELLE!! This home is situated on a HUGE CORNER LOT and  surrounded by many walking paths and green space. Will come with a FULLY FINISHED LEGAL BASEMENT SUITE after 2 months of the deal being finalized!!  This home is flooded by lots of natural light and shows beautifully! You will find the upper floor has a Master bedroom with a large ensuite, bonus room, laundry, 2 more good sized bedrooms and another Full Bathroom. Main floor has an OPEN TO ABOVE living area, dining room and kitchen with custom cabinets.  17 ft ceilings in the living room and 9 ft ceilings on the main floor. Double attached garage, close to Anthony Henday, public transportation, schools, shopping , and many other amenities. ALL APPLIANCE for main floor and bsmt suite INCLUDED  as well!!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982809/83/83_E4351103_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351103",
+      "detailUrl": "/property-search/detail/83/E4351103/9404-colak-lane-edmonton-ab-t6w-5b8/",
+      "recordNumber": 65,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Excellence",
+        "phone": "780-481-2950"
+      },
+      "agent": {
+        "name": "Rishi Ghai",
+        "phone": ""
+      },
+      "lat": "53.398604",
+      "lon": "-113.585828",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999777,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3728 Cameron Heights Place",
+      "address2": "Edmonton,  AB T6M 0R1",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6M 0R1",
+      "subDivision": "Cameron Heights (Edmonton)",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Cameron Heights (Edmonton)"
+      },
+      "price": "$360,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": -1,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": -1,
+        "full": -1,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": -1,
+      "acreage": 0.17,
+      "lotSizeSqFt": 7297.92,
+      "daysOnSite": 3,
+      "yearBuilt": "",
+      "dateAdded": "7/21/2023",
+      "description": "Estate lot for sale in Cameron Heights, one of the most preferred locations in the South West part of the city. Perfect location to build your dream home. Lot is 65ft wide with the build pocket of 46ft. Very private and steps from the ravine and the North Saskatchewan river! Builder and construction management available from the seller if required. Seller willing to finance prior to or during, the construction period. Feel free to contact listing agent for details and to discuss further!",
+      "photos": {
+        "count": 6,
+        "width": 300,
+        "height": 150,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982808/83/83_E4351102_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Vacant Lot/Land",
+      "mlsRegionId": 83,
+      "mls": "E4351102",
+      "detailUrl": "/property-search/detail/83/E4351102/3728-cameron-heights-place-edmonton-ab-t6m-0r1/",
+      "recordNumber": 66,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Fateh Gill",
+        "phone": ""
+      },
+      "lat": "53.474198",
+      "lon": "-113.62893",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999552,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "17047 38 Street",
+      "address2": "Edmonton,  AB T5Y 3S1",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5Y 3S1",
+      "subDivision": "Cy Becker",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Cy Becker"
+      },
+      "price": "$429,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1447,
+      "acreage": 0.07,
+      "lotSizeSqFt": 3045.86,
+      "daysOnSite": 3,
+      "yearBuilt": "2015",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to this stunning 3 bed, 2.5 bath home with a bonus room, single attached garage, and partially finished basement in Cy Becker, North Edmonton. Close to Anthony Henday Road, shopping, and schools. Enjoy open-concept living on the main floor with a beautiful kitchen that has modern cabinets topping it up with granite countertops. The dining area feels so welcoming with a bright north east facing window that has plenty of sunlight throughout the day. Upstairs you are greeted by a Bonus room that offers a ton of flexibility to be used as a movie room, kids play area or even an office. The Master bedroom has its own ensuite and walk-in closet. Two extra bedrooms on this floor along with a second bathroom and a second floor laundry (Brand new machines bought in 2022). Basement has an extra bedroom and bathroom that is framed/plumbed in/electrical done and ready for your final completion. Tranquil backyard for relaxation. Convenient location and family-friendly community. Your dream home awaits!",
+      "photos": {
+        "count": 43,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982811/83/83_E4351100_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351100",
+      "detailUrl": "/property-search/detail/83/E4351100/17047-38-street-edmonton-ab-t5y-3s1/",
+      "recordNumber": 67,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Bikram Bathh",
+        "phone": ""
+      },
+      "lat": "53.63208",
+      "lon": "-113.400083",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999555,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "11639 133 Street",
+      "address2": "Edmonton,  AB T5M 1H7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5M 1H7",
+      "subDivision": "Woodcroft",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Woodcroft"
+      },
+      "price": "$444,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1056,
+      "acreage": 0.17,
+      "lotSizeSqFt": 7307.29,
+      "daysOnSite": 3,
+      "yearBuilt": "1954",
+      "dateAdded": "7/21/2023",
+      "description": "Beautiful turnkey home in Woodcroft with a dream Garage! This charming upgraded bungalow is centrally located minutes to downtown, river valley trails, and all the great shops and restaurants on 124 St. Everything inside and out has been upgraded over the past 10 years. Upon entering the main level you are greeted by Swedish hardwood floors that continue through the living room and dining room. The spacious white kitchen has tons of cabinet space and overlooks the stunning yard. Down the hall are three bedrooms and a full bath. The basement was also renovated and has an open inviting living room and a large bedroom with an ensuite. Recent Updates Include; Windows, furnace, HWT, roof, siding, stucco, grading, electrical, plumbing, air conditioning, bathrooms, fence, and even the sidewalks. And to top that off, a beautiful new Triple Garage(fully finished inside), heated with 220V wiring. All on a gorgeous mature lot with a deck, firepit, pergola, cobblestone patio, & RV Parking. Perfect in every way.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689982819/83/83_E4351097_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351097",
+      "detailUrl": "/property-search/detail/83/E4351097/11639-133-street-edmonton-ab-t5m-1h7/",
+      "recordNumber": 68,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Yegpro Realty",
+        "phone": "780-457-5657"
+      },
+      "agent": {
+        "name": "Reanna Bowden",
+        "phone": ""
+      },
+      "lat": "53.568457",
+      "lon": "-113.550943",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11999270,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "6324 4 Avenue",
+      "address2": "Edmonton,  AB T6X 0C2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6X 0C2",
+      "subDivision": "Charlesworth",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Charlesworth"
+      },
+      "price": "$524,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 6,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2071,
+      "acreage": 0.14,
+      "lotSizeSqFt": 5894.42,
+      "daysOnSite": 3,
+      "yearBuilt": "2006",
+      "dateAdded": "7/21/2023",
+      "description": "Your best life begins with a home that inspires you. Situated in a quiet cul-de-sac on a large pie lot, this nearly 2100 sq ft 2 Storey is a perfect family home. The main floor features a grand vaulted ceiling family room and formal dining room, plus a main floor den that can be used as an additional bedroom. The spacious kitchen features granite counters and an abundance of cabinetry, plus a large dinette area and living room. Upstairs you'll find 3 bedrooms plus laundry area. The Primary bedroom features a large ensuite with newer shower. The basement is fully finished with 2 more bedrooms, an open living space and a wet bar. This home is within walking distance of grocery stores, schools, restaurants, and several amenities. This wonderful, original owner home is truly a must see.",
+      "photos": {
+        "count": 35,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689979211/83/83_E4351095_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351095",
+      "detailUrl": "/property-search/detail/83/E4351095/6324-4-avenue-edmonton-ab-t6x-0c2/",
+      "recordNumber": 69,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Sotheby's International Realty Canada",
+        "phone": "403-254-5315"
+      },
+      "agent": {
+        "name": "Jeremy Amyotte",
+        "phone": ""
+      },
+      "lat": "53.429862",
+      "lon": "-113.438441",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11998992,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "10533 67 Avenue",
+      "address2": "Edmonton,  AB T6H 1Z4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6H 1Z4",
+      "subDivision": "Allendale",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Allendale"
+      },
+      "price": "$779,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1841,
+      "acreage": 0.15,
+      "lotSizeSqFt": 6648.32,
+      "daysOnSite": 3,
+      "yearBuilt": "2022",
+      "dateAdded": "7/21/2023",
+      "description": "Brand New Infill Home with Legal Basement Suite.Situated in a desirable location, this home offers a spacious layout, high-end finishes, custom blinds throughtout & a legal basement suite.As you step inside, you'll be greeted by the grandeur of 9' ceilings, with SPC flooring throughout & an abundance of natural light, creating an inviting and open atmosphere.The kitchen is a true chef's delight, featuring quartz countertops & top-of-the-line stainless steel matte black appliances.Upstairs you will find a spacious master bedroom with a luxurious ensuite bathroom with heated floor, complete with modern fixtures and a walk-in shower.Two additional well-appointed bedrooms & stylishly designed full bathroom.The legal basement suite, with separate entrance is an excellent opportunity for rental income or as a guest space for visiting family & friends.Comprising of two bedrooms, a contemporary bathroom, & well-designed kitchenette with SS appliances.South-facing rear yard with dble detached garage.",
+      "photos": {
+        "count": 40,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690069278/83/83_E4351091_02.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351091",
+      "detailUrl": "/property-search/detail/83/E4351091/10533-67-avenue-edmonton-ab-t6h-1z4/",
+      "recordNumber": 70,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "More Real Estate",
+        "phone": "780-757-5000"
+      },
+      "agent": {
+        "name": "Heather Morris",
+        "phone": ""
+      },
+      "lat": "53.50337",
+      "lon": "-113.502092",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11998909,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3449 Mckay Lane",
+      "address2": "Edmonton,  AB T6W 1L4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 1L4",
+      "subDivision": "Macewan",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Macewan"
+      },
+      "price": "$344,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1104,
+      "acreage": 0.07,
+      "lotSizeSqFt": 3073.85,
+      "daysOnSite": 3,
+      "yearBuilt": "2003",
+      "dateAdded": "7/21/2023",
+      "description": "Bright and open 3 bedrooms and 2.5 baths with no condo fees!  Excellent value for this home with developed basement. The main floor features laminate flooring and a bright light maple veneer kitchen with  stainless steel appliances, kitchen island and lots of cabinets and counter space. The upper floor features a spacious primary bedroom with ensuite and 2 closets, main washroom and two more good size bedrooms. In recent years the basement has been finished with a rec room plus den.  Maximizing the living space for your family here! The house is located on a very quiet cul-de-sac, steps away from bus stops, perfect for young families. Sunny south facing backyard is fully landscaped, fenced and has a nice deck for BBQ. Great location, 5 min. bus ride to Century Park LRT station and YMCA, and easy access to Anthony Henday, Calgary Trail, South Edmonton Commons and Edmonton Intl. Airport.",
+      "photos": {
+        "count": 46,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689979338/83/83_E4351086_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351086",
+      "detailUrl": "/property-search/detail/83/E4351086/3449-mckay-lane-edmonton-ab-t6w-1l4/",
+      "recordNumber": 71,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Royal Lepage Summit Realty",
+        "phone": "780-431-1900"
+      },
+      "agent": {
+        "name": "Jason Thomas",
+        "phone": ""
+      },
+      "lat": "53.426953",
+      "lon": "-113.531528",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11998701,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3333 Mcphadden Close",
+      "address2": "Edmonton,  AB T6W 1L2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 1L2",
+      "subDivision": "Macewan",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Macewan"
+      },
+      "price": "$477,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1397,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2004",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to Macewan and this beautiful upgraded 3 bedroom, 3 bathroom fully finished bilevel with double attached garage!  Spacious front entry with access to your front attached double garage, main level features hardwood floors, open concept kitchen with plenty of cabinets and skylight, quartz countertops, garburator, nook area,  dining area, living room with gas fireplace and big bright windows! Bedroom and 4 piece bathroom with tub, upper level features primary bedroom with walk in closet, spa like ensuite with SOAKER tub and shower!  Fully finished basement with vinyl plank floors and INFLOOR HEATING, 3rd bedroom, 3rd full bathroom with shower, large second living room, mechanical room/laundry room.  New roof in 2022, water tanks 2019 and 2022, new washer, new fridge, Underground sprinkler system, Air Conditioner,  speaker system throughout and central vacuum system.  Huge fully fenced private backyard with shed and deck complete with gas line for BBQ.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689979210/83/83_E4351084_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351084",
+      "detailUrl": "/property-search/detail/83/E4351084/3333-mcphadden-close-edmonton-ab-t6w-1l2/",
+      "recordNumber": 72,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Elite",
+        "phone": "780-406-4000"
+      },
+      "agent": {
+        "name": "Sergio Maione",
+        "phone": ""
+      },
+      "lat": "53.425622",
+      "lon": "-113.529909",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    }
+  ]
+}
