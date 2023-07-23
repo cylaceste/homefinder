@@ -1,6 +1,12 @@
-# homefinder
-TODO Describe the app
 
+# TODO 
+Describe the app
+
+Finish Front end and beautify
+
+Add more info to database [Weijie doing, write script to get rent and sale real estate, should get 200 before 1pm, but we may need discuss some more columns, eg: 'city', 'address', ...] 
+
+# homefinder
 
 ## Frontend
 1. Install nodejs from https://nodejs.org/en
