@@ -8,6 +8,7 @@ database_path = os.path.join(current_file_directory, 'property_database')
 property_table_csv = os.path.join(current_file_directory, 'property_table.csv')
 image_table_csv = os.path.join(current_file_directory, 'image_table.csv')
 agent_table_csv = os.path.join(current_file_directory, 'agent_table.csv')
+
 class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
@@ -36,14 +37,16 @@ class Database:
         return '''  CREATE TABLE property_table (
                     property_id int NOT NULL PRIMARY KEY,
                     property_name VARCHAR(255),
+                    address Text,
                     description VARCHAR(255),
                     num_bedroom INT,
                     num_bathroom INT,
                     area_size INT,
                     price FLOAT,
                     transaction_type TEXT CHECK( transaction_type IN ('Buy', 'Rent') ),
-                    property_type TEXT CHECK( property_type IN ('Condo', 'Apartment', 'House', 'Townhouse') ),
-                    parking TEXT CHECK( parking IN ('garage', 'underground', 'covered', 'outdoor') ),
+                    property_type TEXT CHECK( property_type IN ('Apartment', 'Townhouse', 'Condo Unit', 'House', 'Duplex', 'Basement',
+ 'Main Floor', 'Room For Rent', 'Loft', 'Office Space') ),
+                    parking TEXT CHECK( parking IN ('garage', 'underground', 'covered', 'outdoor', 'no') ),
                     laundry TEXT CHECK( laundry IN ('in_suite', 'shared') ),
                     furnished BOOL,
                     pet_friendly BOOL,
@@ -70,10 +73,10 @@ class Database:
 
     def _get_agent_table_definition(self) -> str:
         return '''CREATE TABLE agent_table (
-                agent_id int not null,
                 property_id int not null,
                 primary_email text,
                 primary_phone text,
+                agent_name text,
                 FOREIGN KEY (property_id) REFERENCES property_table(property_id)
             );'''
 
@@ -97,7 +100,7 @@ class Database:
                     row.area_size,
                     row.price,
                     row.transaction_type,
-                    row.property_types,
+                    row.property_type,
                     row.parking,
                     row.laundry,
                     row.furnished,                    
@@ -126,10 +129,10 @@ class Database:
             df = pd.read_csv(csv_file_name)
             for row in df.itertuples():
                 sql_script = '''
-                    INSERT INTO agent_table (agent_id, property_id, primary_email, primary_phone)
-                    VALUES (?, ?, ?, ?)
+                    INSERT INTO agent_table (property_id, primary_email, primary_phone)
+                    VALUES (?, ?, ?)
                     '''
-                record = (row.agent_id, row.property_id, row.primary_email, row.primary_phone)
+                record = (row.property_id, row.primary_email, row.primary_phone)
                 cursor.execute(sql_script, record)
             conn.commit()
             conn.close()
@@ -176,16 +179,16 @@ class Database:
 if __name__ == "__main__":
     sql_class = Database()
     query='SELECT sql FROM sqlite_master;'
-    query='''
-    SELECT property_table.property_id, property_table.description AS property_description, property_table.latitude, property_table.longitude, 
-       property_table.num_bedroom, GROUP_CONCAT(image_table.image_url) AS image_urls
-FROM property_table
-LEFT JOIN image_table ON property_table.property_id = image_table.property_id
-WHERE property_table.num_bedroom >= 3 AND property_table.latitude BETWEEN 53.3 AND 53.7 AND property_table.longitude BETWEEN -113.7 AND -113.3
-GROUP BY property_table.property_id
-LIMIT 10;
-'''
-    query = "SELECT LIMIT 10 property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id"
+    #     query='''
+    #     SELECT property_table.property_id, property_table.description AS property_description, property_table.latitude, property_table.longitude, 
+    #        property_table.num_bedroom, GROUP_CONCAT(image_table.image_url) AS image_urls
+    # FROM property_table
+    # LEFT JOIN image_table ON property_table.property_id = image_table.property_id
+    # WHERE property_table.num_bedroom >= 3 AND property_table.latitude BETWEEN 53.3 AND 53.7 AND property_table.longitude BETWEEN -113.7 AND -113.3
+    # GROUP BY property_table.property_id
+    # LIMIT 10;
+    # '''
+    query = "SELECT property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id LIMIT 10;"
     data = sql_class.fetch_query(query=query)[0]
     print(data)
     # print(sql_class.get_database_definition())

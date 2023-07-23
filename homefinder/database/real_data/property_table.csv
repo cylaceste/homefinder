@@ -1,0 +1,11 @@
+property_id,property_name,description,num_bedroom,num_bathroom,area_size,price,transaction_type,furnished,pet_friendly,latitude,longitude,property_types,build_year,parking,laundry,air_conditioning,hardwood_floors,balcony
+1,"""Phillips Lofts""","""Edmonton's best loft building located in the heart of downtown Edmonton""",1,1,1200,"429,900",Buy,FALSE,TRUE,53.5423941,-113.4990398,Condo,1930,garage,in_suite,TRUE,TRUE,TRUE
+2,"""Quiet House in Queen Alexandra""","""Great investment property with short proximity to the U of A""",5,3,1890,"699,900",Buy,FALSE,TRUE,53.5107821,-113.5077322,House,1912,garage,in_suite,FALSE,TRUE,FALSE
+3,"""Large Townhouse in Terwillegar"" ","""Outstanding corner unit townhouse in the heart of Terwillegar Towne""",3,3,1195,"299,900",Buy,FALSE,TRUE,53.4451214,-113.576485,Townhouse,2010,garage,in_suite,FALSE,TRUE,FALSE
+4,"""Classic Home in South Edmonton""","""Charming four-bedroom home""",4,4,1800,"496,000",Buy,FALSE,TRUE,53.4639816,-113.5099441,House,1976,garage,in_suite,FALSE,TRUE,FALSE
+5,"""Claridge House Condominium""","""Tastefully refalsevated high rise condo next to the U of A""",2,2,1200,"319,888",Buy,FALSE,FALSE,53.5226462,-113.5163319,Condo,1979,underground,in_suite,FALSE,FALSE,TRUE
+6,"""Glefalsera Townhouse""","""Modern luxury home In Glefalsera""",4,2.5,2100,"3,900",Rent,TRUE,FALSE,53.5426092,-113.5645434,Townhouse,2019,garage,in_suite,TRUE,TRUE,FALSE
+7,"""Beautiful Home in Hazeldean""","""Steps from the Mill Creek ravine""",3,2,925,"2,100",Rent,FALSE,TRUE,53.5058838,-113.4772348,House,1954,outdoor,in_suite,FALSE,TRUE,FALSE
+8,"""Southgate Tower""","""Newly refalsevated apartment next to Southgate Shopping Centre""",2,1,1050,"1,579",Rent,FALSE,TRUE,53.4908277,-113.5153757,Apartment,1973,underground,shared,FALSE,FALSE,TRUE
+9,"""Icon II""","""Pafalseramic views in the heart of downtown""",2,2,930,"1,800",Rent,FALSE,FALSE,53.5421904,-113.5020339,Apartment,2010,underground,in_suite,TRUE,TRUE,TRUE
+10,"""Venetian""","""Downtown condo living with that European feel""",2,1,900,"1,475",Rent,FALSE,FALSE,53.5451594,-113.5135075,Apartment,2009,underground,in_suite,TRUE,FALSE,TRUE

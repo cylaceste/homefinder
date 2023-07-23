@@ -1,0 +1,1003 @@
+{
+  "responseStatus": 0,
+  "totalRecords": 3439,
+  "totalPages": 125,
+  "properties": [
+    {
+      "mlsId": 11994395,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "9734 88 Avenue",
+      "address2": "Edmonton,  AB T6E 2P9",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6E 2P9",
+      "subDivision": "Strathcona",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Strathcona"
+      },
+      "price": "$399,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1627,
+      "acreage": 0.1,
+      "lotSizeSqFt": 4356.26,
+      "daysOnSite": 3,
+      "yearBuilt": "1900",
+      "dateAdded": "7/21/2023",
+      "description": "Experience the enchantment of this 1626 square foot two-story home, nestled in an extraordinary location steps from Tubby Bateman Park and Millcreek Ravine. The house is full of charm and character and offers exceptional value. It provides a sun-drenched front porch, a bright kitchen with crushed glass countertops, & a high-end gas stove. Two main floor living spaces and a main floor bedroom/office. Three bedrooms upstairs with a 3-piece bath. In the partial basement is an upgraded HE furnace & second bathroom. The home offers an exceptional opportunity to add value by upgrading and renovating the house or building a garden suite to embrace multi-generational living or income opportunities. Seize the chance to craft a life of wonder and excitement in this remarkable property!",
+      "photos": {
+        "count": 36,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964872/83/83_E4350998_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350998",
+      "detailUrl": "/property-search/detail/83/E4350998/9734-88-avenue-edmonton-ab-t6e-2p9/",
+      "recordNumber": 97,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Devonshire Realty",
+        "phone": "780-438-2500"
+      },
+      "agent": {
+        "name": "Christopher Proctor",
+        "phone": ""
+      },
+      "lat": "53.52358",
+      "lon": "-113.481298",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994397,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "13311 72 Street",
+      "address2": "Edmonton,  AB T5C 0R3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5C 0R3",
+      "subDivision": "Delwood",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Delwood"
+      },
+      "price": "$324,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1083,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "1965",
+      "dateAdded": "7/21/2023",
+      "description": "This home has a great layout, and has been loved and cared for over the years. With almost 1100sf, the main floor provides lots of living space with a large living and dining room, 3 spacious bedrooms, and a full bath. Head downstairs past the SEPARATE ENTRANCE, and you will find a large family room, and another full bath. This well designed basement also provides 2 additional bedrooms, and a storage/laundry room. Did we mention the large lot and garage? Having a laneway on two sides, allows easy access for parking vehicles, toys and trailers. The 20'x24' garage provides a great workspace as well as additional storage. SHINGLES (2020), HWT (2023)This home is conveniently located, close to shopping, parks, and good access to LRT. *Virtual staging used in some photos*",
+      "photos": {
+        "count": 46,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964800/83/83_E4350999_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350999",
+      "detailUrl": "/property-search/detail/83/E4350999/13311-72-street-edmonton-ab-t5c-0r3/",
+      "recordNumber": 98,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Real Estate",
+        "phone": "780-488-4000"
+      },
+      "agent": {
+        "name": "Simon Schellenberg",
+        "phone": ""
+      },
+      "lat": "53.594434",
+      "lon": "-113.452087",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994394,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "8314 158 Avenue",
+      "address2": "Edmonton,  AB T5Z 2P4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5Z 2P4",
+      "subDivision": "Belle Rive",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Belle Rive"
+      },
+      "price": "$350,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1645,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "1988",
+      "dateAdded": "7/21/2023",
+      "description": "3 bedroom/2.5 bath 1645 sq. ft. 2 Storey in the desirable community of Belle Rive.  Located on quiet street with fenced yard and double detached garage.",
+      "photos": {
+        "count": 1,
+        "width": 300,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964954/83/83_E4350996_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350996",
+      "detailUrl": "/property-search/detail/83/E4350996/8314-158-avenue-edmonton-ab-t5z-2p4/",
+      "recordNumber": 99,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Professionals",
+        "phone": "780-458-8300"
+      },
+      "agent": {
+        "name": "George Van De Walle",
+        "phone": ""
+      },
+      "lat": "53.618674",
+      "lon": "-113.469037",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994396,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "4851 Kinney Road",
+      "address2": "Edmonton,  AB T6W 2J2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 2J2",
+      "subDivision": "Keswick Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Keswick Area"
+      },
+      "price": "$574,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1936,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "The Lakeview by Excel Homes offers the versatility that you are looking for. Greeting your entrance, a main floor bedroom with closet space and full bath and at the rear of the main floor is an open-concept layout, including an L-shaped island kitchen, a sunny dining nook, and a great room that can accommodate guests a friends. Just above the stairwell, your family will love the getaway bonus room living space on the second floor. Directly in between the bonus room lies the three bedrooms and a handy laundry room location making the weekly chores a breeze. The primary bedroom has a spacious 4-piece ensuite and walk-in closet, offering optional upgrades. This home is under construction with an Fall 2023 completion. *Photos are representative*",
+      "photos": {
+        "count": 8,
+        "width": 253,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964956/83/83_E4350994_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350994",
+      "detailUrl": "/property-search/detail/83/E4350994/4851-kinney-road-edmonton-ab-t6w-2j2/",
+      "recordNumber": 100,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Bode",
+        "phone": "587-602-3307"
+      },
+      "agent": {
+        "name": "Jeff Jackson",
+        "phone": ""
+      },
+      "lat": "53.415733",
+      "lon": "-113.626376",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994390,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "10116 71 Street",
+      "address2": "Edmonton,  AB T6A 2V5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6A 2V5",
+      "subDivision": "Terrace Heights (Edmonton)",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Terrace Heights (Edmonton)"
+      },
+      "price": "$340,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 7,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1214,
+      "acreage": 0.12,
+      "lotSizeSqFt": 5420.16,
+      "daysOnSite": 3,
+      "yearBuilt": "1958",
+      "dateAdded": "7/21/2023",
+      "description": "This 1200 sq ft bungalow with West exposure has a ton of potential with a total of 7 bedrooms, huge country kitchen, upgraded windows, shingles, 24 x 22 double garage and walking distance to many services and the ravine.",
+      "photos": {
+        "count": 33,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964884/83/83_E4350992_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350992",
+      "detailUrl": "/property-search/detail/83/E4350992/10116-71-street-edmonton-ab-t6a-2v5/",
+      "recordNumber": 101,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Excellence",
+        "phone": "780-481-2950"
+      },
+      "agent": {
+        "name": "Paul Blais",
+        "phone": ""
+      },
+      "lat": "53.54184",
+      "lon": "-113.437262",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994388,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "4720 13 Avenue",
+      "address2": "Edmonton,  AB T6L 4A3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6L 4A3",
+      "subDivision": "Crawford Plains",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Crawford Plains"
+      },
+      "price": "$379,649",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1127,
+      "acreage": 0.14,
+      "lotSizeSqFt": 6036.83,
+      "daysOnSite": 3,
+      "yearBuilt": "1989",
+      "dateAdded": "7/21/2023",
+      "description": "Fantastic 4 level split in Crawford Plains with 4 bedrooms, 3 bathrooms and a Double Attached Garage. The main floor living room feature's a vaulted ceiling, the kitchen has a large nook area, new countertops and backsplashes, with door to the backyard and deck. The upper level has 3 bedrooms, the primary bedroom has a 3 Piece ensuite, new 4 piece main bathroom. The lower level has a second living room, and a 4th bedroom and 3 piece bathroom to service. The basement is partially developed. Amazing large backyard to be enjoyed all year long. This is a must see!",
+      "photos": {
+        "count": 46,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964800/83/83_E4350991_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350991",
+      "detailUrl": "/property-search/detail/83/E4350991/4720-13-avenue-edmonton-ab-t6l-4a3/",
+      "recordNumber": 102,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Corey Christenson",
+        "phone": ""
+      },
+      "lat": "53.443292",
+      "lon": "-113.411887",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994092,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "10803 125 Street",
+      "address2": "Edmonton,  AB T5M 0L5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5M 0L5",
+      "subDivision": "Westmount",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Westmount"
+      },
+      "price": "$649,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1666,
+      "acreage": 0.11,
+      "lotSizeSqFt": 4992.08,
+      "daysOnSite": 3,
+      "yearBuilt": "1925",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to the Westmount Architectural Heritage District! This 4 bed + 2 bath character home awaits its new owner. Walk up to your front veranda and screened in porch to be met at your front door with lovely hardwood floors and entrance way. Your spacious living room will invite guests in and give you plenty of space to entertain loved ones. Through the arched doorway you'll find your dining room, where you can talk about your day around the dinner table with family. A cozy fireplace in the family room is the perfect spot for game night. Enjoy cooking in your sizeable kitchen! Upstairs, you'll find 4 bedrooms + bath. You can enjoy morning coffee 2nd floor east facing balcony that is surrounded by mature trees. Outside you can tend to your private Japanese Garden, equipt with a tea house and enjoy the many perennials! Just steps away from the heart of 124 Street - home to some of the city's best restaurants, shops, and schools - this beautiful character home is not to be missed.",
+      "photos": {
+        "count": 41,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689961338/83/83_E4350986_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350986",
+      "detailUrl": "/property-search/detail/83/E4350986/10803-125-street-edmonton-ab-t5m-0l5/",
+      "recordNumber": 103,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Realty Unleashed Inc",
+        "phone": "780-800-9949"
+      },
+      "agent": {
+        "name": "Chris Squires",
+        "phone": ""
+      },
+      "lat": "53.552686",
+      "lon": "-113.537417",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11994090,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1545 37A Avenue",
+      "address2": "Edmonton,  AB T6T 0E2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6T 0E2",
+      "subDivision": "Tamarack",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Tamarack"
+      },
+      "price": "$550,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 3,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1389,
+      "acreage": 0.1,
+      "lotSizeSqFt": 4203.41,
+      "daysOnSite": 3,
+      "yearBuilt": "2007",
+      "dateAdded": "7/21/2023",
+      "description": "Beautiful Detached Bi-level home in community of Tamarack. Very well maintained home. Open concept Bright Living room, elegant kitchen and dinning area. Primary bedroom with ensuite. Two More bedrooms and full bathroom . Basement with 2 bedrooms, kitchen and full bathroom. Close to shopping and other amenities. 5 min walking distance to Meadow Rec Centre . Easy access to Whitemud drive/ Anthony Henday & 17 St. Walking distance to Blair Mcpherson School Grade K-9.",
+      "photos": {
+        "count": 26,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689961163/83/83_E4350985_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350985",
+      "detailUrl": "/property-search/detail/83/E4350985/1545-37a-avenue-edmonton-ab-t6t-0e2/",
+      "recordNumber": 104,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Exp Realty",
+        "phone": "403-262-7653"
+      },
+      "agent": {
+        "name": "Deep Nirwan",
+        "phone": ""
+      },
+      "lat": "53.472764",
+      "lon": "-113.366784",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11993800,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "13135 36 Street",
+      "address2": "Edmonton,  AB T5A 5C7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5A 5C7",
+      "subDivision": "Belmont",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Belmont"
+      },
+      "price": "$409,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 934,
+      "acreage": 0.09,
+      "lotSizeSqFt": 3744.65,
+      "daysOnSite": 3,
+      "yearBuilt": "1997",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to this beautiful AIR CONDITIONED & COMPLETELY RENOVATED 4 level split nestled in the quiet community of Belmont that is perfect for the young family or savvy investor. With its spacious interior living area & fantastic features, this home offers the perfect combination of comfort & style. Bright & airy, this home boasts an abundance of natural light that floods the living spaces. Situated on a generous corner lot, this home provides a sense of privacy & ample space for all your outdoor activities. With 3 generous sized bedrooms, a rec room, family room, and living room this home has the space to fulfill your needs. Have peace of mind with your roof, which was replaced 7 years ago. Enjoy easy access to all the amenities the neighbourhood has to offer, like being steps away from Belmont School (your kids can easily & safely walk to school), Belmont Park, & quick access to get to the Yellowhead or Henday. Complete with a double garage this home has nothing left to do but move in. WELCOME HOME!!!",
+      "photos": {
+        "count": 33,
+        "width": 281,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689961311/83/83_E4350984_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350984",
+      "detailUrl": "/property-search/detail/83/E4350984/13135-36-street-edmonton-ab-t5a-5c7/",
+      "recordNumber": 105,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Professionals",
+        "phone": "780-458-8300"
+      },
+      "agent": {
+        "name": "Kevin Machado",
+        "phone": ""
+      },
+      "lat": "53.592152",
+      "lon": "-113.395896",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11993799,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "11824 58 Street",
+      "address2": "Edmonton,  AB T5W 3W7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5W 3W7",
+      "subDivision": "Montrose (Edmonton)",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Montrose (Edmonton)"
+      },
+      "price": "$299,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 1108,
+      "acreage": 0.09,
+      "lotSizeSqFt": 3953.69,
+      "daysOnSite": 3,
+      "yearBuilt": "1975",
+      "dateAdded": "7/21/2023",
+      "description": "Lovely 3-bedroom raised bungalow with 1150 sq ft. Perfect for a family or Investor. The living room is filled with natural light from the bay window. Numerous upgrades, including carpets, laminate flooring, ceramic tile, paint, kitchen countertops, maple cabinets, toilets, sinks, shingles, steel fence, aluminum capped windows, and fresh grass. Basement boasts an in-law suite with a potential for 2 bedrooms, a kitchen, and a bathroom. Stainless steel appliances are included. Enjoy an oversized SINGLE garage. Conveniently located near schools and buses.  Recent updates: Roof replaced in 2023, basement bathroom renovated in 2023, kitchen redone in 2017, upstairs bathroom remodelled in 2017, and new carpet installed in 2022.",
+      "photos": {
+        "count": 46,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689961257/83/83_E4350983_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350983",
+      "detailUrl": "/property-search/detail/83/E4350983/11824-58-street-edmonton-ab-t5w-3w7/",
+      "recordNumber": 106,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Initia Real Estate",
+        "phone": "780-705-5393"
+      },
+      "agent": {
+        "name": "Travis Bannert",
+        "phone": ""
+      },
+      "lat": "53.570895",
+      "lon": "-113.430993",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11998203,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1432 Howes  Cr",
+      "address2": "Edmonton,  AB T6W 4G5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 4G5",
+      "subDivision": "Hays Ridge Area",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Hays Ridge Area"
+      },
+      "price": "$872,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": -1,
+        "half": 3,
+        "threeQuarter": -1
+      },
+      "sqft": 2963,
+      "acreage": 0.08,
+      "lotSizeSqFt": 3539.17,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "BRAND NEW almost 3000 sqft stucco covered home located in the sought after JAGARE RIDGE community of Edmonton. This home is sure to wow you with a grand open to above entrance, 20 ft high ceilings throughout, 8 ft high doors, luxury upgrades such as coffered ceilings, modern lighting, custom showers, glass railings, huge windows and closet organizers. Spacious main KITCHEN fits a double door fridge, a large island with built-in shelving and custom cabinetry. SPICE KITCHEN is also included with entrance to the mud room. The MAIN floor has a BEDROOM/OFFICE + a FULL BATH. Upstairs is your grand master bedroom with a huge 5 pc ensuite, 2 additional bedrooms with a Jack and Jill bathroom, BONUS ROOM, built-in WORKSTATION. The master bedroom has a custom made oversized walk-in closet. SEPARATE ENTRANCE to the basement and exposed aggregate front driveway.",
+      "photos": {
+        "count": 42,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689975596/83/83_E4350982_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350982",
+      "detailUrl": "/property-search/detail/83/E4350982/1432-howes-cr-edmonton-ab-t6w-4g5/",
+      "recordNumber": 107,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Initia Real Estate",
+        "phone": "780-705-5393"
+      },
+      "agent": {
+        "name": "Pardeep Brar",
+        "phone": ""
+      },
+      "lat": "53.415888",
+      "lon": "-113.574405",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 11993453,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "988 175 Street",
+      "address2": "Edmonton,  AB T6W 1Z8",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 1Z8",
+      "subDivision": "Windermere",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Windermere"
+      },
+      "price": "$550,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1991,
+      "acreage": 0.09,
+      "lotSizeSqFt": 4070.26,
+      "daysOnSite": 3,
+      "yearBuilt": "2012",
+      "dateAdded": "7/21/2023",
+      "description": "Fully loaded and ready to be your new home, this beautiful property is now for sale and offers Buyer's so many great features. Floorplan was the best floor plan of its day offering 3 bedrooms, den on main floor, open to below in the living room and an upstairs bonus room/loft. Original owner home selected every option available when originally built from the builder. Upgrades were done through out the home including kitchen cabinets, flooring, garage drain with water taps, 9 ft ceilings on the main and CENTRAL AIR. The home has great features that make it feel very grand and special compared to a lot of the competition on the market. Beautiful chandelier in the living room with 19' ceilings complimented by a stone faced fireplace with built in shelving. The master bedroom ensuite also features a soaker tub, glass shower, make up vanity and lots of storage. The home is located on the entrance of a small culdesac with a traditional lot (no zero) in the community of South Windermere.",
+      "photos": {
+        "count": 28,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1689961228/83/83_E4350981_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4350981",
+      "detailUrl": "/property-search/detail/83/E4350981/988-175-street-edmonton-ab-t6w-1z8/",
+      "recordNumber": 108,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Century 21 All Stars Realty Ltd",
+        "phone": "780-434-4700"
+      },
+      "agent": {
+        "name": "Nathan Clark",
+        "phone": ""
+      },
+      "lat": "53.424165",
+      "lon": "-113.622654",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    }
+  ]
+}

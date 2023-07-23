@@ -1,0 +1,1003 @@
+{
+  "responseStatus": 0,
+  "totalRecords": 3439,
+  "totalPages": 125,
+  "properties": [
+    {
+      "mlsId": 12002548,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "4825 115 Avenue",
+      "address2": "Edmonton,  AB T5W 0W3",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5W 0W3",
+      "subDivision": "Beverly Heights",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Beverly Heights"
+      },
+      "price": "$259,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 1,
+        "full": 1,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 859,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 2,
+      "yearBuilt": "1945",
+      "dateAdded": "7/22/2023",
+      "description": "Location, Location, Location, beautiful home located two blocks off Ada Boulevard.    Don't miss out on this gorgeous 3 bedroom, 1 bathroom 4 level spilt home with 1571 total sq footage including basement. Features include slate tile in the front entrace and front steps and beautiful california ceiling in the living room. This property has numerous upgrades; New hot water tank, Newer Shingles, Upgraded Electrical and Plumbing, travertine tile and porcelain tub in the bathroom and so much more. Enjoy entertaining on your large concrete patio in your large 44 X 156 backyard lot. Detached double car garage, large area behind the garage to park 4 cars. Close to ravine, walking trails, 5 minutes to Anthony Henday and Yellowhead Trail. Don't miss out on this opportunity!! It's a must see!!",
+      "photos": {
+        "count": 44,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690040412/83/83_E4351160_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351160",
+      "detailUrl": "/property-search/detail/83/E4351160/4825-115-avenue-edmonton-ab-t5w-0w3/",
+      "recordNumber": 37,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Melanie Brady",
+        "phone": ""
+      },
+      "lat": "53.567215",
+      "lon": "-113.416975",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12002547,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "11531 101 Street",
+      "address2": "Edmonton,  AB T5G 2B2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5G 2B2",
+      "subDivision": "Spruce Avenue",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Spruce Avenue"
+      },
+      "price": "$167,500",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 2,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 1,
+        "full": 1,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 812,
+      "acreage": 0.11,
+      "lotSizeSqFt": 4838.7,
+      "daysOnSite": 2,
+      "yearBuilt": "1942",
+      "dateAdded": "7/22/2023",
+      "description": "Spacious 2 bedroom bungalow located in Spruce Avenue, close to the Royal Alex hospital and Kingsway Mall with easy access to downtown. Great tenant, punctual, (tradeperson and handyman) that likes to do improvements and maintenance on his own time.  Home is situated on a deep RF3 lot - 33x146.5 - good infill as well for future or current re-development.",
+      "photos": {
+        "count": 13,
+        "width": 300,
+        "height": 169,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690040413/83/83_E4351158_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351158",
+      "detailUrl": "/property-search/detail/83/E4351158/11531-101-street-edmonton-ab-t5g-2b2/",
+      "recordNumber": 38,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Loris Realty Group Ltd",
+        "phone": "780-720-3423"
+      },
+      "agent": {
+        "name": "Luke Policella",
+        "phone": ""
+      },
+      "lat": "53.566795",
+      "lon": "-113.492888",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12002314,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "12201 46 Street",
+      "address2": "Edmonton,  AB T5W 2W5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5W 2W5",
+      "subDivision": "Bergman",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Bergman"
+      },
+      "price": "$399,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 2,
+        "full": 2,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 986,
+      "acreage": 0.14,
+      "lotSizeSqFt": 6198.61,
+      "daysOnSite": 2,
+      "yearBuilt": "1957",
+      "dateAdded": "7/22/2023",
+      "description": "Get inspired in BERGMAN! BEAUTIFUL renovated 5 bedroom bungalow with 2 KITCHENS, Separate Entry, and Oversized Double Garage on a quiet lot. The main floor features laminate floors, a large family room perfect for entertaining, formal dining room (with hidden storage) and a large kitchen perfect for prepping meals! The main bath has been renovated and you have 3 large bedrooms with enough room for everyone. The fully finished renovated basement features an in-law suite with another kitchen, large family room, 2 more large bedrooms a 3 piece shower and extra storage. Outside is your large yard (50 ft lot!) and oversized insulated double garage (wifi enabled!), perfect for BBQ season! Other upgrades include Hardie board siding, new windows, new shingles, new lights, new concrete poured in the garage and more! This is the perfect home and/or investment property located on a large quiet private corner lot! The location is fantastic and close to all amenities. Add this one to your portfolio today!",
+      "photos": {
+        "count": 48,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690036829/83/83_E4351157_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351157",
+      "detailUrl": "/property-search/detail/83/E4351157/12201-46-street-edmonton-ab-t5w-2w5/",
+      "recordNumber": 39,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Exp Realty",
+        "phone": "403-262-7653"
+      },
+      "agent": {
+        "name": "Errol Scott",
+        "phone": ""
+      },
+      "lat": "53.576848",
+      "lon": "-113.411978",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001823,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "16428 88 Street",
+      "address2": "Edmonton,  AB T5Z 3W9",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5Z 3W9",
+      "subDivision": "Belle Rive",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Belle Rive"
+      },
+      "price": "$649,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 4,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 2669,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 2,
+      "yearBuilt": "2003",
+      "dateAdded": "7/22/2023",
+      "description": "STUNNING 2-Storey home with over 3500 Sq.ft of living space on all 3 floors, located in BELLE RIVE with a SECONDARY KITCHEN in the BASEMENT and SIDE ENTRANCE. The main floor of the property features a living room upon entry with huge windows, OPEN TO BELOW Foyer with High Ceilings, a formal dining room, a family room, a den (bedroom), and a full bath on the main, with a huge kitchen. Greeted by Grand Stairs, the second floor leads you to 4 generous size bedrooms, 2 full bathrooms, and a SECOND-FLOOR OUTDOOR BALCONY. The Fully Finished Basement offers 1 Bedroom, Laundry, and Kitchen with a big Rec Room. The potential is endless in this home with so much to offer. It includes Air Conditioning for those hot summer days and a heated garage. Beautifully & professionally landscaped with very little maintenance in the back and front yard. Conveniently located walking distance to parks, schools, restaurants, and Anthony Henday. Great opportunity to own a beautiful home in a prestigious community.",
+      "photos": {
+        "count": 50,
+        "width": 225,
+        "height": 225,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690011600/83/83_E4351150_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351150",
+      "detailUrl": "/property-search/detail/83/E4351150/16428-88-street-edmonton-ab-t5z-3w9/",
+      "recordNumber": 40,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Sable Realty",
+        "phone": "780-429-4168"
+      },
+      "agent": {
+        "name": "Moe Ahmad",
+        "phone": ""
+      },
+      "lat": "53.62716",
+      "lon": "-113.478408",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 2,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001790,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "1740 18 Street",
+      "address2": "Edmonton,  AB T6T 2N2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6T 2N2",
+      "subDivision": "Laurel",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Laurel"
+      },
+      "price": "$895,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 6,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 5,
+        "full": 5,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 2853,
+      "acreage": -1,
+      "lotSizeSqFt": -1,
+      "daysOnSite": 3,
+      "yearBuilt": "2022",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to this beautiful home (3900 sqft total living space) w/ 2 bedroom LEGAL BASEMENT located in the desirable community LAUREL. This spacious property offers loads of upgrades & an opportunity with 6 bedrooms /5 Full baths, making it perfect for multi families or generating rental income. As you step inside, you will notice the well-designed layout. The main floor features 10 ft ceiling, tile flooring, a bright and airy open to below living area, and a convenient main floor bedroom w/ full bath, stylish chef kitchen & spacious spice Kitchen & dining. Upstairs, you will find 10 feet ceiling, vinyl flooring, 3 generous bedrooms plus prayer and bonus room, 3 full baths including a very spacious primary suite with a huge walk-in closet and a 5-piece ensuite bath Basement is legal with 9ft ceiling, two beds, full bath, separate kitchen, laundry & entrance. Upgrades include electronic toilet seats, rain showers, oversized garage, high-end fixtures, wide deck, acrylic stucco, 8 ft doors, main double door.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690008005/83/83_E4351149_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351149",
+      "detailUrl": "/property-search/detail/83/E4351149/1740-18-street-edmonton-ab-t6t-2n2/",
+      "recordNumber": 41,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": true,
+      "office": {
+        "name": "Maxwell Polaris",
+        "phone": "780-450-6300"
+      },
+      "agent": {
+        "name": "Kawaldeep Gill",
+        "phone": ""
+      },
+      "lat": "53.447734",
+      "lon": "-113.370457",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001789,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "8 Harrison Drive",
+      "address2": "Edmonton,  AB T5A 2R4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5A 2R4",
+      "subDivision": "Homesteader",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Homesteader"
+      },
+      "price": "$425,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 1,
+        "half": 2,
+        "threeQuarter": -1
+      },
+      "sqft": 1690,
+      "acreage": 0.18,
+      "lotSizeSqFt": 7772.29,
+      "daysOnSite": 3,
+      "yearBuilt": "1975",
+      "dateAdded": "7/21/2023",
+      "description": "This 1689 sqft 4 level split has an floor plan with 4 bedrooms above grade (3 bedrooms upper level, 1 bedroom on ground), 3 bath (2pc on main, 4pc and 2pc ensuite upstairs) with lots of new upgrading. Upgrades include New Shingles (2023), new Cabinets, new flooring, new painting, new SS appliances, and more. Huge bright living and dinning welcomes you, open concept kitchen with modern white cabinets and s.s. appliances. family room has fireplace and patio doors to large deck.  Main floor bedroom with a 2pc bath completes this level. Upstairs finds 3 bedrooms, 2 pc ensuite and 4 pc shared bath. Fully finished basement offers a massive recreation space. Brand new vinyl flooring and fresh painting through-out. Steps away from school, shopping and public transit, quick access to Yellow Head and Henday.",
+      "photos": {
+        "count": 43,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690008005/83/83_E4351148_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351148",
+      "detailUrl": "/property-search/detail/83/E4351148/8-harrison-drive-edmonton-ab-t5a-2r4/",
+      "recordNumber": 42,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Century 21 Masters",
+        "phone": "780-439-3300"
+      },
+      "agent": {
+        "name": "Henry Han",
+        "phone": ""
+      },
+      "lat": "53.589472",
+      "lon": "-113.407129",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001777,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "142 Galland Crescent",
+      "address2": "Edmonton,  AB T5T 6P4",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5T 6P4",
+      "subDivision": "Glastonbury",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Glastonbury"
+      },
+      "price": "$525,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 3,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2238,
+      "acreage": 0.12,
+      "lotSizeSqFt": 5196.6,
+      "daysOnSite": 3,
+      "yearBuilt": "2002",
+      "dateAdded": "7/21/2023",
+      "description": "Be ready to be impressed when you enter this beautifully laid out home built by Parkwood Homes. This home features 3+1 bedrooms, a main floor den, large bonus room, fully finished basement with open family room, and a brand new three piece bathroom! The open concept kitchen, dining room, and living room is ideal for large family gatherings. This home boasts beautiful hardwood floors throughout most of the main floor as well as a corner gas fireplace in living room, upper level laundry room, 3.5 bathrooms, large mud room, two tiered deck, and so much more. Shingles and HWT were replaced in 2021. This is a perfect family home in a great community.  Close to trails, park, shopping, schools.",
+      "photos": {
+        "count": 44,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690008005/83/83_E4351147_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351147",
+      "detailUrl": "/property-search/detail/83/E4351147/142-galland-crescent-edmonton-ab-t5t-6p4/",
+      "recordNumber": 43,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Devonshire Realty",
+        "phone": "780-438-2500"
+      },
+      "agent": {
+        "name": "Lorraine Alfonsi",
+        "phone": ""
+      },
+      "lat": "53.499015",
+      "lon": "-113.667271",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001678,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "2423 Ashcraft Crescent",
+      "address2": "Edmonton,  AB T6W 2M9",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6W 2M9",
+      "subDivision": "Allard",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Allard"
+      },
+      "price": "$1,249,999",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 4,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 3691,
+      "acreage": 0.14,
+      "lotSizeSqFt": 6243.71,
+      "daysOnSite": 3,
+      "yearBuilt": "2023",
+      "dateAdded": "7/21/2023",
+      "description": "Luxury living in Allard - Your search ends here! Gorgeous home with all the high end upgrades you could imagine. Fischer & Paykel appliances, 10 foot ceilings, 8 foot doors, and premium exterior upgrades, just to list a few. You will be wow'd as soon as you enter this bright and airy home which is flooded with natural light all day long. Pride of ownership shows with high end lighting and finishings. Shangri La blinds throughout with blackout blinds in the bedrooms. This home is perfect for a family looking for a cozy yet spacious home. The main floor has a full bedroom and bathroom along with an office/play room. Upstairs you will find 4 bedrooms with a central bonus room. 2 bedrooms share a jack n jill washroom. The basement is unfinished however all rough-ins are completed along with a second furnace for future legal suite development. Wrapping this home up is a triple car over sized garage and central A/C.",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690004729/83/83_E4351145_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351145",
+      "detailUrl": "/property-search/detail/83/E4351145/2423-ashcraft-crescent-edmonton-ab-t6w-2m9/",
+      "recordNumber": 44,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Liv Real Estate",
+        "phone": "780-486-8655"
+      },
+      "agent": {
+        "name": "Jessie Sahota",
+        "phone": ""
+      },
+      "lat": "53.401311",
+      "lon": "-113.520251",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001677,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "20558 92 \"A\" Avenue",
+      "address2": "Edmonton,  AB T5T 3B2",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5T 3B2",
+      "subDivision": "Suder Greens",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Suder Greens"
+      },
+      "price": "$562,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 1301,
+      "acreage": 0.09,
+      "lotSizeSqFt": 3767.26,
+      "daysOnSite": 3,
+      "yearBuilt": "2010",
+      "dateAdded": "7/21/2023",
+      "description": "Beautiful 1,301 sq. foot Adult bungalow living, located backing onto the 8th hole at the Lewis Estates Golf course in Suder Greens. This open concept designed luxury home features vaulted ceilings, hardwood flooring, 2 gas fireplaces, a bank of windows across the back of the Home to take in the golf course views, screened rear deck, double attached garage as well as 2 bedrooms up. The Kitchen comes  with a spacious granite island, stainless steel appliances, pantry & maple cabinets. Primary bedroom has its own walk-in closet & 4 piece ensuite. To round out the main level, you will discover a second bedroom/den,  2 piece bath and a large laundry room. The finished lower level has a rec. room with fireplace, 3rd bedroom with walk thru to a 4 piece bath as well as a huge storage room. No condo fees ! HOA monthly fee of $177 covers lawn cutting & snow removal. (monthly fee to be reduced to $90 in 2024). Property situated in a deep cul-de-sac so no thru traffic. Close to shopping & restaurants. Move in ready !",
+      "photos": {
+        "count": 45,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690004729/83/83_E4351144_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Half Duplex",
+      "mlsRegionId": 83,
+      "mls": "E4351144",
+      "detailUrl": "/property-search/detail/83/E4351144/20558-92-a-avenue-edmonton-ab-t5t-3b2/",
+      "recordNumber": 45,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX Excellence",
+        "phone": "780-481-2950"
+      },
+      "agent": {
+        "name": "Rick Lough",
+        "phone": ""
+      },
+      "lat": "53.527473",
+      "lon": "-113.671668",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001668,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "3624 113B Street",
+      "address2": "Edmonton,  AB T6J 1L5",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6J 1L5",
+      "subDivision": "Greenfield",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Greenfield"
+      },
+      "price": "$669,500",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 4,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 6,
+        "full": 4,
+        "half": 2,
+        "threeQuarter": -1
+      },
+      "sqft": 2196,
+      "acreage": 0.14,
+      "lotSizeSqFt": 6001.09,
+      "daysOnSite": 3,
+      "yearBuilt": "1980",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to Greenfield - located right in the heart of the neighbourhood on THE ONLY tree lined street. Upon entering this well maintained & extensively renovated home you are greeted w/a spacious living room flowing into dining/kitchen space. Kitchen features maple cabinets, granite counters, SS appliances & pass through to the living space w/breakfast bar. Beyond the dining room is a separate & spacious family room w/wet bar & full bath. The main floor also includes 2 additional beds (could be converted to 3 beds) & 1.5 baths. Moving up into the primary suite you will enjoy the privacy of being on your own level. With enough space for a king size bed, spa-like ensuite & coffee bar - the perfect retreat. The HUGE basement features rec rooms, additional bed/bath, dual laundry areas & ample storage. Enjoy summer BBQs in the low maintenance backyard including a heated OZ double detached garage w/220V power, 10' ceilings & 2pc bath - a mechanic's dream! Walking distance to all schools, spray park & MORE!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690004729/83/83_E4351143_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351143",
+      "detailUrl": "/property-search/detail/83/E4351143/3624-113b-street-edmonton-ab-t6j-1l5/",
+      "recordNumber": 46,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "RE/MAX River City",
+        "phone": "780-485-5005"
+      },
+      "agent": {
+        "name": "Chloe Pleckaitis",
+        "phone": ""
+      },
+      "lat": "53.470816",
+      "lon": "-113.527269",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001482,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "9518 Pear Close",
+      "address2": "Edmonton,  AB T6X 2N6",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6X 2N6",
+      "subDivision": "The Orchards At Ellerslie",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "The Orchards At Ellerslie"
+      },
+      "price": "$749,900",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 3,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 3,
+        "full": 2,
+        "half": 1,
+        "threeQuarter": -1
+      },
+      "sqft": 2504,
+      "acreage": 0.13,
+      "lotSizeSqFt": 5873.43,
+      "daysOnSite": 3,
+      "yearBuilt": "2020",
+      "dateAdded": "7/21/2023",
+      "description": "STUNNING 2 STOREY WALKOUT BASEMENT HOME WITH OVER 2500SQFT, OVERSIZED DOUBLE ATTACHED GARAGE, AND BACKS THE POND/RESERVE/WALKING TRAILS! This fully upgraded Bedrock Built home is sure to please, featuring 3 Bedrooms, 2.5 Bathrooms, massive bonus room w/ over 9ft ceilings, up stairs laundry room w/sink, and huge primary suite! The main floor features open concept, luxury vinyl plank, floor to ceiling cabinets, quartz counter tops feature tiled fireplace, walkthrough pantry, as well as the perfect den/office if you work from home! Other notable upgrades include the CENTRAL AC, water softener and smart lighting system. This property boasts a massive backyard and is fully fenced/landscaped which is perfect for the pets and entertaining. The raised deck finished off the home with the perfect view of the storm pond/environmental reserve/walking trails that are behind the home. The WALKOUT BASEMENT is unspoiled and features a 3rd full bath rough-in, storage, mechanical and loads of natural light! Don't miss out!",
+      "photos": {
+        "count": 50,
+        "width": 300,
+        "height": 200,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690000876/83/83_E4351141_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351141",
+      "detailUrl": "/property-search/detail/83/E4351141/9518-pear-close-edmonton-ab-t6x-2n6/",
+      "recordNumber": 47,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Maxwell Progressive",
+        "phone": "780-478-5478"
+      },
+      "agent": {
+        "name": "Keith Madsen",
+        "phone": ""
+      },
+      "lat": "53.400902",
+      "lon": "-113.472935",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    },
+    {
+      "mlsId": 12001398,
+      "status": "Active",
+      "subStatus": "",
+      "statusText": "",
+      "address1": "5 Marlboro Road",
+      "address2": "Edmonton,  AB T6J 2C7",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6J 2C7",
+      "subDivision": "Westbrook Estate",
+      "projectName": "",
+      "neighborhood": {
+        "label": "Neighbourhood",
+        "value": "Westbrook Estate"
+      },
+      "price": "$1,399,000",
+      "priceChange": {
+        "isChanged": false,
+        "value": "$0",
+        "pctValue": "0%",
+        "isDown": false
+      },
+      "beds": {
+        "count": 5,
+        "isLoft": false,
+        "isStudio": false
+      },
+      "baths": {
+        "count": 4,
+        "full": 4,
+        "half": -1,
+        "threeQuarter": -1
+      },
+      "sqft": 2828,
+      "acreage": 0.27,
+      "lotSizeSqFt": 11812.95,
+      "daysOnSite": 3,
+      "yearBuilt": "1972",
+      "dateAdded": "7/21/2023",
+      "description": "Welcome to this gorgeous, Modernist bungalow by architect Larry Loh in the prestigious community of Westbrook Estates. A true oasis, this home is situated on a large lot with mature trees, complete with a huge composite deck for entertaining. Inside you will find an enchanting central atrium with stunning 14 ft cedar ceilings and pyramidal skylight  the natural light in this home is truly spectacular. Luxurious custom kitchen features walnut and white-gloss millwork, quartz countertops, and top-of-the line appliances including built-in Miele fridge and espresso machine. The 2800 sq ft main floor also boasts a spacious living room, dining room, three bedrooms plus den/home office, 3 full bathrooms, laundry, and attached 2 car garage with vaulted ceilings throughout. The beautifully-finished basement hosts a nanny/in-law suite complete with separate entrance. Amazing school catchment, river valley trails, and Derrick golf course nearby there is so much to love in this one-of-kind home. Walk in and say wow!",
+      "photos": {
+        "count": 49,
+        "width": 300,
+        "height": 199,
+        "url": "https://cdn.listingphotos.sierrastatic.com/pics2x/v1690051308/83/83_E4351138_01.jpg"
+      },
+      "virtualTourUrl": "",
+      "openHouse": {
+        "count": 0,
+        "date": "",
+        "time": ""
+      },
+      "listType": "1",
+      "listTypeDescrip": "Detached Single Family",
+      "mlsRegionId": 83,
+      "mls": "E4351138",
+      "detailUrl": "/property-search/detail/83/E4351138/5-marlboro-road-edmonton-ab-t6j-2c7/",
+      "recordNumber": 48,
+      "displayOfficeOnSummary": false,
+      "displayAgentOnSummary": false,
+      "showDaysOnSite": true,
+      "isClientListing": false,
+      "office": {
+        "name": "Logic Realty",
+        "phone": "780-915-6442"
+      },
+      "agent": {
+        "name": "Ken Krochmal",
+        "phone": ""
+      },
+      "lat": "53.472718",
+      "lon": "-113.552873",
+      "listingClass": "1",
+      "isSavedListing": false,
+      "dateSold": "",
+      "soldLabel": "Sold",
+      "daysOn": {
+        "value": 3,
+        "label": "Site"
+      },
+      "feedSourceType": 0
+    }
+  ]
+}
