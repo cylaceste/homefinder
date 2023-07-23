@@ -15,7 +15,7 @@ class Database:
         self._create_table()
         self._convert_csv_to_sql( table_name='property_table', csv_file_name=property_table_csv)
         self._convert_csv_to_sql( table_name='image_table', csv_file_name=image_table_csv)
-        self._convert_csv_to_sql( table_name='agent_table', csv_file_name=agent_table_csv)
+        # self._convert_csv_to_sql( table_name='agent_table', csv_file_name=agent_table_csv)
 
     def _get_connection(self):
         conn = sqlite3.connect(self.database_name, uri=True)
@@ -25,7 +25,7 @@ class Database:
         query = ''
         query += self._get_property_table_definition()
         query += self._get_image_table_definition()
-        query += self._get_agent_table_definition()
+        # query += self._get_agent_table_definition()
         
         conn, cursor = self._get_connection()
         cursor.executescript('DROP TABLE if exists property_table;DROP TABLE if exists image_table;DROP TABLE if exists agent_table;'+query)
@@ -55,7 +55,10 @@ class Database:
                     smoking_allowed BOOL,
                     air_conditioning BOOL,
                     hardwood_floors BOOL,
-                    balcony BOOL
+                    balcony BOOL,
+                    agent_name text,
+                    agent_phone text,
+                    agent_email text
                 );'''
 
     def _get_image_table_definition(self) -> str:
@@ -70,14 +73,14 @@ class Database:
             CREATE INDEX idx_property_id ON image_table (property_id);
             '''
 
-    def _get_agent_table_definition(self) -> str:
-        return '''CREATE TABLE agent_table (
-                property_id int not null,
-                primary_email text,
-                primary_phone text,
-                agent_name text,
-                FOREIGN KEY (property_id) REFERENCES property_table(property_id)
-            );'''
+    # def _get_agent_table_definition(self) -> str:
+    #     return '''CREATE TABLE agent_table (
+    #             property_id int not null,
+    #             primary_email text,
+    #             primary_phone text,
+    #             agent_name text,
+    #             FOREIGN KEY (property_id) REFERENCES property_table(property_id)
+    #         );'''
 
     def _convert_csv_to_sql(self, table_name='property_table', csv_file_name='property_table.csv'):
         conn, cursor = self._get_connection()
@@ -88,8 +91,9 @@ class Database:
                 sql_script = '''
                     INSERT INTO property_table (property_id, property_name, description, num_bedroom, num_bathroom, 
                     area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly,
-                    latitude, longitude, build_year, air_conditioning, hardwood_floors, balcony)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    latitude, longitude, build_year, air_conditioning, hardwood_floors, balcony,
+                    agent_name, agent_phone, agent_email)
+                    VALUES (?,?,?,?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     '''
                 record = (row.property_id, 
                     row.property_name,
@@ -109,7 +113,10 @@ class Database:
                     row.build_year,
                     row.air_conditioning,
                     row.hardwood_floors,
-                    row.balcony)
+                    row.balcony,
+                    row.agent_name,
+                    row.agent_phone,
+                    row.agent_email)
                 cursor.execute(sql_script, record)
             conn.commit()
             conn.close()
@@ -187,7 +194,8 @@ if __name__ == "__main__":
     # GROUP BY property_table.property_id
     # LIMIT 10;
     # '''
-    query = "SELECT property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id LIMIT 10;"
+    query = "SELECT * from property_table where price < 2000"
+    # query = "SELECT property_name, description, num_bedroom, num_bathroom, area_size, price, transaction_type, property_type, parking, laundry, furnished, pet_friendly, latitude, longitude, build_year, smoking_allowed, air_conditioning, hardwood_floors, balcony, GROUP_CONCAT(image_url) as image_urls FROM property_table INNER JOIN image_table ON property_table.property_id = image_table.property_id WHERE num_bedroom >= 5 AND property_type = 'House' GROUP BY property_table.property_id LIMIT 10;"
     data = sql_class.fetch_query(query=query)[0]
     print(data)
     # print(sql_class.get_database_definition())
