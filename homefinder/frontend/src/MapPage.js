@@ -57,9 +57,10 @@ function MapPage(properties) {
                       <div className="custom-popup-content">
                         <span style={{whiteSpace: "pre-line"}}>{infoWithoutImageUrls}</span>
                         {
-                          location.image_urls.split(',').slice(0, 6).map((url, index) => 
+                        (location.image_urls && location.image_urls.length > 0) ? 
+                            location.image_urls.split(',').slice(0, 6).map((url, index) => 
                             <img key={index} src={url} alt="Property" width="50" height="50"/>
-                          )
+                            ) : null
                         }
                       </div>
                     </Popup>
