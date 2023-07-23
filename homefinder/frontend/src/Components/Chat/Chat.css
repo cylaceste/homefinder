@@ -1,0 +1,19 @@
+.Chat {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    overflow: auto;
+}
+
+.Chat-header {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.user {
+    text-align: right;
+}
+
+.agent {
+    text-align: left;
+}

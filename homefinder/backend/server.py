@@ -100,6 +100,10 @@ def get_agent_response(message_history: List[Dict[str, str]]):
         query_for_info = response_dict.get('query_for_info', '')
         if query_for_info:
             sql_query_result = json.dumps(property_database.fetch_query(query_for_info))
+            # Remove the query_for_info prompt component
+            # Presumably we don't want to query the database multiple times
+            # As that would take too long
+            prompt_messages[0]['content'] = "\n".join([sterilize_string(string) for string in [PromptComponents.preamble, PromptComponents.schema, PromptComponents.query_response]])
             prompt_messages.append({
                 "role": "system",
                 "content": sql_query_result
