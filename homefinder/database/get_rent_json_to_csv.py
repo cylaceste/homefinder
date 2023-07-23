@@ -14,7 +14,6 @@ with open(file_name+'.json', 'r') as f:
 
 image_csv_data = []
 propert_csv_data = []
-agent_csv_data = []
 
 for i in range(len(data['listings'])):
     temp_property = data['listings'][i]
@@ -31,7 +30,7 @@ for i in range(len(data['listings'])):
         property_data['num_bedroom'] = '1'
     property_data['num_bathroom'] = temp_property['baths'] if 'baths' in temp_property.keys() else '0'
     property_data['area_size'] = temp_property['sq_feet'] if 'sq_feet' in temp_property.keys() else '0'
-    property_data['price'] = temp_property['price']
+    property_data['price'] = temp_property['price'].replace(',', '')
     property_data['transaction_type'] = 'Rent'
     property_data['property_type'] = temp_property['type']
     property_data['parking'] = random.choice(['garage', 'underground', 'covered', 'outdoor'])
@@ -51,6 +50,11 @@ for i in range(len(data['listings'])):
     property_data['air_conditioning'] = random.choice([True, False])
     property_data['hardwood_floors'] = random.choice([True, False])
     property_data['balcony'] = random.choice([True, False])
+
+    property_data['agent_name'] = ''
+    property_data['agent_phone'] = temp_property['phone']
+    property_data['agent_email'] = str(temp_property['phone'])+'@gmail.com'
+
     propert_csv_data.append(property_data)
 
     image_data = {}
@@ -60,14 +64,6 @@ for i in range(len(data['listings'])):
     image_data['image_type'] = random.choice(['indoor', 'outdoor'])
     image_csv_data.append(image_data)
 
-    agend_data = {}
-    agend_data['property_id'] = temp_property['ref_id']
-    agend_data['agent_name'] = ''
-    agend_data['primary_phone'] = temp_property['phone']
-    agend_data['primary_email'] = str(temp_property['phone'])+'@gmail.com'
-    agent_csv_data.append(agend_data)
-
-
 parent_path = './real_data/'
 
 propert_csv_df = pd.DataFrame.from_records(propert_csv_data)
@@ -75,6 +71,3 @@ propert_csv_df.to_csv(file_name+'_property.csv')
 
 image_csv_df = pd.DataFrame.from_records(image_csv_data)
 image_csv_df.to_csv(file_name+'_image.csv')
-
-agent_csv_df = pd.DataFrame.from_records(agent_csv_data)
-agent_csv_df.to_csv(file_name+'_agent.csv')
