@@ -63,7 +63,9 @@ class Database:
                 image_url text,
                 PRIMARY KEY (image_id),
                 FOREIGN KEY (property_id) REFERENCES property_table(property_id)
-            );'''
+            );
+            CREATE INDEX idx_property_id ON image_table (property_id);
+            '''
 
     def get_agent_table_definition(self) -> str:
         return '''CREATE TABLE agent_table (
