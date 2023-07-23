@@ -113,7 +113,6 @@ class Database:
             conn.close()
         elif table_name == 'image_table':
             df = pd.read_csv(csv_file_name)
-            print (df.columns.tolist())
             for row in df.itertuples():
                 sql_script = '''
                     INSERT INTO image_table (image_id, property_id, image_type, image_url)
@@ -140,7 +139,6 @@ class Database:
 
     def insert_row(self, table_name: str, data: List[List[Any]]):
         conn, cursor = self._get_connection()
-        print(data)
         if isinstance(data[0], list):
             placeholders = ', '.join('?' * len(data[0]))
             query = f'INSERT INTO {table_name} VALUES ({placeholders})'
