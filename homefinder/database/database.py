@@ -6,32 +6,33 @@ import pandas as pd
 current_file_directory = os.path.dirname(os.path.realpath(__file__))
 database_path = os.path.join(current_file_directory, 'property_database')
 property_table_csv = os.path.join(current_file_directory, 'property_table.csv')
+image_table_csv = os.path.join(current_file_directory, 'image_table.csv')
+agent_table_csv = os.path.join(current_file_directory, 'agent_table.csv')
 class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
         self._create_table()
-        self._convert_csv_to_sql( table_name='property_table', csv_file_name='../database/property_table.csv')
-        self._convert_csv_to_sql( table_name='image_table', csv_file_name='../database/image_table.csv')
-        self._convert_csv_to_sql( table_name='agent_table', csv_file_name='../database/agent_table.csv')
+        self._convert_csv_to_sql( table_name='property_table', csv_file_name=property_table_csv)
+        self._convert_csv_to_sql( table_name='image_table', csv_file_name=image_table_csv)
+        self._convert_csv_to_sql( table_name='agent_table', csv_file_name=agent_table_csv)
 
-    def get_connection(self):
+    def _get_connection(self):
         conn = sqlite3.connect(self.database_name, uri=True)
-        cursor = conn.cursor()
-        return conn, cursor
+        return conn, conn.cursor()
 
     def _create_table(self):
         query = ''
-        query += self.get_property_table_definition()
-        query += self.get_image_table_definition()
-        query += self.get_agent_table_definition()
+        query += self._get_property_table_definition()
+        query += self._get_image_table_definition()
+        query += self._get_agent_table_definition()
         
-        conn, cursor = self.get_connection()
+        conn, cursor = self._get_connection()
         cursor.executescript('DROP TABLE if exists property_table;DROP TABLE if exists image_table;DROP TABLE if exists agent_table;'+query)
         # cursor.execute(query)
         conn.commit()
         conn.close()
 
-    def get_property_table_definition(self) -> str:
+    def _get_property_table_definition(self) -> str:
         return '''  CREATE TABLE property_table (
                     property_id int NOT NULL PRIMARY KEY,
                     property_name VARCHAR(255),
@@ -55,7 +56,7 @@ class Database:
                     balcony BOOL
                 );'''
 
-    def get_image_table_definition(self) -> str:
+    def _get_image_table_definition(self) -> str:
         return '''CREATE TABLE image_table (
                 image_id int not null,
                 property_id int not null,
@@ -67,7 +68,7 @@ class Database:
             CREATE INDEX idx_property_id ON image_table (property_id);
             '''
 
-    def get_agent_table_definition(self) -> str:
+    def _get_agent_table_definition(self) -> str:
         return '''CREATE TABLE agent_table (
                 property_id int not null,
                 primary_email text,
@@ -76,7 +77,7 @@ class Database:
             );'''
 
     def _convert_csv_to_sql(self, table_name='property_table', csv_file_name='property_table.csv'):
-        conn, cursor = self.get_connection()
+        conn, cursor = self._get_connection()
         sql_script = ""
         if table_name == 'property_table':
             df = pd.read_csv(csv_file_name)
@@ -111,7 +112,6 @@ class Database:
             conn.close()
         elif table_name == 'image_table':
             df = pd.read_csv(csv_file_name)
-            print (df.columns.tolist())
             for row in df.itertuples():
                 sql_script = '''
                     INSERT INTO image_table (image_id, property_id, image_type, image_url)
@@ -137,8 +137,7 @@ class Database:
         return 
 
     def insert_row(self, table_name: str, data: List[List[Any]]):
-        conn, cursor = self.get_connection()
-        print(data)
+        conn, cursor = self._get_connection()
         if isinstance(data[0], list):
             placeholders = ', '.join('?' * len(data[0]))
             query = f'INSERT INTO {table_name} VALUES ({placeholders})'
@@ -150,8 +149,8 @@ class Database:
         conn.commit()
         conn.close()
 
-    def execute_query(self, query: str, params: Optional[Tuple] = None):
-        conn, cursor = self.get_connection()
+    def _execute_query(self, query: str, params: Optional[Tuple] = None):
+        conn, cursor = self._get_connection()
         if params is None:
             cursor.execute(query)
         else:
@@ -159,8 +158,8 @@ class Database:
         conn.commit()
         conn.close()
 
-    def fetch_query(self, query: str, params: Optional[Tuple] = None) -> List[Tuple]:
-        conn, cursor = self.get_connection()
+    def fetch_query(self, query: str, params: Optional[Tuple] = None) -> Tuple[List[Tuple[Any]], List[str]]:
+        conn, cursor = self._get_connection()
         if params is None:
             cursor.execute(query)
         else:
@@ -169,23 +168,23 @@ class Database:
         field_names = [i[0] for i in cursor.description]
         conn.close()
         return result, field_names
-
-    def get_images_from_property_id(self, property_id):
-        conn, cursor = self.get_connection()
-        query = "Select image_url, image_type from image_table where property_id = "+ str(property_id) 
-        try:
-            cursor.execute(query)
-            result = cursor.fetchall()
-            field_names = [i[0] for i in cursor.description]
-            return result, field_names
-            conn.close()
-        except:
-            conn.close()
-            print ('Error in get_images_from_property_id')
-            return None, None
+    
+    def get_database_definition(self) -> str:
+        return ';\n'.join(table_defn[0] for table_defn in self.fetch_query(query='SELECT sql FROM sqlite_master;')[0] if table_defn[0])
 
 if __name__ == "__main__":
     sql_class = Database()
-    # data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
-    data = sql_class.get_images_from_property_id(1)
-    print (data)
+    query='SELECT sql FROM sqlite_master;'
+    query='''
+    SELECT property_table.property_id, property_table.description AS property_description, property_table.latitude, property_table.longitude, 
+       property_table.num_bedroom, GROUP_CONCAT(image_table.image_url) AS image_urls
+FROM property_table
+LEFT JOIN image_table ON property_table.property_id = image_table.property_id
+WHERE property_table.num_bedroom >= 3 AND property_table.latitude BETWEEN 53.3 AND 53.7 AND property_table.longitude BETWEEN -113.7 AND -113.3
+GROUP BY property_table.property_id
+LIMIT 10;
+'''
+    data = sql_class.fetch_query(query=query)[0]
+    print(data)
+    # print(sql_class.get_database_definition())
+    # sql_class.close()

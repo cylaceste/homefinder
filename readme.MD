@@ -1,6 +1,12 @@
-# homefinder
-TODO Describe the app
 
+# TODO 
+Describe the app
+
+Finish Front end and beautify
+
+Add more info to database [Weijie doing, write script to get rent and sale real estate, should get 200 before 1pm, but we may need discuss some more columns, eg: 'city', 'address', ...] 
+
+# homefinder
 
 ## Frontend
 1. Install nodejs from https://nodejs.org/en
@@ -16,11 +22,11 @@ npm start
 
 1. Set your openai key:
 ```
-export OPENAI_KEY=<your_openai_key>
+export OPENAI_API_KEY=<your_openai_key>
 ```
 or if you're on Windows use:
 ```
-set OPENAI_KEY=<your_openai_key>
+set OPENAI_API_KEY=<your_openai_key>
 ```
 
 2. Install requirements. From root directory, use your terminal to run:
