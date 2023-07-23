@@ -20,7 +20,6 @@ for i in range(len(data['listings'])):
     temp_property = data['listings'][i]
     property_data = {}
     property_data['property_id'] = temp_property['ref_id']
-    property_data['address'] = temp_property['intro']
     property_data['property_name'] = temp_property['title'] if 'title' in temp_property.keys() else temp_property['intro']
     property_data['description'] = temp_property['intro']
     if 'beds' in temp_property.keys():
