@@ -1,0 +1,69 @@
+.Chat {
+    width: 40%;
+    height: 80%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.Chat p {
+    padding: 5px;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.Chat .user {
+    align-self: flex-start;
+    background-color: #4caf50;
+    color: white;
+}
+
+.Chat .agent {
+    align-self: flex-end;
+    background-color: #008CBA;
+    color: white;
+}
+
+.Chat form {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.Chat form input {
+    width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.Chat form button {
+    width: 18%;
+    background-color: #008CBA;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Chat form button:disabled {
+    background-color: #ccc;
+}
+
+.Chat .loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
