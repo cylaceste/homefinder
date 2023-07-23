@@ -4,8 +4,7 @@ Describe the app
 
 Finish Front end and beautify
 
-Add more info to database
-
+Add more info to database [Weijie doing, write script to get rent and sale real estate, should get 200 before 1pm, but we may need discuss some more columns, eg: 'city', 'address', ...] 
 
 # homefinder
 
