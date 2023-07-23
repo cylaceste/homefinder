@@ -28,7 +28,7 @@ for i in range(len(data['properties'])):
     property_data['area_size'] = temp_property['sqft']
     property_data['price'] = temp_property['price'][1:]
     property_data['transaction_type'] = 'Buy'
-    property_data['property_type'] = 'House'
+    property_data['property_type'] = random.choice(['Apartment', 'Townhouse', 'Condo Unit', 'House', 'Duplex'])
     property_data['parking'] = random.choice(['garage', 'underground', 'covered', 'outdoor'])
     property_data['laundry'] = random.choice(['in_suite', 'shared'])
     property_data['furnished'] = random.choice([True, False])

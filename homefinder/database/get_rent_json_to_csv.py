@@ -64,7 +64,7 @@ for i in range(len(data['listings'])):
     agend_data['property_id'] = temp_property['ref_id']
     agend_data['agent_name'] = ''
     agend_data['primary_phone'] = temp_property['phone']
-    agend_data['primary_email'] = ''
+    agend_data['primary_email'] = str(temp_property['phone'])+'@gmail.com'
     agent_csv_data.append(agend_data)
 
 
