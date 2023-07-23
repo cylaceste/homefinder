@@ -9,7 +9,10 @@ function Chat() {
     const submitMessage = async (e) => {
         e.preventDefault();
         const newMessage = {role: "user", content: userMessage};
-        setMessages([...messages, newMessage]);
+
+        // To make sure that state update has the most recent state, 
+        // use a function within setMessages
+        setMessages(prevMessages => [...prevMessages, newMessage]);
         setIsLoading(true);
 
         const response = await fetch('http://localhost:5000/send_message', {

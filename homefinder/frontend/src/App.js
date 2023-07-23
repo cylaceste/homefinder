@@ -11,10 +11,10 @@ function App() {
         <Chat />
       </div>
       <div className="pane">
-        <PropertyList />
+        {/* <PropertyList /> */}
       </div>
       <div className="pane">
-        <Map />
+        {/* <Map /> */}
       </div>
     </div>
   );
