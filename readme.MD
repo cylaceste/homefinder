@@ -16,11 +16,11 @@ npm start
 
 1. Set your openai key:
 ```
-export OPENAI_KEY=<your_openai_key>
+export OPENAI_API_KEY=<your_openai_key>
 ```
 or if you're on Windows use:
 ```
-set OPENAI_KEY=<your_openai_key>
+set OPENAI_API_KEY=<your_openai_key>
 ```
 
 2. Install requirements. From root directory, use your terminal to run:
