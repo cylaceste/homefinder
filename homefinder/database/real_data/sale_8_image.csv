@@ -1,24 +1,13 @@
 ,image_id,image_url,property_id,image_type
 0,8000,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968511/83/83_E4351039_01.jpg,8000,outdoor
-1,8001,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968465/83/83_E4351036_01.jpg,8001,indoor
+1,8001,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968465/83/83_E4351036_01.jpg,8001,outdoor
 2,8002,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968510/83/83_E4351035_01.jpg,8002,indoor
-<<<<<<< HEAD
 3,8003,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968543/83/83_E4351029_01.jpg,8003,outdoor
-4,8004,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968412/83/83_E4351024_01.jpg,8004,indoor
-5,8005,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968488/83/83_E4351020_01.jpg,8005,outdoor
-6,8006,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964798/83/83_E4351010_01.jpg,8006,indoor
-7,8007,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964944/83/83_E4351012_01.jpg,8007,indoor
-8,8008,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964981/83/83_E4351008_01.jpg,8008,indoor
-9,8009,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964802/83/83_E4351006_01.jpg,8009,outdoor
-10,8010,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964865/83/83_E4351005_01.jpg,8010,indoor
-=======
-3,8003,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968543/83/83_E4351029_01.jpg,8003,indoor
 4,8004,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968412/83/83_E4351024_01.jpg,8004,outdoor
-5,8005,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968488/83/83_E4351020_01.jpg,8005,outdoor
-6,8006,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964798/83/83_E4351010_01.jpg,8006,indoor
+5,8005,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689968488/83/83_E4351020_01.jpg,8005,indoor
+6,8006,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964798/83/83_E4351010_01.jpg,8006,outdoor
 7,8007,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964944/83/83_E4351012_01.jpg,8007,indoor
 8,8008,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964981/83/83_E4351008_01.jpg,8008,outdoor
 9,8009,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964802/83/83_E4351006_01.jpg,8009,outdoor
-10,8010,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964865/83/83_E4351005_01.jpg,8010,outdoor
->>>>>>> a0fecb26d90642e0d983d778fbc56805e030c7d4
-11,8011,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964957/83/83_E4351000_01.jpg,8011,indoor
+10,8010,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964865/83/83_E4351005_01.jpg,8010,indoor
+11,8011,https://cdn.listingphotos.sierrastatic.com/pics2x/v1689964957/83/83_E4351000_01.jpg,8011,outdoor
