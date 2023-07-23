@@ -37,7 +37,6 @@ class Database:
         return '''  CREATE TABLE property_table (
                     property_id int NOT NULL PRIMARY KEY,
                     property_name VARCHAR(255),
-                    address Text,
                     description VARCHAR(255),
                     num_bedroom INT,
                     num_bathroom INT,

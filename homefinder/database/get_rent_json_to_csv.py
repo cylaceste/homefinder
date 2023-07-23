@@ -19,7 +19,6 @@ agent_csv_data = []
 for i in range(len(data['listings'])):
     temp_property = data['listings'][i]
     property_data = {}
-    # property_id = i + 2000000
     property_data['property_id'] = temp_property['ref_id']
     property_data['address'] = temp_property['intro']
     property_data['property_name'] = temp_property['title'] if 'title' in temp_property.keys() else temp_property['intro']
@@ -71,7 +70,6 @@ parent_path = './real_data/'
 
 propert_csv_df = pd.DataFrame.from_records(propert_csv_data)
 propert_csv_df.to_csv(file_name+'_property.csv')
-# print (propert_csv_df['property_type'].unique())
 
 image_csv_df = pd.DataFrame.from_records(image_csv_data)
 image_csv_df.to_csv(file_name+'_image.csv')
