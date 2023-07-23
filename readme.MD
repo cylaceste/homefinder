@@ -1,6 +1,10 @@
-# homefinder
-TODO Describe the app
 
+# TODO 
+Describe the app
+Finish Front end and beautify
+Add more info to database
+
+# homefinder
 
 ## Frontend
 1. Install nodejs from https://nodejs.org/en
