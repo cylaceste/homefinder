@@ -1,0 +1,8 @@
+.PropertyList {
+    padding: 20px;
+    overflow: auto;
+}
+
+.property-item {
+    margin-bottom: 20px;
+}
