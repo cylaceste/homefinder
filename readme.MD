@@ -1,3 +1,5 @@
+![logo](https://github.com/cylaceste/homefinder/blob/main/homefinder/frontend/src/images/logo.png)
+
 # homefinder
 homefinder bridges the gap between users and the database in a modern way, without clunky filters but with natural language. homefinder is an application that is built on React as a front end and Flask as a backend. It works by messaging OpenAI'
 
