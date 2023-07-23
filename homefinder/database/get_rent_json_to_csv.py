@@ -19,7 +19,7 @@ agent_csv_data = []
 for i in range(len(data['listings'])):
     temp_property = data['listings'][i]
     property_data = {}
-    property_id = i + 2000000
+    # property_id = i + 2000000
     property_data['property_id'] = temp_property['ref_id']
     property_data['address'] = temp_property['intro']
     property_data['property_name'] = temp_property['title'] if 'title' in temp_property.keys() else temp_property['intro']
@@ -53,14 +53,14 @@ for i in range(len(data['listings'])):
     propert_csv_data.append(property_data)
 
     image_data = {}
-    image_data['image_id'] = property_id
+    image_data['image_id'] = temp_property['ref_id']
     image_data['image_url'] = temp_property['thumb2']
-    image_data['property_id'] = property_id
+    image_data['property_id'] = temp_property['ref_id']
     image_data['image_type'] = random.choice(['indoor', 'outdoor'])
     image_csv_data.append(image_data)
 
     agend_data = {}
-    agend_data['property_id'] = property_id
+    agend_data['property_id'] = temp_property['ref_id']
     agend_data['agent_name'] = ''
     agend_data['primary_phone'] = temp_property['phone']
     agend_data['primary_email'] = ''
