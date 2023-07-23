@@ -8,6 +8,7 @@ database_path = os.path.join(current_file_directory, 'property_database')
 property_table_csv = os.path.join(current_file_directory, 'property_table.csv')
 image_table_csv = os.path.join(current_file_directory, 'image_table.csv')
 agent_table_csv = os.path.join(current_file_directory, 'agent_table.csv')
+
 class Database:
     def __init__(self, database_name = database_path):
         self.database_name = database_name
@@ -36,14 +37,16 @@ class Database:
         return '''  CREATE TABLE property_table (
                     property_id int NOT NULL PRIMARY KEY,
                     property_name VARCHAR(255),
+                    address Text,
                     description VARCHAR(255),
                     num_bedroom INT,
                     num_bathroom INT,
                     area_size INT,
                     price FLOAT,
                     transaction_type TEXT CHECK( transaction_type IN ('Buy', 'Rent') ),
-                    property_type TEXT CHECK( property_type IN ('Condo', 'Apartment', 'House', 'Townhouse') ),
-                    parking TEXT CHECK( parking IN ('garage', 'underground', 'covered', 'outdoor') ),
+                    property_type TEXT CHECK( property_type IN ('Apartment', 'Townhouse', 'Condo Unit', 'House', 'Duplex', 'Basement',
+ 'Main Floor', 'Room For Rent', 'Loft', 'Office Space') ),
+                    parking TEXT CHECK( parking IN ('garage', 'underground', 'covered', 'outdoor', 'no') ),
                     laundry TEXT CHECK( laundry IN ('in_suite', 'shared') ),
                     furnished BOOL,
                     pet_friendly BOOL,
@@ -73,6 +76,7 @@ class Database:
                 property_id int not null,
                 primary_email text,
                 primary_phone text,
+                agent_name text,
                 FOREIGN KEY (property_id) REFERENCES property_table(property_id)
             );'''
 
@@ -96,7 +100,7 @@ class Database:
                     row.area_size,
                     row.price,
                     row.transaction_type,
-                    row.property_types,
+                    row.property_type,
                     row.parking,
                     row.laundry,
                     row.furnished,                    
