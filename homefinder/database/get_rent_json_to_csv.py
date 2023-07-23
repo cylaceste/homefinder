@@ -20,11 +20,13 @@ for i in range(len(data['listings'])):
     temp_property = data['listings'][i]
     property_data = {}
     property_data['property_id'] = temp_property['ref_id']
-    property_data['address'] = temp_property['intro']
     property_data['property_name'] = temp_property['title'] if 'title' in temp_property.keys() else temp_property['intro']
     property_data['description'] = temp_property['intro']
     if 'beds' in temp_property.keys():
-        property_data['num_bedroom'] = str(float(temp_property['beds'][0])+0.5) if 'den' in temp_property['beds'] else temp_property['beds']
+        if temp_property['beds'] == 'studio':
+            property_data['num_bedroom'] = 1
+        else:
+            property_data['num_bedroom'] = str(float(temp_property['beds'][0])+0.5) if 'den' in temp_property['beds'] else temp_property['beds']
     else:
         property_data['num_bedroom'] = '1'
     property_data['num_bathroom'] = temp_property['baths'] if 'baths' in temp_property.keys() else '0'
@@ -62,7 +64,7 @@ for i in range(len(data['listings'])):
     agend_data['property_id'] = temp_property['ref_id']
     agend_data['agent_name'] = ''
     agend_data['primary_phone'] = temp_property['phone']
-    agend_data['primary_email'] = ''
+    agend_data['primary_email'] = str(temp_property['phone'])+'@gmail.com'
     agent_csv_data.append(agend_data)
 
 

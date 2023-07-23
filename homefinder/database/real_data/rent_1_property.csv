@@ -1,504 +1,503 @@
-,property_id,address,property_name,description,num_bedroom,num_bathroom,area_size,price,transaction_type,property_type,parking,laundry,furnished,pet_friendly,latitude,longitude,build_year,smoking_allowed,air_conditioning,hardwood_floors,balcony
-0,517036,10110 120 STREET NW,Find Your Zen at Citizen on Jasper,10110 120 STREET NW,1,1,469,1480,Rent,Apartment,garage,shared,True,True,53.5412895,-113.5292479,2000-01-01,False,True,False,True
-1,470242,10045 111 Street NW,E11EVEN APARTMENTS - Leasing for August & September! ,10045 111 Street NW,studio,1,1029,1390,Rent,Apartment,underground,in_suite,True,True,53.5401546,-113.5115349,2000-01-01,False,False,True,True
-2,460758,10043 108  Northwest Street,CAPITAL APARTMENTS - DOWNTOWN EDMONTON PET FRIENDLY LIVING - SUMMER INCENTIVES*,10043 108  Northwest Street,studio,1,1105,1299,Rent,Apartment,underground,shared,True,True,53.5399968,-113.5063117,2000-01-01,False,False,True,False
-3,377693,10141 124 Street Northwest,The MacLaren,10141 124 Street Northwest,1,1,1065,1509,Rent,Apartment,outdoor,in_suite,True,True,53.5428264,-113.5355289,2000-01-01,False,True,False,False
-4,437811,8122 106 ST NW,Premium Rental Living on Whyte Ave. Where Home & Life Connect.,8122 106 ST NW,1,1,1052,1754,Rent,Apartment,garage,in_suite,False,True,53.5177227,-113.5034953,2000-01-01,False,True,True,False
-5,478186,8455 106A Ave NW,Brand New Apartments In Downtown Edmonton | Stadium Yards,8455 106A Ave NW,1,1,500,1315,Rent,Apartment,underground,in_suite,False,True,53.556874042637,-113.47157111639,2000-01-01,False,True,False,True
-6,478189,10954 84 Street Northwest,Pet Friendly Apartments For Rent In Downtown Edmonton | Stadium Yards,10954 84 Street Northwest,studio,1,1057,1315,Rent,Apartment,underground,shared,True,True,53.5572645,-113.4711661,2000-01-01,False,False,False,True
-7,466212,11025 26 Ave N.W.,Brand New Luxury Apartments,11025 26 Ave N.W.,1,1,1156,1450,Rent,Apartment,garage,shared,True,True,53.455970268895,-113.51459525035,2000-01-01,False,True,False,True
-8,500648,8155 105 St NW,Raymond Block,8155 105 St NW,1,1,563,1515,Rent,Apartment,garage,in_suite,False,True,53.517930643595,-113.50028001349,2000-01-01,False,False,False,False
-9,476157,10022 – 110 Street NW,CX,10022 – 110 Street NW,studio,1,1311,1149,Rent,Apartment,underground,shared,False,True,53.5395795,-113.5106424,2000-01-01,False,False,False,True
-10,455426,200-255 & 300-391 Huntington Hill NW,HUNTINGTON COURT COACHHOMES,200-255 & 300-391 Huntington Hill NW,2,1,1148,1295,Rent,Townhouse,covered,shared,True,True,53.485090720822,-113.49679622989,2000-01-01,False,False,False,False
-11,433936,11020 Jasper Ave.,Jasper One Eleven,11020 Jasper Ave.,studio,1,,1383,Rent,Apartment,underground,in_suite,True,True,53.540962,-113.511584,2000-01-01,False,False,True,False
-12,433937,10145 121st Street,Signature Place,10145 121st Street,studio,1,0,1043,Rent,Apartment,covered,in_suite,False,True,53.542243,-113.53047,2000-01-01,False,True,False,False
-13,358143,8217 130 Ave,DELTON TOWNHOMES,8217 130 Ave,2,1,1064,1249,Rent,Townhouse,underground,in_suite,False,True,53.5890269,-113.4684235,2000-01-01,False,True,False,True
-14,454900,5016 & 5008 4 Ave SW,AVALON COURT,5016 & 5008 4 Ave SW,2,2,1020,1615,Rent,Apartment,covered,shared,False,True,53.4294066,-113.4203601,2000-01-01,False,True,True,True
-15,433938,8128 102 Street NW,The Station on Whyte,8128 102 Street NW,1,1,0,1616,Rent,Apartment,garage,shared,True,True,53.534092,-113.495612,2000-01-01,False,False,True,False
-16,478151,10542 45 Avenue NW,SOUTH RIDGE TOWNHOMES,10542 45 Avenue NW,3,1.5,1232,1524,Rent,Townhouse,garage,in_suite,True,True,53.4831757,-113.5036568,2000-01-01,False,False,False,True
-17,260207,10525 156 Street,Look no further for your new home!,10525 156 Street,studio,1,,825,Rent,Apartment,outdoor,in_suite,False,True,53.5488594,-113.5898632,2000-01-01,False,True,False,True
-18,455425,1-89 Huntington Hill NW,HUNTINGTON TOWNHOMES,1-89 Huntington Hill NW,2,1,1003,1395,Rent,Townhouse,garage,in_suite,False,True,53.485211,-113.498257,2000-01-01,False,True,True,False
-19,455310,1102 Hermitage Road,CHRISTOPHER COUNTY,1102 Hermitage Road,1,1,1003,1074,Rent,Apartment,outdoor,shared,True,True,53.582952799621,-113.39319958836,2000-01-01,False,True,True,False
-20,362139,10127 121st Street,The Pinnacle | OLIVER - JASPER AVE & 121 ST ,10127 121st Street,1,1,675,1275,Rent,Apartment,underground,shared,True,True,53.5415981,-113.5301961,2000-01-01,False,False,False,False
-21,490091,10310 96 Avenue NW,Rossdale Apartments 2,10310 96 Avenue NW,1,1,612,999,Rent,Apartment,underground,in_suite,False,True,53.532675,-113.498712,2000-01-01,False,False,True,True
-22,492104,9723 105 Street NW,Heritage Trail Apartments 2,9723 105 Street NW,studio,1,400,729,Rent,Apartment,garage,shared,True,True,53.5348032,-113.5005775,2000-01-01,False,True,True,False
-23,455312,"350, 354 & 358 Hooper Crescent",DURHAM COUNTY,"350, 354 & 358 Hooper Crescent",1,1,744,1099,Rent,Apartment,covered,in_suite,False,True,53.5855249,-113.392691,2000-01-01,False,False,False,True
-24,328492,9010 144 Ave NW,Cambridge Manor,9010 144 Ave NW,1,1,660,1130,Rent,Apartment,underground,shared,True,True,53.6062221,-113.4797268,2000-01-01,False,False,False,True
-25,289393,10624 103 Street NW,Mateo Place,10624 103 Street NW,1,1,577,829,Rent,Apartment,covered,in_suite,True,True,53.5504019,-113.4977589,2000-01-01,False,False,True,True
-26,455313,4-8 Hooper Crescent,VICTORIA COUNTY,4-8 Hooper Crescent,1,1,785,1099,Rent,Apartment,outdoor,shared,False,True,53.584613938027,-113.38568191482,2000-01-01,False,True,True,False
-27,477780,8510 111th Street,Garneau Towers Apartments,8510 111th Street,1,1,630,1300,Rent,Apartment,underground,shared,True,True,53.521426,-113.517728,2000-01-01,False,False,False,True
-28,512609,23107 77 Avenue NE,50% OFF FIRST MONTHS RENT! 1 AND 2 BEDROOMS AVAILABLE - INQUIRE TODAY*,23107 77 Avenue NE,2,1,901,1345,Rent,Apartment,garage,in_suite,True,True,53.5096893,-113.7157923,2000-01-01,False,True,False,True
-29,289381,11416 124 Street NW,Majestic Apartments,11416 124 Street NW,studio,1,336,880,Rent,Apartment,outdoor,in_suite,True,True,53.564119,-113.536436,2000-01-01,False,True,True,False
-30,294096,10020 103 Avenue,Mainstreet Tower,10020 103 Avenue,studio,1,,949,Rent,Apartment,outdoor,in_suite,False,False,53.5456934,-113.492029,2000-01-01,False,True,False,True
-31,272719,10205 100 Avenue,Downtown High-rise Apartment Near Jasper Ave!,10205 100 Avenue,1,1,1245,1281,Rent,Apartment,underground,shared,True,True,53.538529,-113.4951334,2000-01-01,False,True,False,True
-32,478152,10500 45 Avenue NW,SOUTH RIDGE APARTMENTS EDMONTON,10500 45 Avenue NW,2,1,1054,1299,Rent,Apartment,garage,in_suite,True,True,53.483114,-113.5023377,2000-01-01,False,False,False,False
-33,289360,10710 110 Street NW,Oakmount Manor,10710 110 Street NW,studio,1,332,799,Rent,Apartment,outdoor,shared,True,True,53.5517734,-113.5108511,2000-01-01,False,False,False,False
-34,495803,10611 – 116 St NW,Midtown Estates Apartments,10611 – 116 St NW,2,1,970,1720,Rent,Apartment,outdoor,in_suite,False,True,53.550393089394,-113.5207478159,2000-01-01,False,True,False,True
-35,413251,11530 124 St NW,PARKLANE GARDENS,11530 124 St NW,1,1,0,925,Rent,Apartment,outdoor,shared,True,True,53.566489,-113.536245,2000-01-01,False,True,False,True
-36,455314,1-33 Hooke Rd NW,HOOKE COUNTY TOWNHOMES,1-33 Hooke Rd NW,2,1.5,1039,1424,Rent,Townhouse,garage,in_suite,False,True,53.584281364143,-113.39035104302,2000-01-01,False,True,False,True
-37,313667,,"Fast access to NAIT, downtown,Royal Alex hospital",,studio,1,1100,895,Rent,Apartment,garage,shared,False,True,53.5698409,-113.479492,2000-01-01,False,True,True,True
-38,518608,15304 100 Avenue Northwest,Shelly Manor,15304 100 Avenue Northwest,studio,1,,900,Rent,Apartment,garage,shared,False,True,53.5394193,-113.5853941,2000-01-01,False,False,True,True
-39,334286,7315 Yellowhead Trail,CANADA WEST COURTS,7315 Yellowhead Trail,1,1,0,819,Rent,Apartment,covered,in_suite,False,True,53.582332,-113.4585276,2000-01-01,False,True,False,False
-40,354691,10910 110 St NW,HUDSON COURT,10910 110 St NW,1,1,717,1099,Rent,Apartment,underground,in_suite,False,True,53.5549766,-113.510633,2000-01-01,False,True,True,True
-41,456596,1-15 Hyndman Crescent,CAVELL RIDGE TOWNHOMES,1-15 Hyndman Crescent,3,1.5,1100,1584,Rent,Townhouse,garage,in_suite,False,True,53.5792244,-113.3790085,2000-01-01,False,True,False,True
-42,450162,11808 100 Avenue Northwest,Great Apartment - Apartments For Rent In Downtown Edmonton | The Mayflower,11808 100 Avenue Northwest,1,1,1120,1465,Rent,Apartment,underground,shared,True,False,53.5396521,-113.5254746,2000-01-01,False,False,True,False
-43,334156,12025 82 Street,CAVENDISH APARTMENTS,12025 82 Street,2,1,700,949,Rent,Apartment,covered,in_suite,True,True,53.5741455,-113.4669914,2000-01-01,False,False,False,False
-44,334154,11037 83 Street,LINDA MANOR,11037 83 Street,3,1,0,1350,Rent,Apartment,garage,in_suite,True,True,53.5591432,-113.4686969,2000-01-01,False,False,True,False
-45,518097,10629 114 Street,Cozy Apartments in Queen Mary Park!,10629 114 Street,studio,1,,875,Rent,Apartment,covered,in_suite,False,False,53.5505662,-113.5172695,2000-01-01,False,True,False,False
-46,439201,12911 132 Avenue Northwest,Spacious Townhouse Units NW Edmonton,12911 132 Avenue Northwest,2,1,850,1000,Rent,Townhouse,underground,shared,True,True,53.591983,-113.5452802,2000-01-01,False,True,False,True
-47,519098,10735 84 Ave,Welcome to The Garneau! - 6 Unit Apartment,10735 84 Ave,2,2,788,1750,Rent,Apartment,garage,in_suite,False,True,53.5198378,-113.5080801,2000-01-01,False,False,True,True
-48,508373,10333 121 St. NW,Lamplighter Apartments,10333 121 St. NW,2,1,1040,1495,Rent,Apartment,outdoor,in_suite,False,True,53.5457805,-113.5303152,2000-01-01,False,True,False,False
-49,478927,10049 103 Street,Jasper Heights Apartments,10049 103 Street,studio,1,500,1167,Rent,Apartment,underground,in_suite,False,True,53.5402876,-113.4970901,2000-01-01,False,False,True,False
-50,334147,10125 153 Street,CLOVERDALE APARTMENTS,10125 153 Street,1,1,515,900,Rent,Apartment,garage,in_suite,True,True,53.5421565,-113.5844926,2000-01-01,False,False,False,True
-51,520520,11218 124 St,Welcome to Amora Apartments!,11218 124 St,1,1,,850,Rent,Apartment,garage,in_suite,False,True,53.561099,-113.5364222,2000-01-01,False,False,False,False
-52,402270,10829 113 Street NW,CHARLES MANOR,10829 113 Street NW,1,1,0,820,Rent,Apartment,garage,shared,True,True,53.553996,-113.515267,2000-01-01,False,True,True,False
-53,334230,10803 113 St NW,THE EXECUTIVE,10803 113 St NW,1,1,0,850,Rent,Apartment,outdoor,shared,False,True,53.553249,-113.5151581,2000-01-01,False,False,False,True
-54,334141,12948 118 Avenue NW,SKYVIEW APARTMENTS,12948 118 Avenue NW,1,1,0,950,Rent,Apartment,covered,shared,False,True,53.5706244,-113.5475113,2000-01-01,False,True,True,False
-55,456767,1-14 Horner Rd NW,HARTFORD COUNTY TOWNHOMES,1-14 Horner Rd NW,3,1.5,1065,1549,Rent,Townhouse,outdoor,in_suite,True,True,53.585511613282,-113.38921797116,2000-01-01,False,True,False,True
-56,334212,11760 129th St NW,ALEXANDRIA APARTMENTS,11760 129th St NW,1,1,678,990,Rent,Apartment,underground,shared,False,True,53.5700069,-113.5450029,2000-01-01,False,False,True,True
-57,520346,11330 124 Street,Waldorf Apartments,11330 124 Street,studio,1,,749,Rent,Apartment,underground,in_suite,False,True,53.5632011,-113.5363988,2000-01-01,False,False,False,True
-58,450155,231A Creston Place (56 Street - 144 Avenue),Great Apartment - Townhomes For Rent in North Edmonton | Creston Place,231A Creston Place (56 Street - 144 Avenue),2,1.5,1060,1490,Rent,Townhouse,underground,in_suite,False,False,53.606807,-113.427183,2000-01-01,False,False,True,False
-59,522645,10837 83 Avenue Northwest Whyte Ave,Luxurious Apartments in Whyte Ave,10837 83 Avenue Northwest Whyte Ave,2,2,,1950,Rent,Apartment,covered,in_suite,False,False,53.5188809,-113.5110976,2000-01-01,False,True,False,False
-60,524338,11112 101 Street Northwest,"Fantastic! Renovated Apartments at ""The Tower"" at Royal Alex Place",11112 101 Street Northwest,2,1,900,1425,Rent,Apartment,underground,shared,True,True,53.559311,-113.493969,2000-01-01,False,False,False,False
-61,454506,10215 95 Street,The Hat at Five Corners,10215 95 Street,studio,1,1160,1300,Rent,Apartment,garage,shared,False,True,53.54576269947,-113.47905490675,2000-01-01,False,False,True,True
-62,485534,9660 229 Street,Luxury Apartments in Secord,9660 229 Street,2,2,944,1450,Rent,Apartment,outdoor,in_suite,False,True,53.5361,-113.71214,2000-01-01,False,True,True,False
-63,288658,150-8930 Jasper Ave. NW,Boardwalk Centre,150-8930 Jasper Ave. NW,studio,1,541,1159,Rent,Apartment,covered,shared,False,True,53.5526427,-113.4739792,2000-01-01,False,True,False,True
-64,288683,8830 85 St. NW,Sir William Place,8830 85 St. NW,1,1,771,1324,Rent,Apartment,underground,in_suite,False,True,53.5241524,-113.4586098,2000-01-01,False,False,True,False
-65,469675,241/245 Watt Common SW,Harmony At Walker Lakes,241/245 Watt Common SW,studio,1,,1275,Rent,Apartment,outdoor,in_suite,False,True,53.4232685,-113.4268247,2023-08-01,False,True,False,False
-66,523936,5104 Chappelle Road SW,VUE at Creekwood East Townhomes - Now Leasing,5104 Chappelle Road SW,3,2.5,1403,1875,Rent,Townhouse,underground,in_suite,False,True,53.40028,-113.57052,2023-08-01,False,False,True,False
-67,288674,14407 121 St. NW,Castle Court,14407 121 St. NW,2,1.5,1100,1299,Rent,Apartment,outdoor,shared,True,True,53.606302,-113.528421,2023-08-14,False,True,False,True
-68,333578,2474 Bowen Wynd,Lovely Apartments -- ask about out two bedroom plus den!,2474 Bowen Wynd,1,1,609,1425,Rent,Apartment,covered,in_suite,False,True,53.417062015518,-113.51704597377,2023-08-15,False,False,False,True
-69,523496,8210 111 Street NW,ONE MONTH FREE | Pet-Friendly Suites at Windsor Park Plaza & Lofts,8210 111 Street NW,studio,1,0,1420,Rent,Apartment,underground,shared,False,True,53.5186238,-113.5182316,2000-01-01,False,True,False,False
-70,340735,5868 - 5872 Mullen Place,"Pet Friendly Building w/ Elevator, In Suite Laundry, Dishwasher & Balcony in Terwillegar Community!",5868 - 5872 Mullen Place,2,1,880,1499,Rent,Apartment,outdoor,in_suite,True,True,53.4320628,-113.5697698,2000-01-01,False,False,False,True
-71,412229,10621 100 Avenue NW,"Located in the heart of the government district, 100 House is a 78 unit residential rental development, repositioned in ",10621 100 Avenue NW,studio,1,460,1375,Rent,Apartment,outdoor,shared,True,True,53.5385022,-113.504201,2000-01-01,False,False,False,False
-72,340736,707 / 711 Tamarack Way,"Newer Building w/ Elevator, In Suite Laundry, Dishwasher & Balcony in The Meadows Community!",707 / 711 Tamarack Way,2,1,909,1650,Rent,Apartment,garage,shared,False,True,53.4770357,-113.363582,2000-01-01,False,False,False,False
-73,344534,1665 & 1671 Jamha Road,NEW 2 Bedroom Air Conditioned Apartments in South East Edmonton - Millwoods,1665 & 1671 Jamha Road,2,1,798,1675,Rent,Apartment,covered,shared,True,True,53.4845786,-113.4124841,2000-01-01,False,False,True,False
-74,340737,2315 / 2319 Maple Road,"Newer Building w/ Elevator, In Suite Laundry, Dishwasher; Balcony in The Meadows Community!",2315 / 2319 Maple Road,2,1,895,1650,Rent,Apartment,outdoor,shared,True,True,53.4766816,-113.361518,2000-01-01,False,True,True,False
-75,466211,2610 109 Street Northwest,Luxury Apartments in Century Park,2610 109 Street Northwest,1,1,525,1450,Rent,Apartment,covered,in_suite,True,True,53.457381385213,-113.51214651237,2000-01-01,False,False,True,True
-76,419725,789 Tamarack Way NW,Resort-Style Apartments: Now Open!,789 Tamarack Way NW,1,1,532,1295,Rent,Apartment,underground,in_suite,False,True,53.4789297,-113.3646865,2000-01-01,False,False,True,True
-77,510464,10001 Bellamy Hill,Apartments for Rent Downtown Edmonton ,10001 Bellamy Hill,2,2,1036,1499,Rent,Apartment,outdoor,in_suite,False,True,53.5384991,-113.4943113,2000-01-01,False,False,True,True
-78,530057,11128 82 Avenue NW,Pet-friendly Lofts by Whyte Ave and University,11128 82 Avenue NW,studio,1,0,1348,Rent,Apartment,garage,in_suite,True,True,53.5184387,-113.5192112,2023-08-01,False,False,False,False
-79,523497,8409 112 Street NW,The Galen Lofts,8409 112 Street NW,1,1,0,1645,Rent,Apartment,covered,in_suite,False,False,53.5203925,-113.5206111,2023-08-01,False,False,True,True
-80,524792,2815 109 A Street,"BRAND-NEW, Spacious, Luxury Rental Suites!  ",2815 109 A Street,1,1,1025,1350,Rent,Apartment,underground,shared,True,True,53.458258605173,-113.51023018916,2023-08-01,False,False,True,True
-81,482131,1332 Watt Drive Southwest,Essential Aurora Townhomes in SW Edmonton - Move In Bonuses On Select Units!,1332 Watt Drive Southwest,3,2.5,1274,1850,Rent,Townhouse,underground,shared,True,True,53.4148178,-113.431259,2023-08-15,False,True,False,True
-82,523499,11703 51 Avenue NW,Edgeway,11703 51 Avenue NW,2,2.5,1031,1727,Rent,Townhouse,outdoor,in_suite,False,True,53.4874458,-113.5347987,2023-09-01,False,True,True,True
-83,278452,1776 Cunningham Way Southwest,Callaghan Landing II - 2 & 3 Bedroom Townhomes For Rent - Move In Bonuses On Select Units!,1776 Cunningham Way Southwest,3,2.5,1271,1850,Rent,Townhouse,underground,in_suite,False,True,53.40701,-113.5300657,2023-09-20,False,True,True,False
-84,527448,4008 Savaryn Drive Southwest,4008 Savaryn Drive Southwest,4008 Savaryn Drive Southwest,2.5,2,1144,2250,Rent,Condo Unit,garage,in_suite,False,True,53.4110907,-113.4586857,2000-01-01,False,True,True,True
-85,510599,1328 PODERSKY WYND SW EDMONTON AB T6W 5E4,1328 PODERSKY WYND SW EDMONTON AB T6W 5E4,1328 PODERSKY WYND SW EDMONTON AB T6W 5E4,3,2.5,1420,1800,Rent,House,garage,in_suite,True,True,53.412066529734,-113.558271277734,2000-01-01,False,True,True,True
-86,532310,10118 95 Street,10118 95 Street,10118 95 Street,2,2,,1500,Rent,Condo Unit,garage,shared,True,False,53.5437935,-113.4783569,2000-01-01,False,True,False,False
-87,530644,6608 106 Street,6608 106 Street,6608 106 Street,2.5,1.5,960,1850,Rent,Duplex,garage,shared,False,False,53.5033872,-113.5047279,2000-01-01,False,False,False,False
-88,494681,10525 83 Avenue Northwest,10525 83 Avenue Northwest,10525 83 Avenue Northwest,2,1,970,1400,Rent,Apartment,outdoor,shared,False,True,53.518865,-113.5013847,2000-01-01,False,False,False,True
-89,531102,,,,1,1,500,900,Rent,Basement,underground,in_suite,False,True,53.5550579,-113.5321442,2000-01-01,False,True,False,False
-90,530351,5115 152A Avenue Northwest,5115 152A Avenue Northwest,5115 152A Avenue Northwest,3,2,1600,1975,Rent,Main Floor,garage,in_suite,True,True,53.6144685,-113.4206636,2000-01-01,False,True,False,True
-91,288623,10350 122 St. NW,10350 122 St. NW,10350 122 St. NW,1,1,750,1329,Rent,Apartment,underground,in_suite,True,True,53.546194052241,-113.53271226085,2000-01-01,False,True,False,False
-92,532462,612 83 Street Southwest,612 83 Street Southwest,612 83 Street Southwest,3,1.5,1300,1900,Rent,Duplex,garage,in_suite,True,True,53.426578,-113.4612292,2000-01-01,False,False,True,False
-93,532267,11108 40 Avenue Northwest,11108 40 Avenue Northwest,11108 40 Avenue Northwest,3,1.5,1170,1800,Rent,House,covered,in_suite,True,True,53.4760386,-113.5177446,2000-01-01,False,True,True,False
-94,528988,9104 176 Avenue Northwest,9104 176 Avenue Northwest,9104 176 Avenue Northwest,4.5,3,,2295,Rent,House,underground,shared,True,False,53.6386527,-113.4799973,2000-01-01,False,False,False,True
-95,439528,10360 102 St NW,10360 102 St NW,10360 102 St NW,1,1,562,2100,Rent,Condo Unit,outdoor,in_suite,False,True,53.5457543,-113.4962335,2000-01-01,False,True,False,False
-96,427629,11311 89 st,11311 89 st,11311 89 st,2,1,,1200,Rent,House,underground,shared,False,True,53.563156,-113.4776269,2000-01-01,False,True,True,False
-97,532559,11128 54 Avenue Northwest,11128 54 Avenue Northwest,11128 54 Avenue Northwest,6,3,2100,2300,Rent,House,outdoor,in_suite,True,False,53.4908454,-113.5187682,2000-01-01,False,False,False,False
-98,532224,17003 67 Ave NW,17003 67 Ave NW,17003 67 Ave NW,2,2,900,1500,Rent,Condo Unit,garage,shared,True,False,53.5019441,-113.6163387,2000-01-01,False,False,True,True
-99,495597,12025 22 Avenue SW,12025 22 Avenue SW,12025 22 Avenue SW,2.5,2,,1550,Rent,Condo Unit,underground,shared,False,True,53.4108668,-113.5352462,2000-01-01,False,True,True,False
-100,494948,17325 8A Avenue Southwest,17325 8A Avenue Southwest,17325 8A Avenue Southwest,4,3.5,1825,2095,Rent,Duplex,underground,shared,False,False,53.4263694,-113.6192276,2000-01-01,False,True,True,False
-101,526783,,,,2,1,1890,1300,Rent,Basement,underground,shared,False,False,53.4721436,-113.6721322,2000-01-01,False,True,False,False
-102,415566,11405 132 St NW,11405 132 St NW,11405 132 St NW,1,1,1000,1005,Rent,Apartment,garage,shared,True,True,53.563705,-113.549995,2000-01-01,False,False,True,True
-103,435594,6019 165 Avenue Northwest,6019 165 Avenue Northwest,6019 165 Avenue Northwest,1,1,800,550,Rent,Room For Rent,underground,in_suite,False,False,53.6271055,-113.433026,2000-01-01,False,True,False,True
-104,455848,17124 101 Street Northwest,17124 101 Street Northwest,17124 101 Street Northwest,2,2,980,1198,Rent,Basement,covered,in_suite,False,True,53.633202,-113.49879,2000-01-01,False,True,False,False
-105,523736,4829 Kinney Road Southwest,4829 Kinney Road Southwest,4829 Kinney Road Southwest,1,1,,1050,Rent,Basement,garage,in_suite,True,False,53.4157911,-113.6269298,2000-01-01,False,False,False,False
-106,493941,10620 99 Avenue,10620 99 Avenue,10620 99 Avenue,1,1,650,1748,Rent,Apartment,underground,in_suite,False,True,53.5374329,-113.5044271,2000-01-01,False,False,True,False
-107,309040,10030 114 Street,10030 114 Street,10030 114 Street,studio,1,,1245,Rent,Apartment,outdoor,shared,True,False,53.539613993697,-113.51810817791,2000-01-01,False,False,True,True
-108,417145,"9333, 158 Street","9333, 158 Street","9333, 158 Street",2.5,1,1320,1550,Rent,Main Floor,outdoor,in_suite,False,True,53.5295925,-113.5928404,2000-01-01,False,False,True,False
-109,532517,1104-9909 110 St Nw,1104-9909 110 St Nw,1104-9909 110 St Nw,2,2,,1995,Rent,House,outdoor,shared,False,False,53.5375374,-113.509937,2000-01-01,False,True,False,True
-110,462699,Rowand House - 9747 104 Street Northwest,Rowand House - 9747 104 Street Northwest,Rowand House - 9747 104 Street Northwest,1,1,590,825,Rent,Apartment,outdoor,shared,True,False,53.5349399,-113.4987454,2000-01-01,False,True,True,False
-111,288657,3845 Millwoods Rd.,3845 Millwoods Rd.,3845 Millwoods Rd.,3,1.5,1100,1659,Rent,Apartment,underground,shared,False,True,53.4732224,-113.4533703,2000-01-01,False,False,False,True
-112,303334,10139 158 St NW,10139 158 St NW,10139 158 St NW,1,1,,950,Rent,Apartment,outdoor,shared,True,True,53.542467,-113.593367,2000-01-01,False,True,True,True
-113,260198,10640/10650 108 Street,10640/10650 108 Street,10640/10650 108 Street,1,1,,825,Rent,Apartment,outdoor,shared,False,True,53.5508039,-113.5069683,2000-01-01,False,False,False,True
-114,454143,10508 93 Street Northwest,10508 93 Street Northwest,10508 93 Street Northwest,1,1,480,1275,Rent,Apartment,underground,shared,True,True,53.5504123,-113.4782631,2000-01-01,False,True,False,True
-115,532427,1030 Chappelle Boulevard Southwest,1030 Chappelle Boulevard Southwest,1030 Chappelle Boulevard Southwest,3,2,1430,1700,Rent,Townhouse,outdoor,in_suite,False,True,53.4093266,-113.5707615,2000-01-01,False,False,False,True
-116,383253,11447 82 Street Northwest,11447 82 Street Northwest,11447 82 Street Northwest,4,2,,1350,Rent,House,garage,shared,True,True,53.5656793,-113.4669608,2000-01-01,False,True,True,True
-117,455427,400-463 & 500-563 Huntington Hill NW,400-463 & 500-563 Huntington Hill NW,400-463 & 500-563 Huntington Hill NW,2,1,1050,1225,Rent,Townhouse,covered,in_suite,True,True,53.48277983347,-113.49721703254,2000-01-01,False,True,False,True
-118,532399,10360 102 St NW,10360 102 St NW,10360 102 St NW,1.5,1,700,2800,Rent,Condo Unit,underground,shared,False,True,53.5457543,-113.4962335,2000-01-01,False,False,False,True
-119,530544,8526 106A Street Northwest,8526 106A Street Northwest,8526 106A Street Northwest,4.5,3.5,2200,2750,Rent,Duplex,garage,in_suite,False,True,53.5216543,-113.5053006,2000-01-01,False,False,False,False
-120,255025,4203 107 Street,4203 107 Street,4203 107 Street,1,1,,950,Rent,Apartment,garage,in_suite,False,True,53.479342,-113.5071,2000-01-01,False,True,True,False
-121,532395,10612 65 Avenue Northwest,10612 65 Avenue Northwest,10612 65 Avenue Northwest,3.5,2.5,1800,2400,Rent,Main Floor,covered,shared,False,False,53.5021991,-113.5053917,2000-01-01,False,True,False,True
-122,514318,9749 82 Avenue NW,9749 82 Avenue NW,9749 82 Avenue NW,1,1,,950,Rent,Apartment,underground,in_suite,False,False,53.5177701,-113.4824352,2000-01-01,False,False,True,True
-123,498358,10141 162 Street NW,10141 162 Street NW,10141 162 Street NW,1,1,,878,Rent,Apartment,underground,shared,True,False,53.5427751,-113.6005648,2000-01-01,False,True,False,True
-124,532367,"101, 10145 114th Street, NW","101, 10145 114th Street, NW","101, 10145 114th Street, NW",2,2,1200,1550,Rent,House,underground,shared,False,False,53.54202,-113.51732,2000-01-01,False,True,True,True
-125,511169,8810 128 Avenue Northwest,8810 128 Avenue Northwest,8810 128 Avenue Northwest,2,1,500,900,Rent,Basement,outdoor,shared,True,True,53.5861955,-113.4775565,2000-01-01,False,True,True,True
-126,532105,,,,2,2,1030,2000,Rent,Condo Unit,garage,in_suite,False,True,53.533439472859,-113.501386011206,2000-01-01,False,True,True,False
-127,279603,,,,2,1,985,1100,Rent,Basement,underground,shared,True,True,53.5153174,-113.4649499,2000-01-01,False,False,True,False
-128,493292,1-11616 82 Street Northwest,1-11616 82 Street Northwest,1-11616 82 Street Northwest,2,1,550,945,Rent,Basement,underground,shared,True,True,53.5706917,-113.4675289,2000-01-01,False,True,True,False
-129,532458,8956 156 Street NW,8956 156 Street NW,8956 156 Street NW,2.5,2,1103,1450,Rent,Condo Unit,garage,in_suite,False,False,53.5228472,-113.591812,2000-01-01,False,False,False,False
-130,532439,9010 106 Avenue Northwest,9010 106 Avenue Northwest,9010 106 Avenue Northwest,3.5,2,1344,1600,Rent,Condo Unit,underground,shared,False,True,53.5531263,-113.4755885,2000-01-01,False,False,False,False
-131,531004,10814 73 Avenue Northwest,10814 73 Avenue Northwest,10814 73 Avenue Northwest,5,3,2300,850,Rent,Room For Rent,underground,shared,False,True,53.5097922,-113.5102206,2000-01-01,False,True,True,False
-132,461978,"7007 85 street, Edmonton, AB","7007 85 street, Edmonton, AB","7007 85 street, Edmonton, AB",1.5,1,1500 (total),750,Rent,Main Floor,garage,shared,True,True,53.5064198,-113.4574063,2000-01-01,False,True,False,False
-133,334139,11008 83rd Street,11008 83rd Street,11008 83rd Street,2,1,680,1019,Rent,Apartment,covered,shared,True,True,53.5583248,-113.4694946,2000-01-01,False,True,False,False
-134,454033,10136 104 Street Northwest,10136 104 Street Northwest,10136 104 Street Northwest,2,2,950,1800,Rent,Condo Unit,underground,in_suite,False,True,53.5418331,-113.4995046,2000-01-01,False,True,True,False
-135,440134,9239 93 Street Northwest,9239 93 Street Northwest,9239 93 Street Northwest,2,1.5,,1500,Rent,Main Floor,covered,shared,True,True,53.5280436,-113.4695786,2000-01-01,False,True,True,True
-136,532397,11539 80 Avenue Northwest,11539 80 Avenue Northwest,11539 80 Avenue Northwest,4,2,1300,2200,Rent,House,outdoor,shared,False,True,53.5161227,-113.5312333,2000-01-01,False,False,True,False
-137,532390,10935 71 Avenue Northwest,10935 71 Avenue Northwest,10935 71 Avenue Northwest,3.5,2,1212.56,1550,Rent,House,underground,shared,True,False,53.5071878,-113.5136022,2000-01-01,False,False,False,True
-138,529251,16707 32 Avenue Southwest,16707 32 Avenue Southwest,16707 32 Avenue Southwest,4.5,3,2500,3000,Rent,House,garage,in_suite,False,True,53.406334,-113.6108918,2000-01-01,False,True,False,False
-139,252255,10240 118 Street,10240 118 Street,10240 118 Street,1,1,,925,Rent,Apartment,outdoor,in_suite,False,True,53.544246,-113.525347,2000-01-01,False,True,False,True
-140,469680,1631 Hammond Crescent NW,1631 Hammond Crescent NW,1631 Hammond Crescent NW,3.5,2.5,1717,2095,Rent,Apartment,covered,in_suite,False,True,53.4788926,-113.6660887,2000-01-01,False,False,True,True
-141,272863,10118-106 ave,10118-106 ave,10118-106 ave,2,2,1000,1350,Rent,Condo Unit,covered,shared,False,False,53.55,-113.49503,2000-01-01,False,False,False,True
-142,457529,120 Magrath Road Northwest,120 Magrath Road Northwest,120 Magrath Road Northwest,2,2.5,1200,1950,Rent,Duplex,covered,in_suite,False,False,53.4517316,-113.5603177,2000-01-01,False,False,True,True
-143,529256,1026 East Bend Nw,1026 East Bend Nw,1026 East Bend Nw,3,2,,2050,Rent,Apartment,garage,in_suite,True,False,53.4735954,-113.663713,2000-01-01,False,True,True,True
-144,253199,115 street Rutherford Heights,115 street Rutherford Heights,115 street Rutherford Heights,4.5,3.5,2500,2600,Rent,House,underground,shared,True,False,53.4217884,-113.523716,2000-01-01,False,True,True,True
-145,465215,979 Crystallina Nera Way NW,979 Crystallina Nera Way NW,979 Crystallina Nera Way NW,3.5,2.5,1700,1950,Rent,Townhouse,garage,shared,False,True,53.6424975,-113.466047,2000-01-01,False,True,True,False
-146,471094,2430 Guardian rd,2430 Guardian rd,2430 Guardian rd,1,1,,1050,Rent,Apartment,outdoor,in_suite,True,False,53.5101058,-113.6730499,2000-01-01,False,False,True,True
-147,358171,11440 & 11444 Ellerslie Road SW,11440 & 11444 Ellerslie Road SW,11440 & 11444 Ellerslie Road SW,1,1,1024,1435,Rent,Apartment,outdoor,in_suite,False,True,53.425749,-113.521457,2000-01-01,False,False,False,False
-148,478582,11035 124 Street NW,11035 124 Street NW,11035 124 Street NW,1,1,696,997,Rent,Apartment,garage,in_suite,True,True,53.558467104629,-113.53557068944,2000-01-01,False,False,False,False
-149,529774,8109 226a St Nw,8109 226a St Nw,8109 226a St Nw,3,2,,1895,Rent,House,covered,in_suite,False,False,27.6648274,-81.5157535,2000-01-01,False,True,True,False
-150,463201,8330 81 Ave NW,8330 81 Ave NW,8330 81 Ave NW,1,1,700,849,Rent,Basement,outdoor,in_suite,False,False,53.5171931,-113.4564873,2000-01-01,False,False,True,True
-151,288664,18124 78 Street,18124 78 Street,18124 78 Street,3,2,984,1769,Rent,Apartment,outdoor,in_suite,False,True,53.6428512,-113.4651071,2000-01-01,False,True,False,True
-152,531318,9444 74 Street NW,9444 74 Street NW,9444 74 Street NW,5,2,1130,2200,Rent,House,covered,in_suite,True,False,53.5321445,-113.441826,2000-01-01,False,True,True,True
-153,273149,10515 99th Ave. NW,10515 99th Ave. NW,10515 99th Ave. NW,1,1,581,1355,Rent,Apartment,outdoor,shared,False,True,53.544389,-113.490927,2000-01-01,False,False,True,True
-154,524967,4835 104a St NW,4835 104a St NW,4835 104a St NW,2,1,,1500,Rent,Loft,covered,shared,True,False,53.4867381,-113.4970473,2000-01-01,False,True,True,True
-155,532396,16021 65 Avenue Northwest,16021 65 Avenue Northwest,16021 65 Avenue Northwest,2,1,900,1300,Rent,Basement,underground,in_suite,True,False,53.4998205,-113.5535317,2000-01-01,False,False,False,True
-156,303428,9132 149 St NW,9132 149 St NW,9132 149 St NW,1,1,,950,Rent,Apartment,covered,shared,True,True,53.525923,-113.5782529,2000-01-01,False,False,True,True
-157,526742,9478(bsmt) Colak Lane Southwest,9478(bsmt) Colak Lane Southwest,9478(bsmt) Colak Lane Southwest,1,1,,900,Rent,Basement,outdoor,in_suite,False,True,53.3984729,-113.5889874,2000-01-01,False,True,False,False
-158,524708,,,,3.5,2.5,1400,1875,Rent,Main Floor,outdoor,in_suite,True,False,53.4006004,-113.5904326,2000-01-01,False,False,False,False
-159,531800,6473 King Wynd Southwest,6473 King Wynd Southwest,6473 King Wynd Southwest,3,2.5,1600,2200,Rent,Duplex,garage,in_suite,False,False,53.413174,-113.6332004,2000-01-01,False,True,False,False
-160,532373,6337 Greenaway Avenue,6337 Greenaway Avenue,6337 Greenaway Avenue,1,1,,1100,Rent,Basement,outdoor,in_suite,False,True,53.6035238,-113.5138558,2000-01-01,False,True,True,False
-161,489443,10238 103 Street Northwest,10238 103 Street Northwest,10238 103 Street Northwest,2,2,915,2600,Rent,Condo Unit,underground,in_suite,False,True,53.5440505,-113.4979589,2000-01-01,False,True,True,True
-162,292243,11245 31 Ave NW,11245 31 Ave NW,11245 31 Ave NW,2,1,,1275,Rent,Apartment,garage,in_suite,False,False,53.46281,-113.52428,2000-01-01,False,False,True,True
-163,338825,,,,3.5,2.5,1450,1850,Rent,Townhouse,garage,in_suite,False,False,53.421113,-113.6067071,2000-01-01,False,True,False,True
-164,433944,11230 104th Avenue,11230 104th Avenue,11230 104th Avenue,studio,1,0,1100,Rent,Apartment,garage,in_suite,True,False,53.547397,-113.514585,2000-01-01,False,True,True,False
-165,531722,10360 102 St NW,10360 102 St NW,10360 102 St NW,2.5,2,1100,3400,Rent,Condo Unit,garage,shared,False,True,53.5458997,-113.4960541,2000-01-01,False,True,True,False
-166,523018,2142 57 St Sw,2142 57 St Sw,2142 57 St Sw,3,3,,2495,Rent,Apartment,covered,in_suite,True,False,53.4141403,-113.4298612,2000-01-01,False,False,True,False
-167,492102,9737 105 Street NW,9737 105 Street NW,9737 105 Street NW,studio,1,391,725,Rent,Apartment,underground,shared,False,True,53.5351757,-113.5005845,2000-01-01,False,False,False,True
-168,525186,,,,2,2.5,953,1975,Rent,Condo Unit,underground,in_suite,True,False,53.5440505,-113.4979589,2000-01-01,False,False,False,True
-169,530209,,,,2,1,885.02,1350,Rent,House,garage,in_suite,True,True,53.5664403,-113.465881,2000-01-01,False,False,True,True
-170,274710,,,,1,1,800+,1395,Rent,Basement,outdoor,shared,True,True,53.53135,-113.44975,2000-01-01,False,False,False,True
-171,289408,11930 82 Street NW,11930 82 Street NW,11930 82 Street NW,studio,1,261,825,Rent,Apartment,underground,in_suite,False,True,53.5730936,-113.4675818,2000-01-01,False,False,True,False
-172,260569,9828 112 St NW,9828 112 St NW,9828 112 St NW,2,1,995,1850,Rent,Condo Unit,underground,shared,False,True,53.536533,-113.514283,2000-01-01,False,True,False,True
-173,526737,9143 142 Street Northwest,9143 142 Street Northwest,9143 142 Street Northwest,4,2,1300,2300,Rent,House,underground,in_suite,True,True,53.5268977,-113.5651826,2000-01-01,False,True,False,False
-174,529202,3236 Kulay Way Southwest,3236 Kulay Way Southwest,3236 Kulay Way Southwest,1,1,750,950,Rent,Basement,underground,in_suite,False,False,53.4196904,-113.6319224,2000-01-01,False,True,False,True
-175,527014,11045 83 St,11045 83 St,11045 83 St,1,1,,950,Rent,Condo Unit,garage,in_suite,False,True,53.5594309,-113.468451,2000-01-01,False,False,True,True
-176,526488,11350 128 Street Northwest,11350 128 Street Northwest,11350 128 Street Northwest,2,2,,1830,Rent,Condo Unit,underground,shared,True,True,53.5634489,-113.5431686,2000-01-01,False,True,False,True
-177,528547,5040 River's Edge Way Nw,5040 River's Edge Way Nw,5040 River's Edge Way Nw,3,2,,2195,Rent,Apartment,covered,shared,False,False,53.4550188,-113.6550354,2000-01-01,False,True,False,True
-178,272429,"8, 10011-62 Street","8, 10011-62 Street","8, 10011-62 Street",2,1,,1050,Rent,Condo Unit,outdoor,shared,True,False,53.540579,-113.4284408,2000-01-01,False,True,False,True
-179,524172,,,,2,1,,1200,Rent,Basement,garage,shared,True,False,53.522649,-113.4494222,2000-01-01,False,False,True,False
-180,528550,6337 Greenaway Avenue NW,6337 Greenaway Avenue NW,6337 Greenaway Avenue NW,3.5,3.5,,2200,Rent,Main Floor,garage,shared,True,True,53.6035238,-113.5138558,2000-01-01,False,False,True,True
-181,527218,305-13635 34 St Nw,305-13635 34 St Nw,305-13635 34 St Nw,2,1,,1495,Rent,House,underground,shared,False,False,53.5990924,-113.3919924,2000-01-01,False,False,False,True
-182,529895,15653 18 Avenue Southwest,15653 18 Avenue Southwest,15653 18 Avenue Southwest,1,1,700,1200,Rent,Basement,covered,shared,True,True,53.4167098,-113.5952313,2000-01-01,False,True,True,False
-183,289344,10040 152 Street NW,10040 152 Street NW,10040 152 Street NW,studio,1,389,795,Rent,Apartment,garage,in_suite,False,True,53.540309,-113.583945,2000-01-01,False,False,False,True
-184,532303,#202-245 Edwards Drive Southwest,#202-245 Edwards Drive Southwest,#202-245 Edwards Drive Southwest,2,2,1074,1500,Rent,Condo Unit,outdoor,shared,True,False,53.4294065,-113.4677105,2000-01-01,False,True,True,False
-185,532272,1622 93 Street Northwest,1622 93 Street Northwest,1622 93 Street Northwest,3,1.5,1075,1950,Rent,Duplex,outdoor,shared,False,True,53.500436,-113.4703769,2000-01-01,False,True,False,True
-186,528215,10388 105 NW,10388 105 NW,10388 105 NW,2,2,864,1900,Rent,Condo Unit,underground,in_suite,False,True,53.5459843,-113.5015319,2000-01-01,False,True,True,False
-187,505531,8510 111 Street Northwest,8510 111 Street Northwest,8510 111 Street Northwest,studio,1,430,1125,Rent,Apartment,covered,in_suite,False,True,53.5214693,-113.5178339,2000-01-01,False,True,False,False
-188,490337,10529 99 Avenue NW,10529 99 Avenue NW,10529 99 Avenue NW,studio,1,180,599,Rent,Apartment,underground,in_suite,True,True,53.5369857,-113.5025631,2000-01-01,False,True,False,False
-189,471787,903 Crystallina Nera Way Northwest,903 Crystallina Nera Way Northwest,903 Crystallina Nera Way Northwest,3,2.5,1173,1650,Rent,Townhouse,outdoor,shared,True,True,53.6427752,-113.4593478,2000-01-01,False,True,False,False
-190,455549,10730 105 St NW,10730 105 St NW,10730 105 St NW,1,1,560,1020,Rent,Apartment,outdoor,shared,False,True,53.5525006,-113.5015507,2000-01-01,False,False,True,False
-191,289323,10819 111 Street NW,10819 111 Street NW,10819 111 Street NW,studio,1,1011,713,Rent,Apartment,underground,shared,False,True,53.5535039,-113.511473,2000-01-01,False,True,False,True
-192,289347,10128 161 Street NW,10128 161 Street NW,10128 161 Street NW,1,1,631,1040,Rent,Apartment,garage,in_suite,True,True,53.542083,-113.599859,2000-01-01,False,False,False,True
-193,524859,,,,2,1,850,1095,Rent,Basement,outdoor,shared,True,True,53.5677271,-113.5379827,2000-01-01,False,True,True,False
-194,531519,10812 21 Avenue Northwest,10812 21 Avenue Northwest,10812 21 Avenue Northwest,3,2.5,1300,2300,Rent,House,covered,shared,True,True,53.4529086,-113.5045144,2000-01-01,False,True,True,False
-195,529611,7075 182 Avenue Northwest,7075 182 Avenue Northwest,7075 182 Avenue Northwest,4,3,1750,1950,Rent,Main Floor,garage,shared,True,False,53.6448458,-113.44856,2000-01-01,False,True,False,True
-196,532322,8149 111 Street Northwest,8149 111 Street Northwest,8149 111 Street Northwest,2,1.5,,1950,Rent,Condo Unit,underground,in_suite,True,False,53.5177794,-113.5173606,2000-01-01,False,False,False,True
-197,532117,9328 106A Avenue,9328 106A Avenue,9328 106A Avenue,3,1,,1290,Rent,House,underground,shared,True,True,53.5526985,-113.4808992,2000-01-01,False,True,False,True
-198,511165,8808 128 Avenue Northwest,8808 128 Avenue Northwest,8808 128 Avenue Northwest,2,1,,1100,Rent,Main Floor,outdoor,shared,False,True,53.5861923,-113.4775405,2000-01-01,False,True,True,True
-199,289248,12220 82 Street NW,12220 82 Street NW,12220 82 Street NW,studio,1,446,969,Rent,Apartment,garage,in_suite,False,True,53.577384,-113.4677135,2000-01-01,False,False,True,True
-200,531958,2916 Coughlan Green SW,2916 Coughlan Green SW,2916 Coughlan Green SW,3,2.5,1533,1970,Rent,Apartment,underground,shared,True,False,53.4091063,-113.5840405,2000-01-01,False,False,True,False
-201,289333,9315 Jasper Avenue NW,9315 Jasper Avenue NW,9315 Jasper Avenue NW,studio,1,415,919,Rent,Apartment,underground,shared,True,True,53.54786,-113.4754137,2000-01-01,False,False,False,False
-202,529511,,,,1,1,600,1000,Rent,Basement,outdoor,shared,True,False,53.3966928,-113.5966367,2000-01-01,False,True,True,False
-203,472658,12004 22 Avenue Southwest,12004 22 Avenue Southwest,12004 22 Avenue Southwest,3,2.5,1240,2695,Rent,Townhouse,underground,shared,False,True,53.4112467,-113.5348614,2000-01-01,False,True,True,True
-204,410199,10008 151 Street Northwest,10008 151 Street Northwest,10008 151 Street Northwest,2,2,1100,1550,Rent,Condo Unit,covered,shared,True,True,53.5395616,-113.5817785,2000-01-01,False,True,False,False
-205,289378,8215 144 Avenue NW,8215 144 Avenue NW,8215 144 Avenue NW,1,1,651,1089,Rent,Apartment,underground,shared,True,True,53.606591,-113.468857,2000-01-01,False,False,False,True
-206,289404,11940 82 Street NW,11940 82 Street NW,11940 82 Street NW,studio,1,1132,820,Rent,Apartment,covered,shared,False,True,53.5733446,-113.4676184,2000-01-01,False,False,True,True
-207,526035,3617 116 Avenue Northwest,3617 116 Avenue Northwest,3617 116 Avenue Northwest,3.5,2,,2100,Rent,House,garage,in_suite,True,False,53.574701228391,-113.39525990105,2000-01-01,False,True,False,False
-208,532232,10815 83 Avenue Northwest,10815 83 Avenue Northwest,10815 83 Avenue Northwest,1,1,600,1100,Rent,Condo Unit,underground,shared,False,False,53.5188543,-113.5100953,2000-01-01,False,True,True,False
-209,508443,10611 116 Street NW,10611 116 Street NW,10611 116 Street NW,2,2,1096,1695,Rent,Condo Unit,outdoor,in_suite,True,True,53.5501977,-113.5210439,2000-01-01,False,False,False,True
-210,289276,12207 82 Street NW,12207 82 Street NW,12207 82 Street NW,studio,1,425,950,Rent,Apartment,covered,in_suite,False,True,53.5771179,-113.4669034,2000-01-01,False,True,True,False
-211,492103,9722 104 Street NW,9722 104 Street NW,9722 104 Street NW,studio,1,470,749,Rent,Apartment,outdoor,shared,False,True,53.5347693,-113.499772,2000-01-01,False,False,True,True
-212,531886,10028 119 Street Northwest,10028 119 Street Northwest,10028 119 Street Northwest,2.5,2,1530,2550,Rent,Condo Unit,garage,in_suite,False,True,53.540550894826,-113.527195146463,2000-01-01,False,False,False,False
-213,480739,9731 105 Street NW,9731 105 Street NW,9731 105 Street NW,1,1,713,1299,Rent,Apartment,outdoor,shared,False,True,53.534915,-113.5007971,2000-01-01,False,True,True,True
-214,480738,9745 106 Street NW,9745 106 Street NW,9745 106 Street NW,1,1,783,1009,Rent,Apartment,outdoor,in_suite,False,True,53.5352417,-113.5026175,2000-01-01,False,False,True,True
-215,429600,1625 48 Street Northwest,1625 48 Street Northwest,1625 48 Street Northwest,2,1,,1380,Rent,Duplex,outdoor,in_suite,False,True,53.4457525,-113.4127398,2000-01-01,False,True,True,False
-216,289379,10717 107 Street NW,10717 107 Street NW,10717 107 Street NW,studio,1,321,799,Rent,Apartment,outdoor,shared,True,True,53.551919,-113.504098,2000-01-01,False,True,True,False
-217,512942,#202 8409 118 Avenue Northwest,#202 8409 118 Avenue Northwest,#202 8409 118 Avenue Northwest,2,1,750,1150,Rent,Condo Unit,garage,shared,True,False,53.5702857,-113.4708751,2000-01-01,False,False,False,False
-218,289346,10745 110 Street NW,10745 110 Street NW,10745 110 Street NW,studio,1,303,825,Rent,Apartment,outdoor,in_suite,True,True,53.55275,-113.509626,2000-01-01,False,True,False,True
-219,490092,9615 104 Street NW,9615 104 Street NW,9615 104 Street NW,1,1,650,1045,Rent,Apartment,garage,in_suite,False,True,53.5329094,-113.4988177,2000-01-01,False,False,True,True
-220,531430,127-9008 99 Ave Nw,127-9008 99 Ave Nw,127-9008 99 Ave Nw,2,2,,1995,Rent,House,outdoor,shared,False,False,53.5417112,-113.4697283,2000-01-01,False,False,True,False
-221,490089,9711 104 Street NW,9711 104 Street NW,9711 104 Street NW,studio,1,341,799,Rent,Apartment,covered,in_suite,False,True,53.534358,-113.4988445,2000-01-01,False,True,False,False
-222,313278,12035 22 Avenue SW,12035 22 Avenue SW,12035 22 Avenue SW,2,2,,1550,Rent,Apartment,garage,shared,True,False,53.4105759,-113.536353,2000-01-01,False,True,True,True
-223,510052,10335 - 61 AVENUE NW,10335 - 61 AVENUE NW,10335 - 61 AVENUE NW,1,0,0,1450,Rent,Office Space,garage,shared,True,False,53.498017,-113.494404,2000-01-01,False,False,False,False
-224,523665,7080 Cardinal Way Southwest,7080 Cardinal Way Southwest,7080 Cardinal Way Southwest,3,2.5,,1945,Rent,Main Floor,underground,shared,False,True,53.3975633,-113.5746715,2000-01-01,False,False,False,True
-225,531987,11846 125 Street Northwest,11846 125 Street Northwest,11846 125 Street Northwest,1,1,500,1100,Rent,Basement,underground,in_suite,True,False,53.5717717,-113.5380271,2000-01-01,False,False,True,True
-226,472252,10217 149 Street Northwest,10217 149 Street Northwest,10217 149 Street Northwest,3,2,1200,1790,Rent,Townhouse,covered,shared,False,True,53.5426425,-113.5774961,2000-01-01,False,False,True,True
-227,450160,10159 118 Street Northwest,10159 118 Street Northwest,10159 118 Street Northwest,1,1,525,1540,Rent,Apartment,covered,shared,False,False,53.5423078,-113.5244197,2000-01-01,False,True,False,False
-228,532221,168 Secord Drive Northwest,168 Secord Drive Northwest,168 Secord Drive Northwest,2.5,2.5,1100,1850,Rent,Townhouse,outdoor,shared,True,False,53.5292907,-113.6977989,2000-01-01,False,True,False,True
-229,309035,10025 115 Street,10025 115 Street,10025 115 Street,studio,1,,1318,Rent,Apartment,underground,in_suite,False,False,53.539665,-113.518135,2000-01-01,False,True,True,False
-230,532187,10545 Saskatchewan Dr NW,10545 Saskatchewan Dr NW,10545 Saskatchewan Dr NW,2,2,970,1995,Rent,Condo Unit,underground,shared,True,False,53.5228118,-113.5030575,2000-01-01,False,True,False,False
-231,532172,11309 (bsmt)  79 Avenue Northwest - BSMT,11309 (bsmt)  79 Avenue Northwest - BSMT,11309 (bsmt)  79 Avenue Northwest - BSMT,1,1,,1100,Rent,Basement,garage,shared,False,False,53.51506972584,-113.52344778372,2000-01-01,False,False,True,False
-232,532159,9487 227 Street Northwest,9487 227 Street Northwest,9487 227 Street Northwest,2,1,628,1195,Rent,Basement,underground,shared,False,True,53.53253,-113.70843,2000-01-01,False,True,False,False
-233,529955,26 B 16026 16028 103 Avenue Northwest,26 B 16026 16028 103 Avenue Northwest,26 B 16026 16028 103 Avenue Northwest,1,1,,1500,Rent,Duplex,garage,in_suite,True,False,53.545056237433,-113.59875946998,2000-01-01,False,False,True,True
-234,315094,11039 81 Avenue Northwest,11039 81 Avenue Northwest,11039 81 Avenue Northwest,4,2,,1500,Rent,Basement,outdoor,in_suite,True,False,53.5169534,-113.5169459,2000-01-01,False,True,False,True
-235,463927,1051 Graydon Hill Boulevard Southwest,1051 Graydon Hill Boulevard Southwest,1051 Graydon Hill Boulevard Southwest,3,2.5,1552,1900,Rent,Townhouse,underground,in_suite,True,True,53.4221674,-113.5543992,2000-01-01,False,True,False,True
-236,286288,,,,4,2.5,1150,2175,Rent,House,garage,in_suite,True,False,53.4593665,-113.4054213,2000-01-01,False,False,True,True
-237,529419,,,,1,1,460,1195,Rent,Townhouse,underground,shared,True,True,53.3982699,-113.5215799,2000-01-01,False,True,False,False
-238,525841,5122 213A Street Northwest,5122 213A Street Northwest,5122 213A Street Northwest,3,2.5,1543,2100,Rent,Duplex,covered,in_suite,False,True,53.4883499,-113.68713,2000-01-01,False,True,False,True
-239,532196,7335 South Terwillegar Dr NW,7335 South Terwillegar Dr NW,7335 South Terwillegar Dr NW,2,2,940,1700,Rent,Condo Unit,garage,shared,False,False,53.4350587,-113.5776136,2000-01-01,False,False,False,False
-240,530864,5911 152A Avenue NW,5911 152A Avenue NW,5911 152A Avenue NW,2,1,800,1050,Rent,Apartment,outdoor,in_suite,True,True,53.6135363,-113.4328267,2000-01-01,False,True,True,False
-241,386231,10238 103 St NW,10238 103 St NW,10238 103 St NW,2,2,830,2147,Rent,Condo Unit,covered,shared,True,False,53.543851276919,-113.497618259455,2000-01-01,False,True,False,False
-242,530225,6212 139 Avenue Northwest,6212 139 Avenue Northwest,6212 139 Avenue Northwest,3,1.5,1150,1650,Rent,Main Floor,outdoor,in_suite,True,True,53.6015973,-113.4374969,2000-01-01,False,True,False,True
-243,532175,11408 13 Avenue Southwest,11408 13 Avenue Southwest,11408 13 Avenue Southwest,3,2.5,1350,1950,Rent,Duplex,underground,in_suite,True,True,53.4199422,-113.5219397,2000-01-01,False,False,False,False
-244,367317,13441 - 127 Street Northwest,13441 - 127 Street Northwest,13441 - 127 Street Northwest,2,1,950,1750,Rent,Condo Unit,garage,in_suite,True,False,53.5961039,-113.5396771,2000-01-01,False,True,True,False
-245,439203,1316 Windermere Way Southwest,1316 Windermere Way Southwest,1316 Windermere Way Southwest,2.5,2,1150,2550,Rent,Apartment,outdoor,shared,False,True,53.433937,-113.6178875,2000-01-01,False,False,True,True
-246,366476,22104 87 Avenue Northwest,22104 87 Avenue Northwest,22104 87 Avenue Northwest,3,2.5,1400,2400,Rent,House,outdoor,shared,True,True,53.521253515545,-113.698579827319,2000-01-01,False,True,False,False
-247,532167,8745 165 Street Northwest,8745 165 Street Northwest,8745 165 Street Northwest,1,1,670,1050,Rent,Condo Unit,garage,in_suite,True,True,53.5212438,-113.608324,2000-01-01,False,False,True,False
-248,476990,,,,1,1,620,1000,Rent,Basement,covered,in_suite,True,False,53.5202031,-113.4901025,2000-01-01,False,False,False,False
-249,532139,9929 113 Street,9929 113 Street,9929 113 Street,2,2,,1800,Rent,Condo Unit,underground,in_suite,True,False,53.5381739,-113.5153121,2000-01-01,False,False,False,True
-250,427058,7508 Getty Gate NW,7508 Getty Gate NW,7508 Getty Gate NW,2,2,898,1570,Rent,Condo Unit,underground,in_suite,False,True,53.4981924,-113.6809781,2000-01-01,False,True,True,False
-251,529954,28 B 16026 16028 103 Avenue Northwest,28 B 16026 16028 103 Avenue Northwest,28 B 16026 16028 103 Avenue Northwest,1,1,,1500,Rent,Duplex,outdoor,in_suite,True,False,53.545062612405,-113.59848588466,2000-01-01,False,True,True,True
-252,316576,10815 83 Avenue NW,10815 83 Avenue NW,10815 83 Avenue NW,2,1,805,1800,Rent,Condo Unit,outdoor,in_suite,False,False,53.518833,-113.5101671,2000-01-01,False,False,True,False
-253,508377,23107 77 Avenue NE,23107 77 Avenue NE,23107 77 Avenue NE,1,1,1064,1220,Rent,Apartment,underground,in_suite,False,True,53.5096893,-113.7157923,2000-01-01,False,False,False,False
-254,498456,8919 83 Ave NW,8919 83 Ave NW,8919 83 Ave NW,1.5,1,825,940,Rent,Basement,outdoor,shared,True,False,53.5186648,-113.4655759,2000-01-01,False,False,True,False
-255,493176,920 156 Street Northwest,920 156 Street Northwest,920 156 Street Northwest,1,1,600,1300,Rent,Condo Unit,outdoor,in_suite,False,True,53.4401942,-113.5921843,2000-01-01,False,True,False,True
-256,518773,,,,2,1,900,1400,Rent,Basement,garage,shared,True,False,53.5173292,-113.4669885,2000-01-01,False,True,False,True
-257,472254,2393 Glenridding Boulevard Southwest,2393 Glenridding Boulevard Southwest,2393 Glenridding Boulevard Southwest,3.5,2.5,1440,1750,Rent,Townhouse,underground,shared,True,True,53.4206678,-113.6075543,2000-01-01,False,True,True,False
-258,266988,11606 108 Ave,11606 108 Ave,11606 108 Ave,1,1,,1250,Rent,Condo Unit,underground,in_suite,False,False,53.553311,-113.521838,2000-01-01,False,False,False,False
-259,369088,9128 99 Street Northwest,9128 99 Street Northwest,9128 99 Street Northwest,studio,1,450,825,Rent,Apartment,covered,shared,True,False,53.5270146,-113.4863059,2000-01-01,False,True,True,True
-260,504054,11969 Jasper Ave,11969 Jasper Ave,11969 Jasper Ave,2,2,950,2900,Rent,Condo Unit,garage,in_suite,True,True,53.5407736,-113.5289202,2000-01-01,False,True,False,False
-261,525748,5012 118 Avenue Northwest,5012 118 Avenue Northwest,5012 118 Avenue Northwest,3,1,1000,1275,Rent,Condo Unit,covered,shared,True,True,53.5706279,-113.4191213,2000-01-01,False,True,False,True
-262,532223,172 Secord Drive Northwest,172 Secord Drive Northwest,172 Secord Drive Northwest,2.5,2.5,1100,1850,Rent,Townhouse,covered,in_suite,False,False,53.52938,-113.6979565,2000-01-01,False,True,False,True
-263,477775,9999 111th Street NW,9999 111th Street NW,9999 111th Street NW,1,1,637,1220,Rent,Apartment,covered,in_suite,False,True,53.538051,-113.51213,2000-01-01,False,False,True,True
-264,532012,12717 119 St,12717 119 St,12717 119 St,1,1,,750,Rent,Apartment,outdoor,shared,True,True,53.585942631469,-113.52576043015,2000-01-01,False,True,True,True
-265,528540,18,18,18,1,1,,850,Rent,Apartment,covered,in_suite,False,False,53.5396363,-113.514458,2000-01-01,False,True,True,False
-266,531995,12019 123 Street NW,12019 123 Street NW,12019 123 Street NW,3,1,1000,1350,Rent,Main Floor,covered,shared,False,True,53.5742273,-113.5337434,2000-01-01,False,False,True,False
-267,518968,9947 157 Street NW,9947 157 Street NW,9947 157 Street NW,3,2.5,1629,1900,Rent,Duplex,covered,shared,True,False,53.5390027,-113.5917051,2000-01-01,False,False,True,False
-268,497411,,,,1.5,1,690,1150,Rent,Basement,outdoor,shared,True,False,53.515346,-113.4641653,2000-01-01,False,True,False,True
-269,531961,6306 167A Avenue Northwest,6306 167A Avenue Northwest,6306 167A Avenue Northwest,3,2.5,1768,1900,Rent,Duplex,covered,in_suite,False,False,53.6292645,-113.4377004,2000-01-01,False,False,False,False
-270,531331,4787 Kinney Rd SW Edmonton AB T6W 5G4,4787 Kinney Rd SW Edmonton AB T6W 5G4,4787 Kinney Rd SW Edmonton AB T6W 5G4,3.5,2.5,,2400,Rent,House,covered,in_suite,True,False,53.4157298,-113.6263844,2000-01-01,False,True,True,False
-271,462322,10153 117 St NW,10153 117 St NW,10153 117 St NW,1,1,822,1050,Rent,Condo Unit,outdoor,shared,True,False,53.5423167,-113.5226562,2000-01-01,False,False,False,True
-272,515436,11415 100 Avenue Northwest,11415 100 Avenue Northwest,11415 100 Avenue Northwest,2,2,1108,1500,Rent,Condo Unit,outdoor,in_suite,True,False,53.5385598,-113.5181278,2000-01-01,False,True,True,False
-273,530626,8739 118 Street Northwest,8739 118 Street Northwest,8739 118 Street Northwest,1,1,,1600,Rent,Basement,outdoor,in_suite,False,True,53.524464,-113.5338391,2000-01-01,False,False,True,True
-274,529631,10312 111 Street,10312 111 Street,10312 111 Street,1,1,560,1450,Rent,Apartment,outdoor,shared,True,True,53.5450384,-113.5127219,2000-01-01,False,True,True,True
-275,504666,11235 117 St,11235 117 St,11235 117 St,1,1,,800,Rent,Apartment,underground,in_suite,False,False,53.562017302499,-113.52296548666,2000-01-01,False,True,True,True
-276,465256,,,,3,2,1700,1995,Rent,House,outdoor,in_suite,False,True,53.4684523,-113.5090775,2000-01-01,False,True,False,False
-277,531999,12019 123 Street NW,12019 123 Street NW,12019 123 Street NW,2,1,1000,1250,Rent,Basement,covered,in_suite,True,True,53.5742273,-113.5337434,2000-01-01,False,True,False,True
-278,472443,12015 82 st,12015 82 st,12015 82 st,1,1,,900,Rent,Apartment,underground,shared,False,True,53.5740237,-113.4668664,2000-01-01,False,True,False,False
-279,531985,9487 227 Street Northwest,9487 227 Street Northwest,9487 227 Street Northwest,3,2.5,2158,2395,Rent,Main Floor,garage,in_suite,True,True,53.53253,-113.70843,2000-01-01,False,False,True,True
-280,353250,11610 100 Avenue NW,11610 100 Avenue NW,11610 100 Avenue NW,1,1,1065,1505,Rent,Apartment,underground,in_suite,False,True,53.5390295,-113.5219847,2000-01-01,False,True,True,True
-281,531960,BSMT 22204 87 Avenue Northwest,BSMT 22204 87 Avenue Northwest,BSMT 22204 87 Avenue Northwest,1,1,622,900,Rent,Basement,underground,shared,True,True,53.5213899,-113.69931,2000-01-01,False,False,True,True
-282,515765,9002 58 Street Northwest,9002 58 Street Northwest,9002 58 Street Northwest,1,1,650,1200,Rent,Basement,garage,shared,True,True,53.5240434,-113.4249773,2000-01-01,False,True,True,True
-283,275871,9925 Jasper Ave NW,9925 Jasper Ave NW,9925 Jasper Ave NW,1,1,666,1300,Rent,Apartment,outdoor,in_suite,True,False,53.5410853,-113.4883582,2000-01-01,False,False,False,False
-284,470382,10180 103 ST NW,10180 103 ST NW,10180 103 ST NW,2,2,812,2750,Rent,Condo Unit,outdoor,shared,False,False,53.5428168,-113.4979767,2000-01-01,False,True,True,True
-285,296579,,,,2,1,850,1250,Rent,Basement,garage,shared,True,True,53.6342091,-113.4523131,2000-01-01,False,True,False,True
-286,435275,,,,3,2,,1700,Rent,Main Floor,garage,shared,True,False,53.6291862,-113.4620332,2000-01-01,False,True,False,True
-287,531073,3866 Chrustawka Place Southwest,3866 Chrustawka Place Southwest,3866 Chrustawka Place Southwest,1,1,700,1125,Rent,Basement,covered,shared,False,True,53.4067184,-113.5860874,2000-01-01,False,True,True,False
-288,267426,6710 110 st,6710 110 st,6710 110 st,2,1,800,1000,Rent,Apartment,covered,shared,False,False,53.5043403,-113.5149502,2000-01-01,False,False,False,False
-289,528209,12419 55 Street Northwest,12419 55 Street Northwest,12419 55 Street Northwest,2,1,1400,1200,Rent,Main Floor,underground,shared,True,False,53.5804009,-113.4257204,2000-01-01,False,False,False,True
-290,526694,Price Way/Price Lane/ Price Link,Price Way/Price Lane/ Price Link,Price Way/Price Lane/ Price Link,2,2.5,,1650,Rent,Townhouse,covered,in_suite,True,True,53.4156021,-113.5558947,2000-01-01,False,False,False,False
-291,531289,10514 92 St NW,10514 92 St NW,10514 92 St NW,1,1,502,1095,Rent,Condo Unit,outdoor,shared,True,False,53.5508352,-113.4771036,2000-01-01,False,True,False,True
-292,264014,155 Centennial Court,155 Centennial Court,155 Centennial Court,3,1.5,,1400,Rent,Townhouse,covered,in_suite,True,True,53.5478813,-113.6106309,2000-01-01,False,False,False,True
-293,302421,10805 79 Avenue Northwest,10805 79 Avenue Northwest,10805 79 Avenue Northwest,1,1,800,1095,Rent,Apartment,covered,in_suite,False,False,53.5149704,-113.5097886,2000-01-01,False,True,False,True
-294,529799,10310 102 St NW,10310 102 St NW,10310 102 St NW,1,1,1221,1495,Rent,Apartment,garage,shared,True,True,53.5450299,-113.49616,2000-01-01,False,True,False,False
-295,325792,10615 110 St NW,10615 110 St NW,10615 110 St NW,1,1,850,895,Rent,Condo Unit,outdoor,shared,True,False,53.5502102,-113.5098618,2000-01-01,False,False,True,False
-296,451992,12025 - 22 AVE SW,12025 - 22 AVE SW,12025 - 22 AVE SW,2.5,2,838 sq.ft.,1500,Rent,Condo Unit,outdoor,in_suite,True,False,53.4108668,-113.5352462,2000-01-01,False,False,False,False
-297,515135,10503 98 Ave NW,10503 98 Ave NW,10503 98 Ave NW,2,2,1050,1400,Rent,Condo Unit,outdoor,shared,True,False,53.5354791,-113.5016368,2000-01-01,False,True,False,False
-298,500895,10410 102 Avenue Northwest,10410 102 Avenue Northwest,10410 102 Avenue Northwest,1,1,,2195,Rent,Condo Unit,underground,in_suite,True,True,53.5431374,-113.4998299,2000-01-01,False,False,False,False
-299,515636,11009 109A Ave NW,11009 109A Ave NW,11009 109A Ave NW,1,1,490,1380,Rent,Apartment,covered,in_suite,True,True,53.5554803,-113.5113285,2000-01-01,False,True,True,True
-300,484241,8707 (bsmt) 221 Street Northwest,8707 (bsmt) 221 Street Northwest,8707 (bsmt) 221 Street Northwest,1,1,,900,Rent,Basement,covered,in_suite,False,False,53.521470061234,-113.697599130688,2000-01-01,False,True,False,True
-301,437712,11147 82 Ave NW,11147 82 Ave NW,11147 82 Ave NW,studio,1,0,1553,Rent,Apartment,underground,in_suite,True,True,53.51779,-113.520321,2000-01-01,False,False,False,True
-302,532008,17906 9A Avenue Southwest,17906 9A Avenue Southwest,17906 9A Avenue Southwest,3,2.5,1800,2250,Rent,House,garage,in_suite,False,True,53.4255084,-113.6302199,2000-01-01,False,True,False,True
-303,289380,11819 106 Street NW,11819 106 Street NW,11819 106 Street NW,studio,1,200,675,Rent,Apartment,garage,in_suite,True,True,53.570953,-113.502214,2000-01-01,False,True,False,False
-304,488561,10226 104 St NW,10226 104 St NW,10226 104 St NW,1,1,610,1595,Rent,Condo Unit,outdoor,shared,False,False,53.5438488,-113.4993579,2000-01-01,False,True,True,True
-305,289289,10730 111 Street NW,10730 111 Street NW,10730 111 Street NW,studio,1,295,825,Rent,Apartment,covered,in_suite,True,True,53.552402,-113.512437,2000-01-01,False,True,True,False
-306,328493,10721 108 Street NW,10721 108 Street NW,10721 108 Street NW,studio,1,360,849,Rent,Apartment,outdoor,in_suite,False,True,53.5520387,-113.506318,2000-01-01,False,True,False,True
-307,289320,10716 107 Street NW,10716 107 Street NW,10716 107 Street NW,studio,1,461,795,Rent,Apartment,outdoor,in_suite,False,True,53.5518923,-113.5051581,2000-01-01,False,False,False,False
-308,289322,10620 102 Street NW,10620 102 Street NW,10620 102 Street NW,1,1,695,849,Rent,Apartment,outdoor,shared,True,True,53.5503659,-113.495786,2000-01-01,False,False,False,True
-309,444493,10360 102 St NW,10360 102 St NW,10360 102 St NW,2,2,1000,2950,Rent,Condo Unit,covered,shared,False,True,53.5460192,-113.495815,2000-01-01,False,True,False,True
-310,289369,10605 112 Street NW,10605 112 Street NW,10605 112 Street NW,studio,1,421,725,Rent,Apartment,outdoor,in_suite,False,True,53.5501519,-113.5134194,2000-01-01,False,False,True,False
-311,289288,10820 114 Street NW,10820 114 Street NW,10820 114 Street NW,1,1,613,849,Rent,Apartment,outdoor,in_suite,False,True,53.5537909,-113.517959,2000-01-01,False,True,True,True
-312,276362,,,,2,1,1200,1200,Rent,Basement,garage,in_suite,False,False,53.62112,-113.47568,2000-01-01,False,True,False,True
-313,308391,10615 111 Street NW,10615 111 Street NW,10615 111 Street NW,studio,1,455,795,Rent,Apartment,garage,in_suite,False,True,53.5503408,-113.5117343,2000-01-01,False,False,False,False
-314,461638,7454 Getty Way Northwest,7454 Getty Way Northwest,7454 Getty Way Northwest,3,2.5,,2100,Rent,House,outdoor,shared,True,True,53.5003907,-113.6793591,2000-01-01,False,False,False,False
-315,294095,10356 92 Street,10356 92 Street,10356 92 Street,studio,1,356,869,Rent,Apartment,outdoor,shared,True,True,53.5492425,-113.4761906,2000-01-01,False,False,True,True
-316,486138,10618 34th Street,10618 34th Street,10618 34th Street,1,1,700,900,Rent,Apartment,garage,in_suite,True,True,53.5603532,-113.3943495,2000-01-01,False,True,True,True
-317,345830,10152 104 Street Northwest T5J 1A7,10152 104 Street Northwest T5J 1A7,10152 104 Street Northwest T5J 1A7,1,1,780,2000,Rent,Condo Unit,garage,in_suite,False,False,53.5421904,-113.499459,2000-01-01,False,False,True,True
-318,289356,10735 104 Street NW,10735 104 Street NW,10735 104 Street NW,1,1,646,915,Rent,Apartment,covered,shared,False,True,53.552684,-113.498709,2000-01-01,False,True,True,True
-319,522693,10011 123 St NW,10011 123 St NW,10011 123 St NW,2,2,1011,2450,Rent,Condo Unit,covered,shared,True,False,53.5410732,-113.5335817,2000-01-01,False,False,False,True
-320,402727,13220 140 St NW | 13528 140 St NW,13220 140 St NW | 13528 140 St NW,13220 140 St NW | 13528 140 St NW,2,1,1030,1223,Rent,Townhouse,outdoor,in_suite,False,True,53.5959698,-113.5622913,2000-01-01,False,False,False,False
-321,302013,9939 109 St NW,9939 109 St NW,9939 109 St NW,2,2,,1550,Rent,Apartment,garage,in_suite,False,False,53.5555836,-113.4901865,2000-01-01,False,False,False,False
-322,289266,7107 79 Avenue NW,7107 79 Avenue NW,7107 79 Avenue NW,studio,1,292,818,Rent,Apartment,covered,shared,True,True,53.514529,-113.437475,2000-01-01,False,True,False,True
-323,289280,10443 156 Street NW,10443 156 Street NW,10443 156 Street NW,1,1,570,989,Rent,Apartment,outdoor,shared,True,True,53.547816,-113.5900794,2000-01-01,False,False,False,True
-324,289355,10330 115 St NW,10330 115 St NW,10330 115 St NW,1,1,421,999,Rent,Apartment,garage,in_suite,True,True,53.5454555,-113.5198304,2000-01-01,False,True,True,False
-325,367034,16807 100 Avenue,16807 100 Avenue,16807 100 Avenue,2,2,950,1580,Rent,Condo Unit,outdoor,in_suite,True,False,53.5388416,-113.6113696,2000-01-01,False,True,True,True
-326,531536,1149 Rutherford Close Southwest,1149 Rutherford Close Southwest,1149 Rutherford Close Southwest,4.5,2.5,2195,2400,Rent,House,outdoor,in_suite,False,True,53.4244628,-113.5320835,2000-01-01,False,True,True,False
-327,289407,10635 115 Street NW,10635 115 Street NW,10635 115 Street NW,studio,1,330,825,Rent,Apartment,underground,shared,False,True,53.5507264,-113.5190194,2000-01-01,False,True,False,True
-328,455550,8515 112 Street NW,8515 112 Street NW,8515 112 Street NW,studio,1,425,1165,Rent,Apartment,underground,in_suite,True,True,53.5214824,-113.5202676,2000-01-01,False,True,True,True
-329,334204,11255 117 Street,11255 117 Street,11255 117 Street,1,1,547,915,Rent,Apartment,garage,shared,False,True,53.5626688,-113.5232376,2000-01-01,False,True,True,True
-330,289370,16404 115 Street NW,16404 115 Street NW,16404 115 Street NW,1,1,630,1120,Rent,Apartment,outdoor,in_suite,True,True,53.625677,-113.52429,2000-01-01,False,False,True,False
-331,289335,10835 115 Street NW,10835 115 Street NW,10835 115 Street NW,studio,1,460,825,Rent,Apartment,underground,in_suite,False,True,53.554133,-113.518942,2000-01-01,False,True,False,False
-332,438121,4432 117 Street Northwest,4432 117 Street Northwest,4432 117 Street Northwest,3,1,"1,000",1850,Rent,Main Floor,outdoor,in_suite,False,False,53.4823959,-113.5326555,2000-01-01,False,True,False,True
-333,294092,7108 79 Avenue,7108 79 Avenue,7108 79 Avenue,1,1,445,999,Rent,Apartment,garage,shared,False,True,53.515419,-113.437445,2000-01-01,False,False,True,False
-334,289315,3820 134 Avenue NW,3820 134 Avenue NW,3820 134 Avenue NW,studio,1,1124,970,Rent,Apartment,covered,shared,True,True,53.5950996,-113.3998025,2000-01-01,False,True,True,True
-335,527664,#1 2565 Hanna Crescent Northwest,#1 2565 Hanna Crescent Northwest,#1 2565 Hanna Crescent Northwest,2,2.5,1500,1750,Rent,Duplex,garage,shared,True,False,53.4491436,-113.5943893,2000-01-01,False,True,True,True
-336,289310,10723 102 Street NW,10723 102 Street NW,10723 102 Street NW,1,1,667,869,Rent,Apartment,garage,in_suite,False,True,53.55206,-113.494891,2000-01-01,False,False,False,True
-337,289326,10630 105 Street NW,10630 105 Street NW,10630 105 Street NW,studio,1,272,745,Rent,Apartment,underground,in_suite,False,True,53.550614,-113.501382,2000-01-01,False,False,True,False
-338,497880,8927 77 Ave NW,8927 77 Ave NW,8927 77 Ave NW,2,1,1142,1450,Rent,Basement,garage,in_suite,True,True,53.513022,-113.465666,2000-01-01,False,True,True,False
-339,530359,120 Brander Drive Northwest,120 Brander Drive Northwest,120 Brander Drive Northwest,6,3.5,,3500,Rent,House,covered,in_suite,False,True,53.496492,-113.5799943,2000-01-01,False,True,True,False
-340,289317,11937 105 Street NW,11937 105 Street NW,11937 105 Street NW,1,1,633,950,Rent,Apartment,underground,in_suite,True,True,53.5732567,-113.5006476,2000-01-01,False,False,False,True
-341,518815,11933 Jasper Ave,11933 Jasper Ave,11933 Jasper Ave,1,1,,1500,Rent,Condo Unit,underground,shared,False,True,53.5406267,-113.5279824,2000-01-01,False,True,False,False
-342,289352,10320 115 St NW,10320 115 St NW,10320 115 St NW,1,1,490,999,Rent,Apartment,covered,shared,False,True,53.5452081,-113.5199233,2000-01-01,False,False,True,False
-343,529824,2531 Cole Crescent Southwest,2531 Cole Crescent Southwest,2531 Cole Crescent Southwest,4,2.5,1538,2395,Rent,House,covered,shared,True,False,53.404386,-113.5326604,2000-01-01,False,False,False,True
-344,289391,10316 119 Street NW,10316 119 Street NW,10316 119 Street NW,studio,1,539,950,Rent,Apartment,underground,shared,False,True,53.5451843,-113.5272037,2000-01-01,False,True,True,False
-345,289319,10224 122 Street NW,10224 122 Street NW,10224 122 Street NW,studio,1,463,875,Rent,Apartment,garage,shared,True,True,53.543706,-113.532603,2000-01-01,False,True,False,False
-346,444786,10529 151 St NW,10529 151 St NW,10529 151 St NW,3,1,1315,2200,Rent,Main Floor,covered,in_suite,False,False,53.548905776827,-113.581291322754,2000-01-01,False,False,True,True
-347,289395,11233 124 Street NW,11233 124 Street NW,11233 124 Street NW,studio,1,419,799,Rent,Apartment,garage,in_suite,True,True,53.561588,-113.535438,2000-01-01,False,False,True,True
-348,480826,,,,2,1.5,950,1350,Rent,Condo Unit,outdoor,in_suite,True,False,53.5109904,-113.5950128,2000-01-01,False,True,True,True
-349,289385,"10727 110 Street Northwest, Edmonton, AB, Canada","10727 110 Street Northwest, Edmonton, AB, Canada","10727 110 Street Northwest, Edmonton, AB, Canada",studio,1,326,745,Rent,Apartment,covered,shared,False,True,53.5522171,-113.5099959,2000-01-01,False,False,False,False
-350,514895,3149 151 Avenue NW,3149 151 Avenue NW,3149 151 Avenue NW,1,1,,1150,Rent,Apartment,garage,in_suite,False,True,53.6133928,-113.3883613,2000-01-01,False,True,True,True
-351,526158,13516 102 Street Northwest,13516 102 Street Northwest,13516 102 Street Northwest,studio,1,,950,Rent,Condo Unit,covered,shared,True,False,53.5972498,-113.4959279,2000-01-01,False,True,False,False
-352,289293,10720 108 Street NW,10720 108 Street NW,10720 108 Street NW,studio,1,329,795,Rent,Apartment,covered,in_suite,False,True,53.5521995,-113.5068953,2000-01-01,False,False,True,False
-353,332361,1396 Knottwood Road East Northwest,1396 Knottwood Road East Northwest,1396 Knottwood Road East Northwest,3,1.5,1300,1350,Rent,Condo Unit,garage,in_suite,False,True,53.449057,-113.4398081,2000-01-01,False,True,True,True
-354,289364,10638 106 Street NW,10638 106 Street NW,10638 106 Street NW,1,1,601,975,Rent,Apartment,underground,in_suite,False,True,53.550705,-113.503203,2000-01-01,False,False,True,False
-355,299853,107 Village Acres NW,107 Village Acres NW,107 Village Acres NW,1,1,1163,999,Rent,Apartment,outdoor,in_suite,False,True,53.590387,-113.445221,2000-01-01,False,True,True,True
-356,391868,10238 103 St NW,10238 103 St NW,10238 103 St NW,2,2,800,2050,Rent,Apartment,covered,shared,False,True,53.5440505,-113.4979589,2000-01-01,False,False,False,False
-357,289311,10720 104 Street NW,10720 104 Street NW,10720 104 Street NW,studio,1,,719,Rent,Apartment,covered,in_suite,False,True,53.552003,-113.4996435,2000-01-01,False,True,True,False
-358,531290,10720 78 Avenue Northwest,10720 78 Avenue Northwest,10720 78 Avenue Northwest,1,1,500,2195,Rent,Condo Unit,outdoor,shared,False,True,53.5144786,-113.5073132,2000-01-01,False,True,True,True
-359,489788,9835 106 Street NW,9835 106 Street NW,9835 106 Street NW,studio,1,294,859,Rent,Apartment,covered,shared,True,False,53.536746,-113.5026401,2000-01-01,False,False,True,True
-360,289349,10325 117 Street NW,10325 117 Street NW,10325 117 Street NW,studio,1,349,870,Rent,Apartment,underground,shared,False,True,53.545417,-113.522656,2000-01-01,False,True,True,False
-361,531873,,,,2,1,950,1400,Rent,Basement,covered,shared,False,True,53.528751,-113.5828975,2000-01-01,False,True,True,False
-362,326175,9304 69 Avenue Northwest,9304 69 Avenue Northwest,9304 69 Avenue Northwest,3,2.5,1500 (Main and Upper Level),2700,Rent,Duplex,garage,shared,False,True,53.50583,-113.470661,2000-01-01,False,True,True,True
-363,289343,11820 101 Street NW,11820 101 Street NW,11820 101 Street NW,studio,1,1241,793,Rent,Apartment,garage,in_suite,False,True,53.570974,-113.494423,2000-01-01,False,False,True,False
-364,531249,3660 109 Street Northwest,3660 109 Street Northwest,3660 109 Street Northwest,3,1.5,1200,1600,Rent,Main Floor,outdoor,shared,False,True,53.4718906,-113.5114662,2000-01-01,False,False,False,True
-365,466914,10055 118 St NW,10055 118 St NW,10055 118 St NW,2,1,751,1599,Rent,Apartment,covered,shared,False,False,53.540367950399,-113.52459850423,2000-01-01,False,False,False,True
-366,289374,10325 123 Street NW,10325 123 Street NW,10325 123 Street NW,1,1,614,1000,Rent,Apartment,underground,in_suite,True,True,53.5451371,-113.5336247,2000-01-01,False,False,False,True
-367,289294,10610 115 Street NW,10610 115 Street NW,10610 115 Street NW,studio,1,315,849,Rent,Apartment,garage,shared,True,True,53.550205,-113.520203,2000-01-01,False,True,False,True
-368,355712,10735 107 St NW,10735 107 St NW,10735 107 St NW,studio,1,0,900,Rent,Apartment,underground,in_suite,True,True,53.5524368,-113.5043346,2000-01-01,False,True,True,True
-369,289368,11906 104 Street NW,11906 104 Street NW,11906 104 Street NW,1,1,565,1105,Rent,Apartment,garage,in_suite,False,True,53.5722653,-113.4996503,2000-01-01,False,True,True,True
-370,431737,10730 102 St NW,10730 102 St NW,10730 102 St NW,studio,1,501,764,Rent,Apartment,outdoor,in_suite,False,True,53.5523007,-113.4959436,2000-01-01,False,False,True,True
+,property_id,property_name,description,num_bedroom,num_bathroom,area_size,price,transaction_type,property_type,parking,laundry,furnished,pet_friendly,latitude,longitude,build_year,smoking_allowed,air_conditioning,hardwood_floors,balcony
+0,517036,Find Your Zen at Citizen on Jasper,10110 120 STREET NW,1,1,469,1480,Rent,Apartment,garage,in_suite,False,True,53.5412895,-113.5292479,2000-01-01,False,False,False,False
+1,470242,E11EVEN APARTMENTS - Leasing for August & September! ,10045 111 Street NW,1,1,1029,1390,Rent,Apartment,underground,in_suite,False,True,53.5401546,-113.5115349,2000-01-01,False,True,True,True
+2,460758,CAPITAL APARTMENTS - DOWNTOWN EDMONTON PET FRIENDLY LIVING - SUMMER INCENTIVES*,10043 108  Northwest Street,1,1,1105,1299,Rent,Apartment,covered,shared,True,True,53.5399968,-113.5063117,2000-01-01,False,False,False,False
+3,377693,The MacLaren,10141 124 Street Northwest,1,1,1065,1509,Rent,Apartment,underground,in_suite,False,True,53.5428264,-113.5355289,2000-01-01,False,False,False,False
+4,437811,Premium Rental Living on Whyte Ave. Where Home & Life Connect.,8122 106 ST NW,1,1,1052,1754,Rent,Apartment,outdoor,in_suite,True,True,53.5177227,-113.5034953,2000-01-01,False,True,False,False
+5,478186,Brand New Apartments In Downtown Edmonton | Stadium Yards,8455 106A Ave NW,1,1,500,1315,Rent,Apartment,garage,in_suite,False,True,53.556874042637,-113.47157111639,2000-01-01,False,True,True,False
+6,478189,Pet Friendly Apartments For Rent In Downtown Edmonton | Stadium Yards,10954 84 Street Northwest,1,1,1057,1315,Rent,Apartment,underground,in_suite,True,True,53.5572645,-113.4711661,2000-01-01,False,False,False,False
+7,466212,Brand New Luxury Apartments,11025 26 Ave N.W.,1,1,1156,1450,Rent,Apartment,underground,shared,True,True,53.455970268895,-113.51459525035,2000-01-01,False,False,False,True
+8,500648,Raymond Block,8155 105 St NW,1,1,563,1515,Rent,Apartment,outdoor,shared,False,True,53.517930643595,-113.50028001349,2000-01-01,False,False,True,True
+9,476157,CX,10022 – 110 Street NW,1,1,1311,1149,Rent,Apartment,outdoor,in_suite,False,True,53.5395795,-113.5106424,2000-01-01,False,True,False,False
+10,455426,HUNTINGTON COURT COACHHOMES,200-255 & 300-391 Huntington Hill NW,2,1,1148,1295,Rent,Townhouse,underground,shared,True,True,53.485090720822,-113.49679622989,2000-01-01,False,True,False,False
+11,433936,Jasper One Eleven,11020 Jasper Ave.,1,1,,1383,Rent,Apartment,covered,in_suite,False,True,53.540962,-113.511584,2000-01-01,False,False,False,True
+12,433937,Signature Place,10145 121st Street,1,1,0,1043,Rent,Apartment,covered,shared,False,True,53.542243,-113.53047,2000-01-01,False,False,True,True
+13,358143,DELTON TOWNHOMES,8217 130 Ave,2,1,1064,1249,Rent,Townhouse,covered,shared,False,True,53.5890269,-113.4684235,2000-01-01,False,False,True,True
+14,454900,AVALON COURT,5016 & 5008 4 Ave SW,2,2,1020,1615,Rent,Apartment,outdoor,in_suite,False,True,53.4294066,-113.4203601,2000-01-01,False,True,False,True
+15,433938,The Station on Whyte,8128 102 Street NW,1,1,0,1616,Rent,Apartment,outdoor,in_suite,True,True,53.534092,-113.495612,2000-01-01,False,True,False,False
+16,478151,SOUTH RIDGE TOWNHOMES,10542 45 Avenue NW,3,1.5,1232,1524,Rent,Townhouse,garage,shared,True,True,53.4831757,-113.5036568,2000-01-01,False,False,True,False
+17,260207,Look no further for your new home!,10525 156 Street,1,1,,825,Rent,Apartment,covered,in_suite,False,True,53.5488594,-113.5898632,2000-01-01,False,False,True,True
+18,455425,HUNTINGTON TOWNHOMES,1-89 Huntington Hill NW,2,1,1003,1395,Rent,Townhouse,covered,shared,True,True,53.485211,-113.498257,2000-01-01,False,False,False,True
+19,455310,CHRISTOPHER COUNTY,1102 Hermitage Road,1,1,1003,1074,Rent,Apartment,garage,shared,False,True,53.582952799621,-113.39319958836,2000-01-01,False,True,True,False
+20,362139,The Pinnacle | OLIVER - JASPER AVE & 121 ST ,10127 121st Street,1,1,675,1275,Rent,Apartment,underground,shared,True,True,53.5415981,-113.5301961,2000-01-01,False,False,True,True
+21,490091,Rossdale Apartments 2,10310 96 Avenue NW,1,1,612,999,Rent,Apartment,underground,shared,False,True,53.532675,-113.498712,2000-01-01,False,False,False,True
+22,492104,Heritage Trail Apartments 2,9723 105 Street NW,1,1,400,729,Rent,Apartment,outdoor,shared,True,True,53.5348032,-113.5005775,2000-01-01,False,False,True,False
+23,455312,DURHAM COUNTY,"350, 354 & 358 Hooper Crescent",1,1,744,1099,Rent,Apartment,outdoor,shared,True,True,53.5855249,-113.392691,2000-01-01,False,False,True,False
+24,328492,Cambridge Manor,9010 144 Ave NW,1,1,660,1130,Rent,Apartment,underground,in_suite,False,True,53.6062221,-113.4797268,2000-01-01,False,True,False,False
+25,289393,Mateo Place,10624 103 Street NW,1,1,577,829,Rent,Apartment,outdoor,shared,True,True,53.5504019,-113.4977589,2000-01-01,False,False,False,False
+26,455313,VICTORIA COUNTY,4-8 Hooper Crescent,1,1,785,1099,Rent,Apartment,outdoor,in_suite,True,True,53.584613938027,-113.38568191482,2000-01-01,False,True,False,True
+27,477780,Garneau Towers Apartments,8510 111th Street,1,1,630,1300,Rent,Apartment,outdoor,shared,False,True,53.521426,-113.517728,2000-01-01,False,False,False,True
+28,512609,50% OFF FIRST MONTHS RENT! 1 AND 2 BEDROOMS AVAILABLE - INQUIRE TODAY*,23107 77 Avenue NE,2,1,901,1345,Rent,Apartment,underground,shared,True,True,53.5096893,-113.7157923,2000-01-01,False,True,True,True
+29,289381,Majestic Apartments,11416 124 Street NW,1,1,336,880,Rent,Apartment,garage,in_suite,True,True,53.564119,-113.536436,2000-01-01,False,True,False,True
+30,294096,Mainstreet Tower,10020 103 Avenue,1,1,,949,Rent,Apartment,underground,shared,True,False,53.5456934,-113.492029,2000-01-01,False,False,True,False
+31,272719,Downtown High-rise Apartment Near Jasper Ave!,10205 100 Avenue,1,1,1245,1281,Rent,Apartment,outdoor,shared,True,True,53.538529,-113.4951334,2000-01-01,False,True,True,False
+32,478152,SOUTH RIDGE APARTMENTS EDMONTON,10500 45 Avenue NW,2,1,1054,1299,Rent,Apartment,outdoor,shared,False,True,53.483114,-113.5023377,2000-01-01,False,False,False,True
+33,289360,Oakmount Manor,10710 110 Street NW,1,1,332,799,Rent,Apartment,garage,in_suite,True,True,53.5517734,-113.5108511,2000-01-01,False,True,True,True
+34,495803,Midtown Estates Apartments,10611 – 116 St NW,2,1,970,1720,Rent,Apartment,underground,in_suite,False,True,53.550393089394,-113.5207478159,2000-01-01,False,False,True,True
+35,413251,PARKLANE GARDENS,11530 124 St NW,1,1,0,925,Rent,Apartment,outdoor,in_suite,False,True,53.566489,-113.536245,2000-01-01,False,True,False,False
+36,455314,HOOKE COUNTY TOWNHOMES,1-33 Hooke Rd NW,2,1.5,1039,1424,Rent,Townhouse,covered,shared,False,True,53.584281364143,-113.39035104302,2000-01-01,False,True,True,True
+37,313667,"Fast access to NAIT, downtown,Royal Alex hospital",,1,1,1100,895,Rent,Apartment,underground,shared,True,True,53.5698409,-113.479492,2000-01-01,False,True,True,False
+38,518608,Shelly Manor,15304 100 Avenue Northwest,1,1,,900,Rent,Apartment,covered,in_suite,True,True,53.5394193,-113.5853941,2000-01-01,False,True,True,False
+39,334286,CANADA WEST COURTS,7315 Yellowhead Trail,1,1,0,819,Rent,Apartment,underground,in_suite,False,True,53.582332,-113.4585276,2000-01-01,False,True,False,False
+40,354691,HUDSON COURT,10910 110 St NW,1,1,717,1099,Rent,Apartment,outdoor,in_suite,True,True,53.5549766,-113.510633,2000-01-01,False,True,True,False
+41,456596,CAVELL RIDGE TOWNHOMES,1-15 Hyndman Crescent,3,1.5,1100,1584,Rent,Townhouse,underground,shared,True,True,53.5792244,-113.3790085,2000-01-01,False,True,False,False
+42,450162,Great Apartment - Apartments For Rent In Downtown Edmonton | The Mayflower,11808 100 Avenue Northwest,1,1,1120,1465,Rent,Apartment,garage,shared,True,False,53.5396521,-113.5254746,2000-01-01,False,True,False,True
+43,334156,CAVENDISH APARTMENTS,12025 82 Street,2,1,700,949,Rent,Apartment,garage,in_suite,True,True,53.5741455,-113.4669914,2000-01-01,False,True,True,False
+44,334154,LINDA MANOR,11037 83 Street,3,1,0,1350,Rent,Apartment,underground,in_suite,True,True,53.5591432,-113.4686969,2000-01-01,False,False,False,True
+45,518097,Cozy Apartments in Queen Mary Park!,10629 114 Street,1,1,,875,Rent,Apartment,outdoor,in_suite,True,False,53.5505662,-113.5172695,2000-01-01,False,False,True,True
+46,439201,Spacious Townhouse Units NW Edmonton,12911 132 Avenue Northwest,2,1,850,1000,Rent,Townhouse,outdoor,shared,True,True,53.591983,-113.5452802,2000-01-01,False,False,False,True
+47,519098,Welcome to The Garneau! - 6 Unit Apartment,10735 84 Ave,2,2,788,1750,Rent,Apartment,underground,shared,True,True,53.5198378,-113.5080801,2000-01-01,False,False,False,True
+48,508373,Lamplighter Apartments,10333 121 St. NW,2,1,1040,1495,Rent,Apartment,covered,shared,True,True,53.5457805,-113.5303152,2000-01-01,False,True,True,False
+49,478927,Jasper Heights Apartments,10049 103 Street,1,1,500,1167,Rent,Apartment,outdoor,shared,False,True,53.5402876,-113.4970901,2000-01-01,False,True,True,False
+50,334147,CLOVERDALE APARTMENTS,10125 153 Street,1,1,515,900,Rent,Apartment,underground,shared,False,True,53.5421565,-113.5844926,2000-01-01,False,False,True,False
+51,520520,Welcome to Amora Apartments!,11218 124 St,1,1,,850,Rent,Apartment,garage,in_suite,False,True,53.561099,-113.5364222,2000-01-01,False,True,True,True
+52,402270,CHARLES MANOR,10829 113 Street NW,1,1,0,820,Rent,Apartment,underground,in_suite,True,True,53.553996,-113.515267,2000-01-01,False,False,False,False
+53,334230,THE EXECUTIVE,10803 113 St NW,1,1,0,850,Rent,Apartment,covered,in_suite,False,True,53.553249,-113.5151581,2000-01-01,False,True,False,False
+54,334141,SKYVIEW APARTMENTS,12948 118 Avenue NW,1,1,0,950,Rent,Apartment,underground,in_suite,True,True,53.5706244,-113.5475113,2000-01-01,False,False,True,False
+55,456767,HARTFORD COUNTY TOWNHOMES,1-14 Horner Rd NW,3,1.5,1065,1549,Rent,Townhouse,covered,in_suite,True,True,53.585511613282,-113.38921797116,2000-01-01,False,True,True,True
+56,334212,ALEXANDRIA APARTMENTS,11760 129th St NW,1,1,678,990,Rent,Apartment,garage,shared,False,True,53.5700069,-113.5450029,2000-01-01,False,False,True,True
+57,520346,Waldorf Apartments,11330 124 Street,1,1,,749,Rent,Apartment,outdoor,in_suite,False,True,53.5632011,-113.5363988,2000-01-01,False,True,True,True
+58,450155,Great Apartment - Townhomes For Rent in North Edmonton | Creston Place,231A Creston Place (56 Street - 144 Avenue),2,1.5,1060,1490,Rent,Townhouse,outdoor,in_suite,False,False,53.606807,-113.427183,2000-01-01,False,False,False,True
+59,522645,Luxurious Apartments in Whyte Ave,10837 83 Avenue Northwest Whyte Ave,2,2,,1950,Rent,Apartment,outdoor,in_suite,True,False,53.5188809,-113.5110976,2000-01-01,False,True,True,True
+60,524338,"Fantastic! Renovated Apartments at ""The Tower"" at Royal Alex Place",11112 101 Street Northwest,2,1,900,1425,Rent,Apartment,underground,in_suite,False,True,53.559311,-113.493969,2000-01-01,False,True,True,False
+61,454506,The Hat at Five Corners,10215 95 Street,1,1,1160,1300,Rent,Apartment,garage,shared,True,True,53.54576269947,-113.47905490675,2000-01-01,False,False,False,False
+62,485534,Luxury Apartments in Secord,9660 229 Street,2,2,944,1450,Rent,Apartment,underground,shared,False,True,53.5361,-113.71214,2000-01-01,False,False,False,True
+63,288658,Boardwalk Centre,150-8930 Jasper Ave. NW,1,1,541,1159,Rent,Apartment,outdoor,shared,False,True,53.5526427,-113.4739792,2000-01-01,False,True,True,False
+64,288683,Sir William Place,8830 85 St. NW,1,1,771,1324,Rent,Apartment,covered,in_suite,True,True,53.5241524,-113.4586098,2000-01-01,False,False,True,True
+65,469675,Harmony At Walker Lakes,241/245 Watt Common SW,1,1,,1275,Rent,Apartment,covered,shared,False,True,53.4232685,-113.4268247,2023-08-01,False,False,True,False
+66,523936,VUE at Creekwood East Townhomes - Now Leasing,5104 Chappelle Road SW,3,2.5,1403,1875,Rent,Townhouse,garage,shared,False,True,53.40028,-113.57052,2023-08-01,False,True,False,False
+67,288674,Castle Court,14407 121 St. NW,2,1.5,1100,1299,Rent,Apartment,outdoor,in_suite,True,True,53.606302,-113.528421,2023-08-14,False,True,True,False
+68,333578,Lovely Apartments -- ask about out two bedroom plus den!,2474 Bowen Wynd,1,1,609,1425,Rent,Apartment,outdoor,in_suite,False,True,53.417062015518,-113.51704597377,2023-08-15,False,True,True,True
+69,523496,ONE MONTH FREE | Pet-Friendly Suites at Windsor Park Plaza & Lofts,8210 111 Street NW,1,1,0,1420,Rent,Apartment,underground,in_suite,True,True,53.5186238,-113.5182316,2000-01-01,False,True,True,False
+70,340735,"Pet Friendly Building w/ Elevator, In Suite Laundry, Dishwasher & Balcony in Terwillegar Community!",5868 - 5872 Mullen Place,2,1,880,1499,Rent,Apartment,outdoor,shared,True,True,53.4320628,-113.5697698,2000-01-01,False,False,False,False
+71,412229,"Located in the heart of the government district, 100 House is a 78 unit residential rental development, repositioned in ",10621 100 Avenue NW,1,1,460,1375,Rent,Apartment,covered,shared,True,True,53.5385022,-113.504201,2000-01-01,False,False,False,False
+72,340736,"Newer Building w/ Elevator, In Suite Laundry, Dishwasher & Balcony in The Meadows Community!",707 / 711 Tamarack Way,2,1,909,1650,Rent,Apartment,covered,shared,False,True,53.4770357,-113.363582,2000-01-01,False,True,False,False
+73,344534,NEW 2 Bedroom Air Conditioned Apartments in South East Edmonton - Millwoods,1665 & 1671 Jamha Road,2,1,798,1675,Rent,Apartment,underground,in_suite,False,True,53.4845786,-113.4124841,2000-01-01,False,True,False,True
+74,340737,"Newer Building w/ Elevator, In Suite Laundry, Dishwasher; Balcony in The Meadows Community!",2315 / 2319 Maple Road,2,1,895,1650,Rent,Apartment,underground,shared,False,True,53.4766816,-113.361518,2000-01-01,False,False,True,False
+75,466211,Luxury Apartments in Century Park,2610 109 Street Northwest,1,1,525,1450,Rent,Apartment,garage,in_suite,True,True,53.457381385213,-113.51214651237,2000-01-01,False,False,False,False
+76,419725,Resort-Style Apartments: Now Open!,789 Tamarack Way NW,1,1,532,1295,Rent,Apartment,garage,shared,True,True,53.4789297,-113.3646865,2000-01-01,False,False,True,False
+77,510464,Apartments for Rent Downtown Edmonton ,10001 Bellamy Hill,2,2,1036,1499,Rent,Apartment,garage,shared,False,True,53.5384991,-113.4943113,2000-01-01,False,False,False,True
+78,530057,Pet-friendly Lofts by Whyte Ave and University,11128 82 Avenue NW,1,1,0,1348,Rent,Apartment,covered,in_suite,True,True,53.5184387,-113.5192112,2023-08-01,False,True,True,True
+79,523497,The Galen Lofts,8409 112 Street NW,1,1,0,1645,Rent,Apartment,garage,in_suite,False,False,53.5203925,-113.5206111,2023-08-01,False,False,True,True
+80,524792,"BRAND-NEW, Spacious, Luxury Rental Suites!  ",2815 109 A Street,1,1,1025,1350,Rent,Apartment,underground,in_suite,True,True,53.458258605173,-113.51023018916,2023-08-01,False,False,True,True
+81,482131,Essential Aurora Townhomes in SW Edmonton - Move In Bonuses On Select Units!,1332 Watt Drive Southwest,3,2.5,1274,1850,Rent,Townhouse,covered,shared,True,True,53.4148178,-113.431259,2023-08-15,False,False,False,False
+82,523499,Edgeway,11703 51 Avenue NW,2,2.5,1031,1727,Rent,Townhouse,underground,in_suite,True,True,53.4874458,-113.5347987,2023-09-01,False,False,True,False
+83,278452,Callaghan Landing II - 2 & 3 Bedroom Townhomes For Rent - Move In Bonuses On Select Units!,1776 Cunningham Way Southwest,3,2.5,1271,1850,Rent,Townhouse,garage,in_suite,False,True,53.40701,-113.5300657,2023-09-20,False,True,False,True
+84,527448,4008 Savaryn Drive Southwest,4008 Savaryn Drive Southwest,2.5,2,1144,2250,Rent,Condo Unit,outdoor,shared,True,True,53.4110907,-113.4586857,2000-01-01,False,False,False,False
+85,510599,1328 PODERSKY WYND SW EDMONTON AB T6W 5E4,1328 PODERSKY WYND SW EDMONTON AB T6W 5E4,3,2.5,1420,1800,Rent,House,underground,shared,False,True,53.412066529734,-113.558271277734,2000-01-01,False,True,False,True
+86,532310,10118 95 Street,10118 95 Street,2,2,,1500,Rent,Condo Unit,outdoor,shared,True,False,53.5437935,-113.4783569,2000-01-01,False,True,False,False
+87,530644,6608 106 Street,6608 106 Street,2.5,1.5,960,1850,Rent,Duplex,covered,shared,True,False,53.5033872,-113.5047279,2000-01-01,False,True,False,False
+88,494681,10525 83 Avenue Northwest,10525 83 Avenue Northwest,2,1,970,1400,Rent,Apartment,underground,shared,False,True,53.518865,-113.5013847,2000-01-01,False,False,False,False
+89,531102,,,1,1,500,900,Rent,Basement,garage,shared,True,True,53.5550579,-113.5321442,2000-01-01,False,False,True,False
+90,530351,5115 152A Avenue Northwest,5115 152A Avenue Northwest,3,2,1600,1975,Rent,Main Floor,outdoor,shared,True,True,53.6144685,-113.4206636,2000-01-01,False,True,True,True
+91,288623,10350 122 St. NW,10350 122 St. NW,1,1,750,1329,Rent,Apartment,covered,shared,True,True,53.546194052241,-113.53271226085,2000-01-01,False,True,True,False
+92,532462,612 83 Street Southwest,612 83 Street Southwest,3,1.5,1300,1900,Rent,Duplex,covered,in_suite,True,True,53.426578,-113.4612292,2000-01-01,False,True,False,False
+93,532267,11108 40 Avenue Northwest,11108 40 Avenue Northwest,3,1.5,1170,1800,Rent,House,covered,shared,False,True,53.4760386,-113.5177446,2000-01-01,False,True,True,False
+94,528988,9104 176 Avenue Northwest,9104 176 Avenue Northwest,4.5,3,,2295,Rent,House,garage,shared,False,False,53.6386527,-113.4799973,2000-01-01,False,True,False,True
+95,439528,10360 102 St NW,10360 102 St NW,1,1,562,2100,Rent,Condo Unit,underground,in_suite,True,True,53.5457543,-113.4962335,2000-01-01,False,True,False,False
+96,427629,11311 89 st,11311 89 st,2,1,,1200,Rent,House,garage,shared,False,True,53.563156,-113.4776269,2000-01-01,False,True,False,False
+97,532559,11128 54 Avenue Northwest,11128 54 Avenue Northwest,6,3,2100,2300,Rent,House,outdoor,in_suite,False,False,53.4908454,-113.5187682,2000-01-01,False,True,False,True
+98,532224,17003 67 Ave NW,17003 67 Ave NW,2,2,900,1500,Rent,Condo Unit,covered,in_suite,True,False,53.5019441,-113.6163387,2000-01-01,False,False,False,False
+99,495597,12025 22 Avenue SW,12025 22 Avenue SW,2.5,2,,1550,Rent,Condo Unit,underground,shared,False,True,53.4108668,-113.5352462,2000-01-01,False,True,False,True
+100,494948,17325 8A Avenue Southwest,17325 8A Avenue Southwest,4,3.5,1825,2095,Rent,Duplex,underground,shared,True,False,53.4263694,-113.6192276,2000-01-01,False,True,False,False
+101,526783,,,2,1,1890,1300,Rent,Basement,garage,in_suite,True,False,53.4721436,-113.6721322,2000-01-01,False,False,False,False
+102,415566,11405 132 St NW,11405 132 St NW,1,1,1000,1005,Rent,Apartment,garage,in_suite,False,True,53.563705,-113.549995,2000-01-01,False,False,True,True
+103,435594,6019 165 Avenue Northwest,6019 165 Avenue Northwest,1,1,800,550,Rent,Room For Rent,underground,shared,True,False,53.6271055,-113.433026,2000-01-01,False,False,False,True
+104,455848,17124 101 Street Northwest,17124 101 Street Northwest,2,2,980,1198,Rent,Basement,covered,shared,False,True,53.633202,-113.49879,2000-01-01,False,False,True,False
+105,523736,4829 Kinney Road Southwest,4829 Kinney Road Southwest,1,1,,1050,Rent,Basement,underground,in_suite,False,False,53.4157911,-113.6269298,2000-01-01,False,True,False,True
+106,493941,10620 99 Avenue,10620 99 Avenue,1,1,650,1748,Rent,Apartment,underground,shared,False,True,53.5374329,-113.5044271,2000-01-01,False,False,False,True
+107,309040,10030 114 Street,10030 114 Street,1,1,,1245,Rent,Apartment,outdoor,in_suite,True,False,53.539613993697,-113.51810817791,2000-01-01,False,False,False,True
+108,417145,"9333, 158 Street","9333, 158 Street",2.5,1,1320,1550,Rent,Main Floor,garage,in_suite,False,True,53.5295925,-113.5928404,2000-01-01,False,False,True,False
+109,532517,1104-9909 110 St Nw,1104-9909 110 St Nw,2,2,,1995,Rent,House,covered,shared,False,False,53.5375374,-113.509937,2000-01-01,False,False,True,False
+110,462699,Rowand House - 9747 104 Street Northwest,Rowand House - 9747 104 Street Northwest,1,1,590,825,Rent,Apartment,outdoor,shared,True,False,53.5349399,-113.4987454,2000-01-01,False,False,True,False
+111,288657,3845 Millwoods Rd.,3845 Millwoods Rd.,3,1.5,1100,1659,Rent,Apartment,garage,in_suite,True,True,53.4732224,-113.4533703,2000-01-01,False,True,False,False
+112,303334,10139 158 St NW,10139 158 St NW,1,1,,950,Rent,Apartment,covered,in_suite,False,True,53.542467,-113.593367,2000-01-01,False,False,True,False
+113,260198,10640/10650 108 Street,10640/10650 108 Street,1,1,,825,Rent,Apartment,underground,in_suite,True,True,53.5508039,-113.5069683,2000-01-01,False,False,False,False
+114,454143,10508 93 Street Northwest,10508 93 Street Northwest,1,1,480,1275,Rent,Apartment,underground,in_suite,False,True,53.5504123,-113.4782631,2000-01-01,False,True,False,True
+115,532427,1030 Chappelle Boulevard Southwest,1030 Chappelle Boulevard Southwest,3,2,1430,1700,Rent,Townhouse,covered,shared,False,True,53.4093266,-113.5707615,2000-01-01,False,True,True,False
+116,383253,11447 82 Street Northwest,11447 82 Street Northwest,4,2,,1350,Rent,House,underground,shared,False,True,53.5656793,-113.4669608,2000-01-01,False,False,True,False
+117,455427,400-463 & 500-563 Huntington Hill NW,400-463 & 500-563 Huntington Hill NW,2,1,1050,1225,Rent,Townhouse,covered,shared,False,True,53.48277983347,-113.49721703254,2000-01-01,False,False,False,False
+118,532399,10360 102 St NW,10360 102 St NW,1.5,1,700,2800,Rent,Condo Unit,outdoor,in_suite,False,True,53.5457543,-113.4962335,2000-01-01,False,False,True,False
+119,530544,8526 106A Street Northwest,8526 106A Street Northwest,4.5,3.5,2200,2750,Rent,Duplex,garage,shared,True,True,53.5216543,-113.5053006,2000-01-01,False,True,False,False
+120,255025,4203 107 Street,4203 107 Street,1,1,,950,Rent,Apartment,outdoor,in_suite,True,True,53.479342,-113.5071,2000-01-01,False,False,True,True
+121,532395,10612 65 Avenue Northwest,10612 65 Avenue Northwest,3.5,2.5,1800,2400,Rent,Main Floor,covered,shared,False,False,53.5021991,-113.5053917,2000-01-01,False,True,True,True
+122,514318,9749 82 Avenue NW,9749 82 Avenue NW,1,1,,950,Rent,Apartment,underground,in_suite,False,False,53.5177701,-113.4824352,2000-01-01,False,True,True,False
+123,498358,10141 162 Street NW,10141 162 Street NW,1,1,,878,Rent,Apartment,covered,shared,False,False,53.5427751,-113.6005648,2000-01-01,False,True,False,False
+124,532367,"101, 10145 114th Street, NW","101, 10145 114th Street, NW",2,2,1200,1550,Rent,House,covered,in_suite,True,False,53.54202,-113.51732,2000-01-01,False,True,False,False
+125,511169,8810 128 Avenue Northwest,8810 128 Avenue Northwest,2,1,500,900,Rent,Basement,garage,in_suite,False,True,53.5861955,-113.4775565,2000-01-01,False,True,True,False
+126,532105,,,2,2,1030,2000,Rent,Condo Unit,underground,shared,True,True,53.533439472859,-113.501386011206,2000-01-01,False,True,True,False
+127,279603,,,2,1,985,1100,Rent,Basement,covered,in_suite,True,True,53.5153174,-113.4649499,2000-01-01,False,True,True,False
+128,493292,1-11616 82 Street Northwest,1-11616 82 Street Northwest,2,1,550,945,Rent,Basement,garage,shared,True,True,53.5706917,-113.4675289,2000-01-01,False,True,True,False
+129,532458,8956 156 Street NW,8956 156 Street NW,2.5,2,1103,1450,Rent,Condo Unit,garage,shared,False,False,53.5228472,-113.591812,2000-01-01,False,True,False,True
+130,532439,9010 106 Avenue Northwest,9010 106 Avenue Northwest,3.5,2,1344,1600,Rent,Condo Unit,outdoor,in_suite,False,True,53.5531263,-113.4755885,2000-01-01,False,True,False,False
+131,531004,10814 73 Avenue Northwest,10814 73 Avenue Northwest,5,3,2300,850,Rent,Room For Rent,garage,shared,True,True,53.5097922,-113.5102206,2000-01-01,False,True,True,True
+132,461978,"7007 85 street, Edmonton, AB","7007 85 street, Edmonton, AB",1.5,1,1500 (total),750,Rent,Main Floor,underground,in_suite,False,True,53.5064198,-113.4574063,2000-01-01,False,True,True,True
+133,334139,11008 83rd Street,11008 83rd Street,2,1,680,1019,Rent,Apartment,garage,in_suite,True,True,53.5583248,-113.4694946,2000-01-01,False,True,False,False
+134,454033,10136 104 Street Northwest,10136 104 Street Northwest,2,2,950,1800,Rent,Condo Unit,garage,shared,False,True,53.5418331,-113.4995046,2000-01-01,False,False,False,True
+135,440134,9239 93 Street Northwest,9239 93 Street Northwest,2,1.5,,1500,Rent,Main Floor,underground,in_suite,True,True,53.5280436,-113.4695786,2000-01-01,False,True,False,True
+136,532397,11539 80 Avenue Northwest,11539 80 Avenue Northwest,4,2,1300,2200,Rent,House,underground,shared,False,True,53.5161227,-113.5312333,2000-01-01,False,False,True,False
+137,532390,10935 71 Avenue Northwest,10935 71 Avenue Northwest,3.5,2,1212.56,1550,Rent,House,outdoor,in_suite,False,False,53.5071878,-113.5136022,2000-01-01,False,False,True,True
+138,529251,16707 32 Avenue Southwest,16707 32 Avenue Southwest,4.5,3,2500,3000,Rent,House,covered,shared,True,True,53.406334,-113.6108918,2000-01-01,False,True,False,True
+139,252255,10240 118 Street,10240 118 Street,1,1,,925,Rent,Apartment,outdoor,shared,False,True,53.544246,-113.525347,2000-01-01,False,False,True,False
+140,469680,1631 Hammond Crescent NW,1631 Hammond Crescent NW,3.5,2.5,1717,2095,Rent,Apartment,outdoor,in_suite,True,True,53.4788926,-113.6660887,2000-01-01,False,True,True,False
+141,272863,10118-106 ave,10118-106 ave,2,2,1000,1350,Rent,Condo Unit,outdoor,shared,False,False,53.55,-113.49503,2000-01-01,False,False,True,True
+142,457529,120 Magrath Road Northwest,120 Magrath Road Northwest,2,2.5,1200,1950,Rent,Duplex,covered,in_suite,False,False,53.4517316,-113.5603177,2000-01-01,False,False,False,False
+143,529256,1026 East Bend Nw,1026 East Bend Nw,3,2,,2050,Rent,Apartment,underground,shared,True,False,53.4735954,-113.663713,2000-01-01,False,False,True,False
+144,253199,115 street Rutherford Heights,115 street Rutherford Heights,4.5,3.5,2500,2600,Rent,House,outdoor,shared,True,False,53.4217884,-113.523716,2000-01-01,False,False,True,True
+145,465215,979 Crystallina Nera Way NW,979 Crystallina Nera Way NW,3.5,2.5,1700,1950,Rent,Townhouse,outdoor,in_suite,False,True,53.6424975,-113.466047,2000-01-01,False,False,False,True
+146,471094,2430 Guardian rd,2430 Guardian rd,1,1,,1050,Rent,Apartment,covered,shared,False,False,53.5101058,-113.6730499,2000-01-01,False,True,True,True
+147,358171,11440 & 11444 Ellerslie Road SW,11440 & 11444 Ellerslie Road SW,1,1,1024,1435,Rent,Apartment,underground,shared,False,True,53.425749,-113.521457,2000-01-01,False,True,False,True
+148,478582,11035 124 Street NW,11035 124 Street NW,1,1,696,997,Rent,Apartment,garage,in_suite,False,True,53.558467104629,-113.53557068944,2000-01-01,False,False,False,False
+149,529774,8109 226a St Nw,8109 226a St Nw,3,2,,1895,Rent,House,underground,in_suite,False,False,27.6648274,-81.5157535,2000-01-01,False,False,False,False
+150,463201,8330 81 Ave NW,8330 81 Ave NW,1,1,700,849,Rent,Basement,garage,shared,True,False,53.5171931,-113.4564873,2000-01-01,False,False,False,True
+151,288664,18124 78 Street,18124 78 Street,3,2,984,1769,Rent,Apartment,outdoor,shared,True,True,53.6428512,-113.4651071,2000-01-01,False,False,True,True
+152,531318,9444 74 Street NW,9444 74 Street NW,5,2,1130,2200,Rent,House,outdoor,in_suite,False,False,53.5321445,-113.441826,2000-01-01,False,False,False,True
+153,273149,10515 99th Ave. NW,10515 99th Ave. NW,1,1,581,1355,Rent,Apartment,underground,shared,True,True,53.544389,-113.490927,2000-01-01,False,False,True,True
+154,524967,4835 104a St NW,4835 104a St NW,2,1,,1500,Rent,Loft,garage,shared,True,False,53.4867381,-113.4970473,2000-01-01,False,True,False,False
+155,532396,16021 65 Avenue Northwest,16021 65 Avenue Northwest,2,1,900,1300,Rent,Basement,outdoor,shared,True,False,53.4998205,-113.5535317,2000-01-01,False,True,True,True
+156,303428,9132 149 St NW,9132 149 St NW,1,1,,950,Rent,Apartment,covered,shared,False,True,53.525923,-113.5782529,2000-01-01,False,True,False,False
+157,526742,9478(bsmt) Colak Lane Southwest,9478(bsmt) Colak Lane Southwest,1,1,,900,Rent,Basement,covered,shared,True,True,53.3984729,-113.5889874,2000-01-01,False,True,True,True
+158,524708,,,3.5,2.5,1400,1875,Rent,Main Floor,underground,in_suite,False,False,53.4006004,-113.5904326,2000-01-01,False,True,True,False
+159,531800,6473 King Wynd Southwest,6473 King Wynd Southwest,3,2.5,1600,2200,Rent,Duplex,underground,shared,True,False,53.413174,-113.6332004,2000-01-01,False,True,False,False
+160,532373,6337 Greenaway Avenue,6337 Greenaway Avenue,1,1,,1100,Rent,Basement,underground,in_suite,True,True,53.6035238,-113.5138558,2000-01-01,False,True,True,False
+161,489443,10238 103 Street Northwest,10238 103 Street Northwest,2,2,915,2600,Rent,Condo Unit,underground,shared,True,True,53.5440505,-113.4979589,2000-01-01,False,False,False,True
+162,292243,11245 31 Ave NW,11245 31 Ave NW,2,1,,1275,Rent,Apartment,covered,in_suite,False,False,53.46281,-113.52428,2000-01-01,False,True,True,False
+163,338825,,,3.5,2.5,1450,1850,Rent,Townhouse,covered,in_suite,True,False,53.421113,-113.6067071,2000-01-01,False,True,False,True
+164,433944,11230 104th Avenue,11230 104th Avenue,1,1,0,1100,Rent,Apartment,outdoor,shared,False,False,53.547397,-113.514585,2000-01-01,False,False,True,False
+165,531722,10360 102 St NW,10360 102 St NW,2.5,2,1100,3400,Rent,Condo Unit,garage,in_suite,True,True,53.5458997,-113.4960541,2000-01-01,False,False,True,True
+166,523018,2142 57 St Sw,2142 57 St Sw,3,3,,2495,Rent,Apartment,underground,shared,True,False,53.4141403,-113.4298612,2000-01-01,False,False,True,False
+167,492102,9737 105 Street NW,9737 105 Street NW,1,1,391,725,Rent,Apartment,garage,in_suite,False,True,53.5351757,-113.5005845,2000-01-01,False,True,False,False
+168,525186,,,2,2.5,953,1975,Rent,Condo Unit,outdoor,shared,True,False,53.5440505,-113.4979589,2000-01-01,False,True,False,True
+169,530209,,,2,1,885.02,1350,Rent,House,underground,in_suite,False,True,53.5664403,-113.465881,2000-01-01,False,False,True,True
+170,274710,,,1,1,800+,1395,Rent,Basement,outdoor,in_suite,True,True,53.53135,-113.44975,2000-01-01,False,True,False,False
+171,289408,11930 82 Street NW,11930 82 Street NW,1,1,261,825,Rent,Apartment,garage,shared,True,True,53.5730936,-113.4675818,2000-01-01,False,False,True,True
+172,260569,9828 112 St NW,9828 112 St NW,2,1,995,1850,Rent,Condo Unit,outdoor,shared,False,True,53.536533,-113.514283,2000-01-01,False,True,True,True
+173,526737,9143 142 Street Northwest,9143 142 Street Northwest,4,2,1300,2300,Rent,House,garage,in_suite,False,True,53.5268977,-113.5651826,2000-01-01,False,False,False,True
+174,529202,3236 Kulay Way Southwest,3236 Kulay Way Southwest,1,1,750,950,Rent,Basement,underground,in_suite,False,False,53.4196904,-113.6319224,2000-01-01,False,False,False,True
+175,527014,11045 83 St,11045 83 St,1,1,,950,Rent,Condo Unit,garage,shared,True,True,53.5594309,-113.468451,2000-01-01,False,True,True,False
+176,526488,11350 128 Street Northwest,11350 128 Street Northwest,2,2,,1830,Rent,Condo Unit,underground,in_suite,False,True,53.5634489,-113.5431686,2000-01-01,False,True,True,False
+177,528547,5040 River's Edge Way Nw,5040 River's Edge Way Nw,3,2,,2195,Rent,Apartment,outdoor,in_suite,True,False,53.4550188,-113.6550354,2000-01-01,False,False,False,True
+178,272429,"8, 10011-62 Street","8, 10011-62 Street",2,1,,1050,Rent,Condo Unit,garage,shared,True,False,53.540579,-113.4284408,2000-01-01,False,True,True,True
+179,524172,,,2,1,,1200,Rent,Basement,covered,shared,False,False,53.522649,-113.4494222,2000-01-01,False,False,False,True
+180,528550,6337 Greenaway Avenue NW,6337 Greenaway Avenue NW,3.5,3.5,,2200,Rent,Main Floor,garage,in_suite,False,True,53.6035238,-113.5138558,2000-01-01,False,False,False,False
+181,527218,305-13635 34 St Nw,305-13635 34 St Nw,2,1,,1495,Rent,House,garage,shared,True,False,53.5990924,-113.3919924,2000-01-01,False,False,False,False
+182,529895,15653 18 Avenue Southwest,15653 18 Avenue Southwest,1,1,700,1200,Rent,Basement,covered,in_suite,False,True,53.4167098,-113.5952313,2000-01-01,False,False,False,True
+183,289344,10040 152 Street NW,10040 152 Street NW,1,1,389,795,Rent,Apartment,garage,shared,False,True,53.540309,-113.583945,2000-01-01,False,False,True,True
+184,532303,#202-245 Edwards Drive Southwest,#202-245 Edwards Drive Southwest,2,2,1074,1500,Rent,Condo Unit,outdoor,in_suite,True,False,53.4294065,-113.4677105,2000-01-01,False,False,False,True
+185,532272,1622 93 Street Northwest,1622 93 Street Northwest,3,1.5,1075,1950,Rent,Duplex,garage,in_suite,True,True,53.500436,-113.4703769,2000-01-01,False,True,False,True
+186,528215,10388 105 NW,10388 105 NW,2,2,864,1900,Rent,Condo Unit,garage,in_suite,False,True,53.5459843,-113.5015319,2000-01-01,False,False,False,True
+187,505531,8510 111 Street Northwest,8510 111 Street Northwest,1,1,430,1125,Rent,Apartment,covered,shared,True,True,53.5214693,-113.5178339,2000-01-01,False,False,True,True
+188,490337,10529 99 Avenue NW,10529 99 Avenue NW,1,1,180,599,Rent,Apartment,garage,in_suite,False,True,53.5369857,-113.5025631,2000-01-01,False,False,False,True
+189,471787,903 Crystallina Nera Way Northwest,903 Crystallina Nera Way Northwest,3,2.5,1173,1650,Rent,Townhouse,covered,shared,True,True,53.6427752,-113.4593478,2000-01-01,False,True,True,True
+190,455549,10730 105 St NW,10730 105 St NW,1,1,560,1020,Rent,Apartment,underground,shared,True,True,53.5525006,-113.5015507,2000-01-01,False,False,True,True
+191,289323,10819 111 Street NW,10819 111 Street NW,1,1,1011,713,Rent,Apartment,underground,in_suite,False,True,53.5535039,-113.511473,2000-01-01,False,True,False,False
+192,289347,10128 161 Street NW,10128 161 Street NW,1,1,631,1040,Rent,Apartment,underground,shared,True,True,53.542083,-113.599859,2000-01-01,False,True,True,False
+193,524859,,,2,1,850,1095,Rent,Basement,outdoor,in_suite,False,True,53.5677271,-113.5379827,2000-01-01,False,False,True,True
+194,531519,10812 21 Avenue Northwest,10812 21 Avenue Northwest,3,2.5,1300,2300,Rent,House,underground,shared,True,True,53.4529086,-113.5045144,2000-01-01,False,True,False,True
+195,529611,7075 182 Avenue Northwest,7075 182 Avenue Northwest,4,3,1750,1950,Rent,Main Floor,underground,shared,True,False,53.6448458,-113.44856,2000-01-01,False,False,False,True
+196,532322,8149 111 Street Northwest,8149 111 Street Northwest,2,1.5,,1950,Rent,Condo Unit,garage,in_suite,True,False,53.5177794,-113.5173606,2000-01-01,False,False,True,False
+197,532117,9328 106A Avenue,9328 106A Avenue,3,1,,1290,Rent,House,covered,shared,False,True,53.5526985,-113.4808992,2000-01-01,False,True,False,True
+198,511165,8808 128 Avenue Northwest,8808 128 Avenue Northwest,2,1,,1100,Rent,Main Floor,outdoor,in_suite,True,True,53.5861923,-113.4775405,2000-01-01,False,False,False,True
+199,289248,12220 82 Street NW,12220 82 Street NW,1,1,446,969,Rent,Apartment,outdoor,shared,False,True,53.577384,-113.4677135,2000-01-01,False,True,False,False
+200,531958,2916 Coughlan Green SW,2916 Coughlan Green SW,3,2.5,1533,1970,Rent,Apartment,outdoor,shared,True,False,53.4091063,-113.5840405,2000-01-01,False,False,False,False
+201,289333,9315 Jasper Avenue NW,9315 Jasper Avenue NW,1,1,415,919,Rent,Apartment,underground,shared,False,True,53.54786,-113.4754137,2000-01-01,False,True,False,True
+202,529511,,,1,1,600,1000,Rent,Basement,covered,shared,False,False,53.3966928,-113.5966367,2000-01-01,False,False,False,False
+203,472658,12004 22 Avenue Southwest,12004 22 Avenue Southwest,3,2.5,1240,2695,Rent,Townhouse,garage,in_suite,False,True,53.4112467,-113.5348614,2000-01-01,False,False,False,True
+204,410199,10008 151 Street Northwest,10008 151 Street Northwest,2,2,1100,1550,Rent,Condo Unit,underground,shared,False,True,53.5395616,-113.5817785,2000-01-01,False,False,True,False
+205,289378,8215 144 Avenue NW,8215 144 Avenue NW,1,1,651,1089,Rent,Apartment,underground,in_suite,False,True,53.606591,-113.468857,2000-01-01,False,False,True,False
+206,289404,11940 82 Street NW,11940 82 Street NW,1,1,1132,820,Rent,Apartment,covered,shared,False,True,53.5733446,-113.4676184,2000-01-01,False,False,False,False
+207,526035,3617 116 Avenue Northwest,3617 116 Avenue Northwest,3.5,2,,2100,Rent,House,garage,in_suite,True,False,53.574701228391,-113.39525990105,2000-01-01,False,True,False,False
+208,532232,10815 83 Avenue Northwest,10815 83 Avenue Northwest,1,1,600,1100,Rent,Condo Unit,outdoor,shared,True,False,53.5188543,-113.5100953,2000-01-01,False,True,False,False
+209,508443,10611 116 Street NW,10611 116 Street NW,2,2,1096,1695,Rent,Condo Unit,outdoor,shared,False,True,53.5501977,-113.5210439,2000-01-01,False,False,True,False
+210,289276,12207 82 Street NW,12207 82 Street NW,1,1,425,950,Rent,Apartment,covered,shared,True,True,53.5771179,-113.4669034,2000-01-01,False,True,True,False
+211,492103,9722 104 Street NW,9722 104 Street NW,1,1,470,749,Rent,Apartment,underground,shared,True,True,53.5347693,-113.499772,2000-01-01,False,True,True,False
+212,531886,10028 119 Street Northwest,10028 119 Street Northwest,2.5,2,1530,2550,Rent,Condo Unit,covered,shared,True,True,53.540550894826,-113.527195146463,2000-01-01,False,False,True,True
+213,480739,9731 105 Street NW,9731 105 Street NW,1,1,713,1299,Rent,Apartment,garage,in_suite,False,True,53.534915,-113.5007971,2000-01-01,False,False,False,False
+214,480738,9745 106 Street NW,9745 106 Street NW,1,1,783,1009,Rent,Apartment,garage,in_suite,False,True,53.5352417,-113.5026175,2000-01-01,False,True,False,True
+215,429600,1625 48 Street Northwest,1625 48 Street Northwest,2,1,,1380,Rent,Duplex,garage,shared,True,True,53.4457525,-113.4127398,2000-01-01,False,True,False,False
+216,289379,10717 107 Street NW,10717 107 Street NW,1,1,321,799,Rent,Apartment,outdoor,shared,True,True,53.551919,-113.504098,2000-01-01,False,True,True,False
+217,512942,#202 8409 118 Avenue Northwest,#202 8409 118 Avenue Northwest,2,1,750,1150,Rent,Condo Unit,covered,shared,True,False,53.5702857,-113.4708751,2000-01-01,False,False,True,False
+218,289346,10745 110 Street NW,10745 110 Street NW,1,1,303,825,Rent,Apartment,garage,shared,True,True,53.55275,-113.509626,2000-01-01,False,False,True,True
+219,490092,9615 104 Street NW,9615 104 Street NW,1,1,650,1045,Rent,Apartment,covered,in_suite,True,True,53.5329094,-113.4988177,2000-01-01,False,False,False,True
+220,531430,127-9008 99 Ave Nw,127-9008 99 Ave Nw,2,2,,1995,Rent,House,covered,in_suite,True,False,53.5417112,-113.4697283,2000-01-01,False,False,False,False
+221,490089,9711 104 Street NW,9711 104 Street NW,1,1,341,799,Rent,Apartment,covered,in_suite,False,True,53.534358,-113.4988445,2000-01-01,False,True,False,False
+222,313278,12035 22 Avenue SW,12035 22 Avenue SW,2,2,,1550,Rent,Apartment,underground,shared,False,False,53.4105759,-113.536353,2000-01-01,False,False,True,False
+223,510052,10335 - 61 AVENUE NW,10335 - 61 AVENUE NW,1,0,0,1450,Rent,Office Space,outdoor,shared,True,False,53.498017,-113.494404,2000-01-01,False,True,False,False
+224,523665,7080 Cardinal Way Southwest,7080 Cardinal Way Southwest,3,2.5,,1945,Rent,Main Floor,covered,in_suite,True,True,53.3975633,-113.5746715,2000-01-01,False,False,True,False
+225,531987,11846 125 Street Northwest,11846 125 Street Northwest,1,1,500,1100,Rent,Basement,garage,in_suite,True,False,53.5717717,-113.5380271,2000-01-01,False,False,True,True
+226,472252,10217 149 Street Northwest,10217 149 Street Northwest,3,2,1200,1790,Rent,Townhouse,underground,in_suite,True,True,53.5426425,-113.5774961,2000-01-01,False,True,False,True
+227,450160,10159 118 Street Northwest,10159 118 Street Northwest,1,1,525,1540,Rent,Apartment,underground,shared,False,False,53.5423078,-113.5244197,2000-01-01,False,True,True,False
+228,532221,168 Secord Drive Northwest,168 Secord Drive Northwest,2.5,2.5,1100,1850,Rent,Townhouse,underground,in_suite,False,False,53.5292907,-113.6977989,2000-01-01,False,False,True,False
+229,309035,10025 115 Street,10025 115 Street,1,1,,1318,Rent,Apartment,covered,shared,False,False,53.539665,-113.518135,2000-01-01,False,True,False,False
+230,532187,10545 Saskatchewan Dr NW,10545 Saskatchewan Dr NW,2,2,970,1995,Rent,Condo Unit,garage,in_suite,True,False,53.5228118,-113.5030575,2000-01-01,False,False,False,False
+231,532172,11309 (bsmt)  79 Avenue Northwest - BSMT,11309 (bsmt)  79 Avenue Northwest - BSMT,1,1,,1100,Rent,Basement,outdoor,in_suite,True,False,53.51506972584,-113.52344778372,2000-01-01,False,False,True,False
+232,532159,9487 227 Street Northwest,9487 227 Street Northwest,2,1,628,1195,Rent,Basement,underground,in_suite,True,True,53.53253,-113.70843,2000-01-01,False,False,False,False
+233,529955,26 B 16026 16028 103 Avenue Northwest,26 B 16026 16028 103 Avenue Northwest,1,1,,1500,Rent,Duplex,outdoor,in_suite,True,False,53.545056237433,-113.59875946998,2000-01-01,False,True,False,True
+234,315094,11039 81 Avenue Northwest,11039 81 Avenue Northwest,4,2,,1500,Rent,Basement,underground,in_suite,True,False,53.5169534,-113.5169459,2000-01-01,False,True,True,True
+235,463927,1051 Graydon Hill Boulevard Southwest,1051 Graydon Hill Boulevard Southwest,3,2.5,1552,1900,Rent,Townhouse,garage,shared,False,True,53.4221674,-113.5543992,2000-01-01,False,False,False,False
+236,286288,,,4,2.5,1150,2175,Rent,House,underground,shared,False,False,53.4593665,-113.4054213,2000-01-01,False,False,True,False
+237,529419,,,1,1,460,1195,Rent,Townhouse,covered,in_suite,True,True,53.3982699,-113.5215799,2000-01-01,False,False,False,False
+238,525841,5122 213A Street Northwest,5122 213A Street Northwest,3,2.5,1543,2100,Rent,Duplex,underground,in_suite,True,True,53.4883499,-113.68713,2000-01-01,False,False,False,False
+239,532196,7335 South Terwillegar Dr NW,7335 South Terwillegar Dr NW,2,2,940,1700,Rent,Condo Unit,outdoor,shared,True,False,53.4350587,-113.5776136,2000-01-01,False,True,True,True
+240,530864,5911 152A Avenue NW,5911 152A Avenue NW,2,1,800,1050,Rent,Apartment,underground,in_suite,True,True,53.6135363,-113.4328267,2000-01-01,False,False,True,False
+241,386231,10238 103 St NW,10238 103 St NW,2,2,830,2147,Rent,Condo Unit,garage,in_suite,False,False,53.543851276919,-113.497618259455,2000-01-01,False,True,False,False
+242,530225,6212 139 Avenue Northwest,6212 139 Avenue Northwest,3,1.5,1150,1650,Rent,Main Floor,outdoor,shared,True,True,53.6015973,-113.4374969,2000-01-01,False,True,True,True
+243,532175,11408 13 Avenue Southwest,11408 13 Avenue Southwest,3,2.5,1350,1950,Rent,Duplex,covered,shared,True,True,53.4199422,-113.5219397,2000-01-01,False,False,False,True
+244,367317,13441 - 127 Street Northwest,13441 - 127 Street Northwest,2,1,950,1750,Rent,Condo Unit,underground,in_suite,False,False,53.5961039,-113.5396771,2000-01-01,False,False,True,True
+245,439203,1316 Windermere Way Southwest,1316 Windermere Way Southwest,2.5,2,1150,2550,Rent,Apartment,outdoor,shared,False,True,53.433937,-113.6178875,2000-01-01,False,True,True,True
+246,366476,22104 87 Avenue Northwest,22104 87 Avenue Northwest,3,2.5,1400,2400,Rent,House,covered,in_suite,True,True,53.521253515545,-113.698579827319,2000-01-01,False,True,False,False
+247,532167,8745 165 Street Northwest,8745 165 Street Northwest,1,1,670,1050,Rent,Condo Unit,garage,shared,False,True,53.5212438,-113.608324,2000-01-01,False,True,True,True
+248,476990,,,1,1,620,1000,Rent,Basement,garage,shared,False,False,53.5202031,-113.4901025,2000-01-01,False,False,True,False
+249,532139,9929 113 Street,9929 113 Street,2,2,,1800,Rent,Condo Unit,garage,in_suite,True,False,53.5381739,-113.5153121,2000-01-01,False,True,True,True
+250,427058,7508 Getty Gate NW,7508 Getty Gate NW,2,2,898,1570,Rent,Condo Unit,covered,shared,True,True,53.4981924,-113.6809781,2000-01-01,False,True,False,True
+251,529954,28 B 16026 16028 103 Avenue Northwest,28 B 16026 16028 103 Avenue Northwest,1,1,,1500,Rent,Duplex,garage,shared,False,False,53.545062612405,-113.59848588466,2000-01-01,False,False,True,False
+252,316576,10815 83 Avenue NW,10815 83 Avenue NW,2,1,805,1800,Rent,Condo Unit,underground,in_suite,True,False,53.518833,-113.5101671,2000-01-01,False,False,True,True
+253,508377,23107 77 Avenue NE,23107 77 Avenue NE,1,1,1064,1220,Rent,Apartment,outdoor,in_suite,False,True,53.5096893,-113.7157923,2000-01-01,False,True,True,True
+254,498456,8919 83 Ave NW,8919 83 Ave NW,1.5,1,825,940,Rent,Basement,covered,in_suite,True,False,53.5186648,-113.4655759,2000-01-01,False,True,False,True
+255,493176,920 156 Street Northwest,920 156 Street Northwest,1,1,600,1300,Rent,Condo Unit,garage,in_suite,False,True,53.4401942,-113.5921843,2000-01-01,False,False,False,True
+256,518773,,,2,1,900,1400,Rent,Basement,covered,shared,False,False,53.5173292,-113.4669885,2000-01-01,False,True,False,False
+257,472254,2393 Glenridding Boulevard Southwest,2393 Glenridding Boulevard Southwest,3.5,2.5,1440,1750,Rent,Townhouse,underground,in_suite,True,True,53.4206678,-113.6075543,2000-01-01,False,True,True,True
+258,266988,11606 108 Ave,11606 108 Ave,1,1,,1250,Rent,Condo Unit,outdoor,shared,False,False,53.553311,-113.521838,2000-01-01,False,False,True,True
+259,369088,9128 99 Street Northwest,9128 99 Street Northwest,1,1,450,825,Rent,Apartment,underground,shared,True,False,53.5270146,-113.4863059,2000-01-01,False,False,True,True
+260,504054,11969 Jasper Ave,11969 Jasper Ave,2,2,950,2900,Rent,Condo Unit,garage,shared,False,True,53.5407736,-113.5289202,2000-01-01,False,True,False,True
+261,525748,5012 118 Avenue Northwest,5012 118 Avenue Northwest,3,1,1000,1275,Rent,Condo Unit,garage,shared,True,True,53.5706279,-113.4191213,2000-01-01,False,False,True,False
+262,532223,172 Secord Drive Northwest,172 Secord Drive Northwest,2.5,2.5,1100,1850,Rent,Townhouse,covered,shared,False,False,53.52938,-113.6979565,2000-01-01,False,False,False,True
+263,477775,9999 111th Street NW,9999 111th Street NW,1,1,637,1220,Rent,Apartment,garage,in_suite,False,True,53.538051,-113.51213,2000-01-01,False,False,False,False
+264,532012,12717 119 St,12717 119 St,1,1,,750,Rent,Apartment,outdoor,in_suite,False,True,53.585942631469,-113.52576043015,2000-01-01,False,False,True,False
+265,528540,18,18,1,1,,850,Rent,Apartment,garage,shared,True,False,53.5396363,-113.514458,2000-01-01,False,False,False,True
+266,531995,12019 123 Street NW,12019 123 Street NW,3,1,1000,1350,Rent,Main Floor,covered,shared,True,True,53.5742273,-113.5337434,2000-01-01,False,True,False,False
+267,518968,9947 157 Street NW,9947 157 Street NW,3,2.5,1629,1900,Rent,Duplex,outdoor,shared,True,False,53.5390027,-113.5917051,2000-01-01,False,True,False,False
+268,497411,,,1.5,1,690,1150,Rent,Basement,covered,shared,True,False,53.515346,-113.4641653,2000-01-01,False,False,False,False
+269,531961,6306 167A Avenue Northwest,6306 167A Avenue Northwest,3,2.5,1768,1900,Rent,Duplex,garage,in_suite,True,False,53.6292645,-113.4377004,2000-01-01,False,True,False,True
+270,531331,4787 Kinney Rd SW Edmonton AB T6W 5G4,4787 Kinney Rd SW Edmonton AB T6W 5G4,3.5,2.5,,2400,Rent,House,underground,shared,True,False,53.4157298,-113.6263844,2000-01-01,False,True,True,False
+271,462322,10153 117 St NW,10153 117 St NW,1,1,822,1050,Rent,Condo Unit,underground,shared,False,False,53.5423167,-113.5226562,2000-01-01,False,True,False,True
+272,515436,11415 100 Avenue Northwest,11415 100 Avenue Northwest,2,2,1108,1500,Rent,Condo Unit,underground,in_suite,True,False,53.5385598,-113.5181278,2000-01-01,False,True,False,True
+273,530626,8739 118 Street Northwest,8739 118 Street Northwest,1,1,,1600,Rent,Basement,outdoor,in_suite,False,True,53.524464,-113.5338391,2000-01-01,False,True,True,True
+274,529631,10312 111 Street,10312 111 Street,1,1,560,1450,Rent,Apartment,covered,in_suite,True,True,53.5450384,-113.5127219,2000-01-01,False,False,True,False
+275,504666,11235 117 St,11235 117 St,1,1,,800,Rent,Apartment,underground,shared,False,False,53.562017302499,-113.52296548666,2000-01-01,False,True,False,True
+276,465256,,,3,2,1700,1995,Rent,House,garage,shared,False,True,53.4684523,-113.5090775,2000-01-01,False,False,True,True
+277,531999,12019 123 Street NW,12019 123 Street NW,2,1,1000,1250,Rent,Basement,underground,shared,False,True,53.5742273,-113.5337434,2000-01-01,False,True,False,False
+278,472443,12015 82 st,12015 82 st,1,1,,900,Rent,Apartment,underground,in_suite,False,True,53.5740237,-113.4668664,2000-01-01,False,True,True,True
+279,531985,9487 227 Street Northwest,9487 227 Street Northwest,3,2.5,2158,2395,Rent,Main Floor,covered,shared,True,True,53.53253,-113.70843,2000-01-01,False,False,True,False
+280,353250,11610 100 Avenue NW,11610 100 Avenue NW,1,1,1065,1505,Rent,Apartment,garage,shared,False,True,53.5390295,-113.5219847,2000-01-01,False,False,False,False
+281,531960,BSMT 22204 87 Avenue Northwest,BSMT 22204 87 Avenue Northwest,1,1,622,900,Rent,Basement,covered,in_suite,True,True,53.5213899,-113.69931,2000-01-01,False,True,True,True
+282,515765,9002 58 Street Northwest,9002 58 Street Northwest,1,1,650,1200,Rent,Basement,outdoor,shared,False,True,53.5240434,-113.4249773,2000-01-01,False,False,True,False
+283,275871,9925 Jasper Ave NW,9925 Jasper Ave NW,1,1,666,1300,Rent,Apartment,underground,in_suite,True,False,53.5410853,-113.4883582,2000-01-01,False,False,False,True
+284,470382,10180 103 ST NW,10180 103 ST NW,2,2,812,2750,Rent,Condo Unit,underground,in_suite,False,False,53.5428168,-113.4979767,2000-01-01,False,True,False,False
+285,296579,,,2,1,850,1250,Rent,Basement,outdoor,shared,False,True,53.6342091,-113.4523131,2000-01-01,False,False,False,False
+286,435275,,,3,2,,1700,Rent,Main Floor,outdoor,shared,True,False,53.6291862,-113.4620332,2000-01-01,False,False,False,False
+287,531073,3866 Chrustawka Place Southwest,3866 Chrustawka Place Southwest,1,1,700,1125,Rent,Basement,garage,shared,False,True,53.4067184,-113.5860874,2000-01-01,False,False,True,True
+288,267426,6710 110 st,6710 110 st,2,1,800,1000,Rent,Apartment,garage,in_suite,True,False,53.5043403,-113.5149502,2000-01-01,False,False,False,False
+289,528209,12419 55 Street Northwest,12419 55 Street Northwest,2,1,1400,1200,Rent,Main Floor,underground,shared,False,False,53.5804009,-113.4257204,2000-01-01,False,True,False,False
+290,526694,Price Way/Price Lane/ Price Link,Price Way/Price Lane/ Price Link,2,2.5,,1650,Rent,Townhouse,covered,shared,False,True,53.4156021,-113.5558947,2000-01-01,False,True,False,True
+291,531289,10514 92 St NW,10514 92 St NW,1,1,502,1095,Rent,Condo Unit,outdoor,in_suite,True,False,53.5508352,-113.4771036,2000-01-01,False,True,True,False
+292,264014,155 Centennial Court,155 Centennial Court,3,1.5,,1400,Rent,Townhouse,garage,in_suite,False,True,53.5478813,-113.6106309,2000-01-01,False,True,False,True
+293,302421,10805 79 Avenue Northwest,10805 79 Avenue Northwest,1,1,800,1095,Rent,Apartment,garage,shared,False,False,53.5149704,-113.5097886,2000-01-01,False,True,True,True
+294,529799,10310 102 St NW,10310 102 St NW,1,1,1221,1495,Rent,Apartment,outdoor,in_suite,True,True,53.5450299,-113.49616,2000-01-01,False,True,False,False
+295,325792,10615 110 St NW,10615 110 St NW,1,1,850,895,Rent,Condo Unit,garage,shared,False,False,53.5502102,-113.5098618,2000-01-01,False,True,False,True
+296,451992,12025 - 22 AVE SW,12025 - 22 AVE SW,2.5,2,838 sq.ft.,1500,Rent,Condo Unit,garage,shared,False,False,53.4108668,-113.5352462,2000-01-01,False,False,False,False
+297,515135,10503 98 Ave NW,10503 98 Ave NW,2,2,1050,1400,Rent,Condo Unit,garage,in_suite,True,False,53.5354791,-113.5016368,2000-01-01,False,False,True,True
+298,500895,10410 102 Avenue Northwest,10410 102 Avenue Northwest,1,1,,2195,Rent,Condo Unit,outdoor,shared,True,True,53.5431374,-113.4998299,2000-01-01,False,False,False,False
+299,515636,11009 109A Ave NW,11009 109A Ave NW,1,1,490,1380,Rent,Apartment,garage,in_suite,False,True,53.5554803,-113.5113285,2000-01-01,False,False,True,False
+300,484241,8707 (bsmt) 221 Street Northwest,8707 (bsmt) 221 Street Northwest,1,1,,900,Rent,Basement,underground,in_suite,False,False,53.521470061234,-113.697599130688,2000-01-01,False,False,False,True
+301,437712,11147 82 Ave NW,11147 82 Ave NW,1,1,0,1553,Rent,Apartment,underground,shared,False,True,53.51779,-113.520321,2000-01-01,False,False,True,False
+302,532008,17906 9A Avenue Southwest,17906 9A Avenue Southwest,3,2.5,1800,2250,Rent,House,outdoor,in_suite,True,True,53.4255084,-113.6302199,2000-01-01,False,True,True,False
+303,289380,11819 106 Street NW,11819 106 Street NW,1,1,200,675,Rent,Apartment,garage,in_suite,True,True,53.570953,-113.502214,2000-01-01,False,False,False,False
+304,488561,10226 104 St NW,10226 104 St NW,1,1,610,1595,Rent,Condo Unit,garage,in_suite,True,False,53.5438488,-113.4993579,2000-01-01,False,False,True,False
+305,289289,10730 111 Street NW,10730 111 Street NW,1,1,295,825,Rent,Apartment,garage,shared,True,True,53.552402,-113.512437,2000-01-01,False,False,True,False
+306,328493,10721 108 Street NW,10721 108 Street NW,1,1,360,849,Rent,Apartment,garage,shared,True,True,53.5520387,-113.506318,2000-01-01,False,False,False,True
+307,289320,10716 107 Street NW,10716 107 Street NW,1,1,461,795,Rent,Apartment,garage,shared,True,True,53.5518923,-113.5051581,2000-01-01,False,True,False,False
+308,289322,10620 102 Street NW,10620 102 Street NW,1,1,695,849,Rent,Apartment,underground,shared,False,True,53.5503659,-113.495786,2000-01-01,False,False,False,True
+309,444493,10360 102 St NW,10360 102 St NW,2,2,1000,2950,Rent,Condo Unit,underground,in_suite,False,True,53.5460192,-113.495815,2000-01-01,False,True,False,False
+310,289369,10605 112 Street NW,10605 112 Street NW,1,1,421,725,Rent,Apartment,garage,in_suite,True,True,53.5501519,-113.5134194,2000-01-01,False,True,False,True
+311,289288,10820 114 Street NW,10820 114 Street NW,1,1,613,849,Rent,Apartment,outdoor,shared,False,True,53.5537909,-113.517959,2000-01-01,False,True,False,False
+312,276362,,,2,1,1200,1200,Rent,Basement,outdoor,in_suite,False,False,53.62112,-113.47568,2000-01-01,False,True,True,False
+313,308391,10615 111 Street NW,10615 111 Street NW,1,1,455,795,Rent,Apartment,underground,in_suite,True,True,53.5503408,-113.5117343,2000-01-01,False,False,True,False
+314,461638,7454 Getty Way Northwest,7454 Getty Way Northwest,3,2.5,,2100,Rent,House,covered,shared,True,True,53.5003907,-113.6793591,2000-01-01,False,True,False,True
+315,294095,10356 92 Street,10356 92 Street,1,1,356,869,Rent,Apartment,covered,in_suite,False,True,53.5492425,-113.4761906,2000-01-01,False,True,True,True
+316,486138,10618 34th Street,10618 34th Street,1,1,700,900,Rent,Apartment,covered,shared,False,True,53.5603532,-113.3943495,2000-01-01,False,True,False,True
+317,345830,10152 104 Street Northwest T5J 1A7,10152 104 Street Northwest T5J 1A7,1,1,780,2000,Rent,Condo Unit,garage,in_suite,False,False,53.5421904,-113.499459,2000-01-01,False,True,True,False
+318,289356,10735 104 Street NW,10735 104 Street NW,1,1,646,915,Rent,Apartment,outdoor,in_suite,False,True,53.552684,-113.498709,2000-01-01,False,False,False,True
+319,522693,10011 123 St NW,10011 123 St NW,2,2,1011,2450,Rent,Condo Unit,covered,shared,True,False,53.5410732,-113.5335817,2000-01-01,False,False,False,False
+320,402727,13220 140 St NW | 13528 140 St NW,13220 140 St NW | 13528 140 St NW,2,1,1030,1223,Rent,Townhouse,underground,in_suite,True,True,53.5959698,-113.5622913,2000-01-01,False,True,True,False
+321,302013,9939 109 St NW,9939 109 St NW,2,2,,1550,Rent,Apartment,outdoor,in_suite,True,False,53.5555836,-113.4901865,2000-01-01,False,True,False,True
+322,289266,7107 79 Avenue NW,7107 79 Avenue NW,1,1,292,818,Rent,Apartment,outdoor,shared,True,True,53.514529,-113.437475,2000-01-01,False,True,True,True
+323,289280,10443 156 Street NW,10443 156 Street NW,1,1,570,989,Rent,Apartment,underground,shared,True,True,53.547816,-113.5900794,2000-01-01,False,False,False,False
+324,289355,10330 115 St NW,10330 115 St NW,1,1,421,999,Rent,Apartment,outdoor,shared,False,True,53.5454555,-113.5198304,2000-01-01,False,True,True,True
+325,367034,16807 100 Avenue,16807 100 Avenue,2,2,950,1580,Rent,Condo Unit,garage,in_suite,False,False,53.5388416,-113.6113696,2000-01-01,False,True,False,False
+326,531536,1149 Rutherford Close Southwest,1149 Rutherford Close Southwest,4.5,2.5,2195,2400,Rent,House,outdoor,in_suite,False,True,53.4244628,-113.5320835,2000-01-01,False,False,False,False
+327,289407,10635 115 Street NW,10635 115 Street NW,1,1,330,825,Rent,Apartment,covered,shared,False,True,53.5507264,-113.5190194,2000-01-01,False,False,False,True
+328,455550,8515 112 Street NW,8515 112 Street NW,1,1,425,1165,Rent,Apartment,garage,shared,False,True,53.5214824,-113.5202676,2000-01-01,False,True,False,False
+329,334204,11255 117 Street,11255 117 Street,1,1,547,915,Rent,Apartment,covered,in_suite,True,True,53.5626688,-113.5232376,2000-01-01,False,False,True,False
+330,289370,16404 115 Street NW,16404 115 Street NW,1,1,630,1120,Rent,Apartment,outdoor,in_suite,False,True,53.625677,-113.52429,2000-01-01,False,False,False,True
+331,289335,10835 115 Street NW,10835 115 Street NW,1,1,460,825,Rent,Apartment,covered,in_suite,False,True,53.554133,-113.518942,2000-01-01,False,True,True,False
+332,438121,4432 117 Street Northwest,4432 117 Street Northwest,3,1,"1,000",1850,Rent,Main Floor,underground,in_suite,False,False,53.4823959,-113.5326555,2000-01-01,False,True,True,True
+333,294092,7108 79 Avenue,7108 79 Avenue,1,1,445,999,Rent,Apartment,covered,in_suite,True,True,53.515419,-113.437445,2000-01-01,False,False,False,True
+334,289315,3820 134 Avenue NW,3820 134 Avenue NW,1,1,1124,970,Rent,Apartment,covered,shared,False,True,53.5950996,-113.3998025,2000-01-01,False,False,True,True
+335,527664,#1 2565 Hanna Crescent Northwest,#1 2565 Hanna Crescent Northwest,2,2.5,1500,1750,Rent,Duplex,underground,in_suite,False,False,53.4491436,-113.5943893,2000-01-01,False,False,True,True
+336,289310,10723 102 Street NW,10723 102 Street NW,1,1,667,869,Rent,Apartment,covered,in_suite,False,True,53.55206,-113.494891,2000-01-01,False,True,True,False
+337,289326,10630 105 Street NW,10630 105 Street NW,1,1,272,745,Rent,Apartment,covered,shared,False,True,53.550614,-113.501382,2000-01-01,False,False,False,False
+338,497880,8927 77 Ave NW,8927 77 Ave NW,2,1,1142,1450,Rent,Basement,covered,shared,True,True,53.513022,-113.465666,2000-01-01,False,True,False,False
+339,530359,120 Brander Drive Northwest,120 Brander Drive Northwest,6,3.5,,3500,Rent,House,covered,shared,False,True,53.496492,-113.5799943,2000-01-01,False,False,False,False
+340,289317,11937 105 Street NW,11937 105 Street NW,1,1,633,950,Rent,Apartment,outdoor,in_suite,True,True,53.5732567,-113.5006476,2000-01-01,False,False,False,False
+341,518815,11933 Jasper Ave,11933 Jasper Ave,1,1,,1500,Rent,Condo Unit,covered,shared,True,True,53.5406267,-113.5279824,2000-01-01,False,False,True,True
+342,289352,10320 115 St NW,10320 115 St NW,1,1,490,999,Rent,Apartment,covered,in_suite,True,True,53.5452081,-113.5199233,2000-01-01,False,False,False,False
+343,529824,2531 Cole Crescent Southwest,2531 Cole Crescent Southwest,4,2.5,1538,2395,Rent,House,underground,in_suite,False,False,53.404386,-113.5326604,2000-01-01,False,False,True,False
+344,289391,10316 119 Street NW,10316 119 Street NW,1,1,539,950,Rent,Apartment,covered,shared,False,True,53.5451843,-113.5272037,2000-01-01,False,False,True,True
+345,289319,10224 122 Street NW,10224 122 Street NW,1,1,463,875,Rent,Apartment,outdoor,shared,True,True,53.543706,-113.532603,2000-01-01,False,False,False,True
+346,444786,10529 151 St NW,10529 151 St NW,3,1,1315,2200,Rent,Main Floor,covered,shared,True,False,53.548905776827,-113.581291322754,2000-01-01,False,True,False,False
+347,289395,11233 124 Street NW,11233 124 Street NW,1,1,419,799,Rent,Apartment,outdoor,shared,False,True,53.561588,-113.535438,2000-01-01,False,True,True,True
+348,480826,,,2,1.5,950,1350,Rent,Condo Unit,underground,in_suite,False,False,53.5109904,-113.5950128,2000-01-01,False,False,False,True
+349,289385,"10727 110 Street Northwest, Edmonton, AB, Canada","10727 110 Street Northwest, Edmonton, AB, Canada",1,1,326,745,Rent,Apartment,underground,in_suite,False,True,53.5522171,-113.5099959,2000-01-01,False,False,True,True
+350,514895,3149 151 Avenue NW,3149 151 Avenue NW,1,1,,1150,Rent,Apartment,garage,shared,False,True,53.6133928,-113.3883613,2000-01-01,False,False,True,True
+351,526158,13516 102 Street Northwest,13516 102 Street Northwest,1,1,,950,Rent,Condo Unit,garage,in_suite,True,False,53.5972498,-113.4959279,2000-01-01,False,False,True,False
+352,289293,10720 108 Street NW,10720 108 Street NW,1,1,329,795,Rent,Apartment,covered,shared,True,True,53.5521995,-113.5068953,2000-01-01,False,True,True,True
+353,332361,1396 Knottwood Road East Northwest,1396 Knottwood Road East Northwest,3,1.5,1300,1350,Rent,Condo Unit,garage,shared,True,True,53.449057,-113.4398081,2000-01-01,False,False,False,True
+354,289364,10638 106 Street NW,10638 106 Street NW,1,1,601,975,Rent,Apartment,covered,shared,False,True,53.550705,-113.503203,2000-01-01,False,False,False,True
+355,299853,107 Village Acres NW,107 Village Acres NW,1,1,1163,999,Rent,Apartment,outdoor,shared,True,True,53.590387,-113.445221,2000-01-01,False,False,False,True
+356,391868,10238 103 St NW,10238 103 St NW,2,2,800,2050,Rent,Apartment,outdoor,in_suite,False,True,53.5440505,-113.4979589,2000-01-01,False,False,False,False
+357,289311,10720 104 Street NW,10720 104 Street NW,1,1,,719,Rent,Apartment,garage,in_suite,False,True,53.552003,-113.4996435,2000-01-01,False,False,True,False
+358,531290,10720 78 Avenue Northwest,10720 78 Avenue Northwest,1,1,500,2195,Rent,Condo Unit,garage,in_suite,False,True,53.5144786,-113.5073132,2000-01-01,False,True,True,False
+359,489788,9835 106 Street NW,9835 106 Street NW,1,1,294,859,Rent,Apartment,outdoor,shared,True,False,53.536746,-113.5026401,2000-01-01,False,True,True,False
+360,289349,10325 117 Street NW,10325 117 Street NW,1,1,349,870,Rent,Apartment,underground,shared,True,True,53.545417,-113.522656,2000-01-01,False,False,True,False
+361,531873,,,2,1,950,1400,Rent,Basement,outdoor,shared,True,True,53.528751,-113.5828975,2000-01-01,False,False,True,True
+362,326175,9304 69 Avenue Northwest,9304 69 Avenue Northwest,3,2.5,1500 (Main and Upper Level),2700,Rent,Duplex,covered,shared,True,True,53.50583,-113.470661,2000-01-01,False,True,True,False
+363,289343,11820 101 Street NW,11820 101 Street NW,1,1,1241,793,Rent,Apartment,covered,shared,False,True,53.570974,-113.494423,2000-01-01,False,False,True,True
+364,531249,3660 109 Street Northwest,3660 109 Street Northwest,3,1.5,1200,1600,Rent,Main Floor,outdoor,in_suite,False,True,53.4718906,-113.5114662,2000-01-01,False,True,False,False
+365,466914,10055 118 St NW,10055 118 St NW,2,1,751,1599,Rent,Apartment,outdoor,shared,True,False,53.540367950399,-113.52459850423,2000-01-01,False,True,True,False
+366,289374,10325 123 Street NW,10325 123 Street NW,1,1,614,1000,Rent,Apartment,underground,in_suite,True,True,53.5451371,-113.5336247,2000-01-01,False,False,False,True
+367,289294,10610 115 Street NW,10610 115 Street NW,1,1,315,849,Rent,Apartment,outdoor,in_suite,False,True,53.550205,-113.520203,2000-01-01,False,True,False,True
+368,355712,10735 107 St NW,10735 107 St NW,1,1,0,900,Rent,Apartment,underground,in_suite,False,True,53.5524368,-113.5043346,2000-01-01,False,True,False,True
+369,289368,11906 104 Street NW,11906 104 Street NW,1,1,565,1105,Rent,Apartment,covered,shared,True,True,53.5722653,-113.4996503,2000-01-01,False,True,False,False
+370,431737,10730 102 St NW,10730 102 St NW,1,1,501,764,Rent,Apartment,covered,in_suite,False,True,53.5523007,-113.4959436,2000-01-01,False,True,True,False
 371,289324,"13220 113A Street NW |
 13225 - 114  Street NW","13220 113A Street NW |
-13225 - 114  Street NW","13220 113A Street NW |
-13225 - 114  Street NW",studio,1,422,845,Rent,Apartment,underground,in_suite,True,True,53.593036,-113.5170725,2000-01-01,False,False,False,True
-372,294094,11124 124 Street,11124 124 Street,11124 124 Street,studio,1,257,775,Rent,Apartment,covered,shared,False,True,53.5594913,-113.5364087,2000-01-01,False,True,False,False
-373,289313,10730 109 Street NW,10730 109 Street NW,10730 109 Street NW,1,1,553,849,Rent,Apartment,underground,in_suite,True,True,53.5523485,-113.5087132,2000-01-01,False,True,True,False
-374,289291,12235 129A Street NW,12235 129A Street NW,12235 129A Street NW,2,1,850,1329,Rent,Townhouse,outdoor,shared,True,True,53.5771894,-113.5470435,2000-01-01,False,True,False,False
-375,466379,11310 109 Avenue NW,11310 109 Avenue NW,11310 109 Avenue NW,studio,1,,950,Rent,Apartment,outdoor,in_suite,True,True,53.5548969,-113.5174698,2000-01-01,False,True,True,False
-376,299441,3307 116A Avenue N.W.,3307 116A Avenue N.W.,3307 116A Avenue N.W.,3,1,1120,1250,Rent,Townhouse,outdoor,in_suite,True,False,53.5688206,-113.392764,2000-01-01,False,True,False,True
-377,289362,15628 100 Avenue NW,15628 100 Avenue NW,15628 100 Avenue NW,studio,1,661,975,Rent,Apartment,covered,shared,True,True,53.5395912,-113.592186,2000-01-01,False,False,False,True
-378,397916,12840 129 St NW,12840 129 St NW,12840 129 St NW,2,1,1100,1250,Rent,Basement,underground,in_suite,False,True,53.5872699,-113.5448369,2000-01-01,False,True,True,True
-379,289406,10203 156 Street NW,10203 156 Street NW,10203 156 Street NW,1,1,596,1035,Rent,Apartment,outdoor,shared,True,True,53.5435667,-113.5899243,2000-01-01,False,False,False,True
-380,492889,11708 17 Avenue Southwest,11708 17 Avenue Southwest,11708 17 Avenue Southwest,3,2.5,1200,1699,Rent,Duplex,covered,in_suite,False,False,53.415692,-113.5271949,2000-01-01,False,True,True,False
-381,296454,10625 113 Street NW,10625 113 Street NW,10625 113 Street NW,studio,1,342,870,Rent,Apartment,garage,shared,True,True,53.550499,-113.515114,2000-01-01,False,True,True,True
-382,289309,11217 124 Street NW,11217 124 Street NW,11217 124 Street NW,studio,1,218,718,Rent,Apartment,outdoor,shared,False,True,53.561058,-113.535445,2000-01-01,False,True,False,False
-383,289284,10633 110 St NW,10633 110 St NW,10633 110 St NW,studio,1,271,849,Rent,Apartment,outdoor,shared,False,True,53.550612,-113.50959,2000-01-01,False,True,True,True
-384,289292,10715 104 Street NW,10715 104 Street NW,10715 104 Street NW,studio,1,340,775,Rent,Apartment,underground,in_suite,True,True,53.551999,-113.498709,2000-01-01,False,True,False,False
-385,395850,10360 102 St NW,10360 102 St NW,10360 102 St NW,1,1,560,2500,Rent,Condo Unit,covered,shared,True,True,53.5457543,-113.4962335,2000-01-01,False,False,True,False
-386,289327,11930 104 Street NW,11930 104 Street NW,11930 104 Street NW,studio,1,400,950,Rent,Apartment,garage,shared,False,True,53.5728825,-113.4996809,2000-01-01,False,False,True,False
-387,531576,Beaumaris Road Northwest,Beaumaris Road Northwest,Beaumaris Road Northwest,4,1.5,,1700,Rent,Townhouse,garage,in_suite,False,True,53.6210062,-113.5073151,2000-01-01,False,True,False,True
-388,289272,10729 104 Street NW,10729 104 Street NW,10729 104 Street NW,1,1,625,900,Rent,Apartment,underground,shared,True,True,53.5523759,-113.4988179,2000-01-01,False,False,True,False
-389,525551,2788 Blatchford Road,2788 Blatchford Road,2788 Blatchford Road,3,3.5,2159,2695,Rent,Townhouse,garage,shared,True,False,53.5681782,-113.5194235,2000-01-01,False,True,False,False
-390,289345,11841 105 Street NW,11841 105 Street NW,11841 105 Street NW,studio,1,435,925,Rent,Apartment,underground,in_suite,False,True,53.5716896,-113.5008046,2000-01-01,False,True,False,False
-391,441307,11312 122 Street Northwest,11312 122 Street Northwest,11312 122 Street Northwest,3,2,,1700,Rent,House,underground,in_suite,True,True,53.5625523,-113.5328028,2000-01-01,False,True,True,True
-392,294093,11065 149 Street,11065 149 Street,11065 149 Street,1,1,607,1050,Rent,Apartment,garage,in_suite,False,True,53.5582526,-113.5775054,2000-01-01,False,True,False,True
-393,461200,12503 121 Avenue Northwest,12503 121 Avenue Northwest,12503 121 Avenue Northwest,2,1,1000,1325,Rent,Basement,underground,in_suite,True,True,53.574891354337,-113.538115550262,2000-01-01,False,True,True,False
-394,273901,404 McConachie Way NW,404 McConachie Way NW,404 McConachie Way NW,1,1,604,1418,Rent,Apartment,covered,in_suite,True,True,53.62903,-113.432008,2000-01-01,False,True,False,True
-395,289339,10619 104 Street NW,10619 104 Street NW,10619 104 Street NW,1,1,495,849,Rent,Apartment,covered,in_suite,False,True,53.5503367,-113.4989538,2000-01-01,False,True,True,False
-396,415776,10404 24 Avenue Northwest,10404 24 Avenue Northwest,10404 24 Avenue Northwest,2,1,,1200,Rent,Townhouse,outdoor,in_suite,True,False,53.4547256,-113.4985078,2000-01-01,False,True,False,True
-397,289412,12711 118 Avenue NW,12711 118 Avenue NW,12711 118 Avenue NW,studio,1,382,849,Rent,Apartment,underground,in_suite,False,True,53.5695231,-113.5428482,2000-01-01,False,True,True,False
-398,531543,10238 103 St NW,10238 103 St NW,10238 103 St NW,1,1,510,1780,Rent,Condo Unit,garage,shared,False,True,53.5440505,-113.4979589,2000-01-01,False,True,True,False
-399,289367,11919 105 Street NW,11919 105 Street NW,11919 105 Street NW,1,1,550,1070,Rent,Apartment,covered,shared,True,True,53.5726661,-113.5006491,2000-01-01,False,False,True,True
-400,289365,14925 102 Avenue,14925 102 Avenue,14925 102 Avenue,1,1,538,850,Rent,Apartment,garage,shared,True,True,53.550721,-113.516515,2000-01-01,False,True,True,False
-401,289325,10959 97 Street NW,10959 97 Street NW,10959 97 Street NW,studio,1,150,629,Rent,Apartment,underground,shared,True,True,53.5568338,-113.4912602,2000-01-01,False,True,True,True
-402,289359,10155 153 Street NW,10155 153 Street NW,10155 153 Street NW,studio,1,346,795,Rent,Apartment,garage,shared,False,True,53.5430149,-113.584416,2000-01-01,False,True,False,False
-403,289351,11708 124 Street NW,11708 124 Street NW,11708 124 Street NW,studio,1,280,900,Rent,Apartment,covered,shared,True,True,53.568809,-113.536597,2000-01-01,False,False,True,False
-404,289386,10625 117 Street NW,10625 117 Street NW,10625 117 Street NW,1,1,546,849,Rent,Apartment,covered,in_suite,True,True,53.5508453,-113.5227166,2000-01-01,False,False,False,True
-405,289399,11820 102 Street NW,11820 102 Street NW,11820 102 Street NW,studio,1,489,899,Rent,Apartment,underground,shared,False,True,53.571027,-113.496265,2000-01-01,False,True,True,False
-406,289263,11615 124 Street NW,11615 124 Street NW,11615 124 Street NW,studio,1,332,845,Rent,Apartment,garage,shared,False,True,53.5673839,-113.535465,2000-01-01,False,True,False,False
-407,289336,10711 103 Street NW,10711 103 Street NW,10711 103 Street NW,1,1,539,799,Rent,Apartment,covered,shared,False,True,53.551968,-113.4970064,2000-01-01,False,True,False,True
-408,289277,10041 152 Street NW,10041 152 Street NW,10041 152 Street NW,1,1,483,940,Rent,Apartment,underground,in_suite,True,True,53.540313,-113.582663,2000-01-01,False,True,False,False
-409,530804,10238 103 Street Northwest,10238 103 Street Northwest,10238 103 Street Northwest,2,2,989,2400,Rent,Condo Unit,outdoor,shared,True,False,53.5440505,-113.4979589,2000-01-01,False,True,True,False
-410,289282,10650 103 Street NW,10650 103 Street NW,10650 103 Street NW,studio,1,,770,Rent,Apartment,garage,shared,False,True,53.550895,-113.497697,2000-01-01,False,True,True,True
-411,289279,2606 139 Avenue NW,2606 139 Avenue NW,2606 139 Avenue NW,1,1,567,1070,Rent,Apartment,garage,shared,False,True,53.6028405,-113.3827519,2000-01-01,False,False,False,False
-412,481670,,,,4,3,1500,2000,Rent,Duplex,covered,in_suite,False,True,53.4120535,-113.5575404,2000-01-01,False,True,False,False
-413,499099,274 McConachie Way Northwest,274 McConachie Way Northwest,274 McConachie Way Northwest,2.5,2,800,1700,Rent,Condo Unit,outdoor,shared,True,False,53.6290076,-113.4320253,2000-01-01,False,False,False,True
-414,399336,11118 76 Ave NW,11118 76 Ave NW,11118 76 Ave NW,6,3,,2400,Rent,Duplex,underground,shared,False,False,53.5124328,-113.5178177,2000-01-01,False,True,True,False
-415,523781,11105 81 Avenue Northwest,11105 81 Avenue Northwest,11105 81 Avenue Northwest,2,1,968.76,1600,Rent,House,underground,shared,True,True,53.5169501,-113.5182126,2000-01-01,False,False,False,False
-416,481616,10160 114 St NW,10160 114 St NW,10160 114 St NW,studio,1,480,925,Rent,Condo Unit,underground,in_suite,False,False,53.542408,-113.518322,2000-01-01,False,True,True,True
-417,278868,11615-84 Street NW,11615-84 Street NW,11615-84 Street NW,3,1,,1600,Rent,House,outdoor,in_suite,False,False,53.567571565241,-113.469921069312,2000-01-01,False,True,False,True
-418,410672,2949 26 Street Northwest,2949 26 Street Northwest,2949 26 Street Northwest,2,1,980,1300,Rent,Condo Unit,outdoor,in_suite,False,True,53.460485,-113.3801381,2000-01-01,False,False,False,False
-419,529443,,,,5,2,2000,2100,Rent,House,garage,in_suite,True,True,53.4805933,-113.5257216,2000-01-01,False,True,True,True
-420,285475,11307 99 ave,11307 99 ave,11307 99 ave,1,1,,1350,Rent,Condo Unit,garage,shared,False,True,53.5370309,-113.5164889,2000-01-01,False,False,False,False
-421,415973,20828 61 Avenue Northwest,20828 61 Avenue Northwest,20828 61 Avenue Northwest,5.5,3.5,2500,3450,Rent,House,underground,in_suite,True,False,53.4968972,-113.6809713,2000-01-01,False,True,True,True
-422,531801,12141 Jasper Ave,12141 Jasper Ave,12141 Jasper Ave,1,1,750,1480,Rent,Condo Unit,underground,in_suite,False,False,53.5409719,-113.5321348,2000-01-01,False,True,True,True
-423,531726,10909 106 Street,10909 106 Street,10909 106 Street,4,2,,2200,Rent,Townhouse,garage,in_suite,True,True,53.5550567,-113.5019574,2000-01-01,False,False,True,True
-424,531713,,,,3,1,,1450,Rent,Main Floor,underground,shared,True,True,53.5130626,-113.6018863,2000-01-01,False,False,True,False
-425,250297,,,,1,1,,975,Rent,Apartment,garage,shared,False,True,53.5230394,-113.4670382,2000-01-01,False,False,True,True
-426,531496,5918 172st NW,5918 172st NW,5918 172st NW,2,1,,1399,Rent,Condo Unit,outdoor,shared,True,False,53.4952098,-113.6212002,2000-01-01,False,False,False,True
-427,530471,4879 Kinney Rd SW,4879 Kinney Rd SW,4879 Kinney Rd SW,4,3,1890,2800,Rent,House,covered,in_suite,False,True,53.4157911,-113.6269298,2000-01-01,False,True,True,False
-428,531711,630 Cheriton Crescent Northwest,630 Cheriton Crescent Northwest,630 Cheriton Crescent Northwest,5.5,3.5,2340,3300,Rent,House,outdoor,in_suite,True,False,53.464867409327,-113.578008457672,2000-01-01,False,True,True,False
-429,397347,9232 91 Street,9232 91 Street,9232 91 Street,5.5,3.5,2800,2800,Rent,Duplex,garage,shared,True,False,53.5281673,-113.4672579,2000-01-01,False,True,False,True
-430,531698,3509 42A Avenue Northwest,3509 42A Avenue Northwest,3509 42A Avenue Northwest,3,2,,1600,Rent,House,outdoor,shared,True,False,53.4794451,-113.3950245,2000-01-01,False,True,False,True
-431,335560,14810 51 Ave NW,14810 51 Ave NW,14810 51 Ave NW,2,2,1400+,2000,Rent,Condo Unit,underground,shared,True,False,53.489858,-113.5753851,2000-01-01,False,True,True,False
-432,529045,10310 102 St NW,10310 102 St NW,10310 102 St NW,1.5,1,,2995,Rent,Condo Unit,covered,shared,False,True,53.5450299,-113.49616,2000-01-01,False,False,False,False
-433,531299,10310 102 St NW,10310 102 St NW,10310 102 St NW,1.5,1,595,2995,Rent,Condo Unit,garage,in_suite,False,True,53.5450299,-113.49616,2000-01-01,False,False,False,True
-434,524955,11025 Jasper Avenue,11025 Jasper Avenue,11025 Jasper Avenue,1,1,,1550,Rent,Condo Unit,garage,in_suite,True,True,53.5406116,-113.5108438,2000-01-01,False,False,False,False
-435,527948,1763 Erker Way Northwest,1763 Erker Way Northwest,1763 Erker Way Northwest,3.5,2.5,1840,2500,Rent,House,underground,in_suite,False,True,53.4748555,-113.6686374,2000-01-01,False,True,True,False
-436,259103,8210 182 St,8210 182 St,8210 182 St,1,1,750,1200,Rent,Apartment,underground,in_suite,True,True,53.5158127,-113.6377704,2000-01-01,False,True,False,True
-437,273368,10933 106 Ave NW,10933 106 Ave NW,10933 106 Ave NW,2,2,1165,2000,Rent,Condo Unit,garage,shared,False,False,53.549284,-113.5285364,2000-01-01,False,True,True,True
-438,531715,,,,1,1,,950,Rent,Basement,underground,in_suite,True,True,53.5130626,-113.6018863,2000-01-01,False,False,True,True
-439,531707,2736 33 Street Northwest,2736 33 Street Northwest,2736 33 Street Northwest,3,2.5,1500,2000,Rent,House,covered,shared,True,False,53.4579706,-113.390487,2000-01-01,False,True,False,False
-440,528122,12411 87 Street Northwest,12411 87 Street Northwest,12411 87 Street Northwest,3,1.5,1433,1375,Rent,Main Floor,underground,shared,True,True,53.5803063,-113.4741267,2000-01-01,False,False,True,True
-441,494219,1343 Erker Crescent NW,1343 Erker Crescent NW,1343 Erker Crescent NW,3,2.5,,2300,Rent,Duplex,covered,in_suite,True,False,53.4781521,-113.6656349,2000-01-01,False,True,True,True
-442,456567,10303 105 St NW,10303 105 St NW,10303 105 St NW,2,1,850,1500,Rent,Condo Unit,covered,in_suite,False,False,53.545054851745,-113.500776312303,2000-01-01,False,True,True,False
-443,531527,11503 76 Avenue Northwest,11503 76 Avenue Northwest,11503 76 Avenue Northwest,1.5,1,660,2000,Rent,Condo Unit,garage,shared,True,False,53.5119933,-113.5291808,2000-01-01,False,True,True,True
-444,438492,8518 106 Street NW,8518 106 Street NW,8518 106 Street NW,1,1,486,1500,Rent,Condo Unit,underground,shared,False,False,53.5215183,-113.5038349,2000-01-01,False,True,True,True
-445,530442,#1 10129-82 Ave,#1 10129-82 Ave,#1 10129-82 Ave,2,2,,1500,Rent,Condo Unit,outdoor,in_suite,True,True,53.5177212,-113.4925006,2000-01-01,False,False,True,False
-446,411935,1009 Watt Prom SW,1009 Watt Prom SW,1009 Watt Prom SW,1,1,500,935,Rent,Basement,outdoor,shared,False,True,53.4194449,-113.4301374,2000-01-01,False,True,True,True
-447,425494,14524 56 Street Northwest,14524 56 Street Northwest,14524 56 Street Northwest,3.5,1.5,2100,1950,Rent,Townhouse,covered,shared,False,True,53.61346253252,-113.42304925572,2000-01-01,False,True,False,False
-448,481461,11211 85 St NW,11211 85 St NW,11211 85 St NW,2,1,,1100,Rent,Apartment,covered,in_suite,False,False,53.5615128,-113.4714035,2000-01-01,False,True,True,False
-449,407723,10617 107 Street Northwest,10617 107 Street Northwest,10617 107 Street Northwest,1,1,,950,Rent,Apartment,covered,shared,False,True,53.5503701,-113.5043731,2000-01-01,False,True,False,True
-450,479144,2012 160 Street Southwest,2012 160 Street Southwest,2012 160 Street Southwest,1,1,,950,Rent,Basement,underground,shared,True,False,53.4227507,-113.5991815,2000-01-01,False,True,True,True
-451,528043,10108 125 Street Northwest,10108 125 Street Northwest,10108 125 Street Northwest,2,2,2000,4250,Rent,Loft,underground,shared,False,True,53.5420862,-113.5381721,2000-01-01,False,False,False,False
-452,482336,160 Magrath Rd NW,160 Magrath Rd NW,160 Magrath Rd NW,1.5,1,851,1600,Rent,Condo Unit,garage,shared,True,False,53.4532702,-113.5597803,2000-01-01,False,False,True,True
-453,474137,144 Macewan Road,144 Macewan Road,144 Macewan Road,3,2.5,1700,2350,Rent,House,underground,shared,True,True,53.4293068,-113.5199999,2000-01-01,False,True,False,True
-454,303670,13660 38 Street,13660 38 Street,13660 38 Street,1,1,,925,Rent,Apartment,outdoor,shared,True,True,53.597716,-113.401141,2000-01-01,False,True,True,True
-455,531595,9221 98 Avenue Northwest,9221 98 Avenue Northwest,9221 98 Avenue Northwest,3,3,1800,2500,Rent,Townhouse,covered,in_suite,True,False,53.5380236,-113.4697718,2000-01-01,False,False,False,True
-456,531577,,,,3,2.5,1490,2495,Rent,Townhouse,underground,in_suite,False,True,53.569136737519,-113.519731876776,2000-01-01,False,False,True,True
-457,515171,12223 82 St NW,12223 82 St NW,12223 82 St NW,1.5,1,667.37,1000,Rent,Apartment,covered,shared,False,True,53.577576,-113.466834,2000-01-01,False,True,False,True
-458,531565,,,,3,2.5,1490,2495,Rent,Townhouse,covered,in_suite,False,True,53.568999764928,-113.520556821143,2000-01-01,False,False,True,True
-459,414704,,,,3,2,1850,1250,Rent,Basement,garage,shared,False,False,53.5650183,-113.5007599,2000-01-01,False,False,False,True
-460,363900,8947 149 Street Northwest,8947 149 Street Northwest,8947 149 Street Northwest,3,1,1049,1850,Rent,Main Floor,outdoor,in_suite,True,True,53.5229912,-113.5775039,2000-01-01,False,True,True,False
-461,399718,,,,1,1,,800,Rent,Apartment,underground,shared,False,True,53.5712265,-113.4694549,2000-01-01,False,False,True,True
-462,489294,,,,studio,1,500,829,Rent,Apartment,covered,in_suite,False,False,53.5609206,-113.5363946,2000-01-01,False,False,True,True
-463,279765,10226 104 St NW,10226 104 St NW,10226 104 St NW,2,2,900,2350,Rent,Condo Unit,garage,in_suite,True,True,53.5438488,-113.4993579,2000-01-01,False,False,False,True
-464,529056,3388 Erlanger Bend Northwest,3388 Erlanger Bend Northwest,3388 Erlanger Bend Northwest,3,2.5,1619,1975,Rent,House,underground,in_suite,True,True,53.4677379,-113.6828646,2000-01-01,False,True,True,True
-465,323611,8515 106A Avenue NW,8515 106A Avenue NW,8515 106A Avenue NW,1,1,585,1289,Rent,Apartment,covered,shared,False,True,53.5562371,-113.4727617,2000-01-01,False,True,False,True
-466,531599,9819 104 Street Northwest,9819 104 Street Northwest,9819 104 Street Northwest,2,2,932,1700,Rent,Condo Unit,garage,in_suite,False,False,53.5364138,-113.4987758,2000-01-01,False,False,True,True
-467,282626,10725 109 Street NW,10725 109 Street NW,10725 109 Street NW,1,1,,1095,Rent,Apartment,outdoor,in_suite,True,True,53.5522174,-113.5079737,2000-01-01,False,True,True,True
-468,531587,,,,2,1,990,1495,Rent,Basement,outdoor,in_suite,False,False,53.4187173,-113.6368967,2000-01-01,False,False,True,False
-469,531300,BSMT 7411 89 Street Northwest,BSMT 7411 89 Street Northwest,BSMT 7411 89 Street Northwest,2,1,1277,1400,Rent,Basement,underground,shared,False,False,53.5105457,-113.4617925,2000-01-01,False,False,True,False
-470,527853,42 Ebbers Close NW,42 Ebbers Close NW,42 Ebbers Close NW,1,1,560,1150,Rent,Apartment,covered,in_suite,False,False,53.6077784,-113.4089223,2000-01-01,False,True,True,False
-471,510568,8525 107 Street NW,8525 107 Street NW,8525 107 Street NW,1,1,,949,Rent,Apartment,garage,shared,True,False,53.521664,-113.5059961,2000-01-01,False,True,True,False
-472,529909,1641 James Mowatt Trail Southwest,1641 James Mowatt Trail Southwest,1641 James Mowatt Trail Southwest,3,3.5,1694,2200,Rent,Duplex,underground,shared,False,False,53.4140959,-113.5209534,2000-01-01,False,True,True,False
-473,503920,9922 111 Street,9922 111 Street,9922 111 Street,1.5,1,1177,2050,Rent,Apartment,covered,shared,True,True,53.5380082,-113.5124962,2000-01-01,False,False,True,True
-474,527360,,,,1,1,720,1250,Rent,Basement,garage,shared,False,False,53.5332717,-113.7121817,2000-01-01,False,False,True,True
-475,531465,10360 102 St NW,10360 102 St NW,10360 102 St NW,2.5,2,1200,4200,Rent,Apartment,covered,in_suite,False,True,53.5458997,-113.4960541,2000-01-01,False,True,True,False
-476,416022,9707 105 St NW,9707 105 St NW,9707 105 St NW,2,2,1200,2150,Rent,Condo Unit,covered,in_suite,False,False,53.5343372,-113.5005593,2000-01-01,False,False,False,True
-477,526283,10106 111 Avenue Northwest,10106 111 Avenue Northwest,10106 111 Avenue Northwest,studio,1,1065,1195,Rent,Apartment,outdoor,shared,False,True,53.559083,-113.494215,2000-01-01,False,True,False,True
-478,522393,14930 92 Avenue Northwest,14930 92 Avenue Northwest,14930 92 Avenue Northwest,1,1,620,985,Rent,Basement,garage,in_suite,False,True,53.5268365,-113.579188,2000-01-01,False,False,True,False
-479,470555,11235 93 Street Northwest,11235 93 Street Northwest,11235 93 Street Northwest,2.5,1,1100,1500,Rent,Main Floor,underground,shared,True,True,53.5621367,-113.4838163,2000-01-01,False,False,True,False
-480,458973,8935 117 Street Northwest,8935 117 Street Northwest,8935 117 Street Northwest,4.5,2.5,2047,650,Rent,Room For Rent,covered,shared,True,False,53.52472928987,-113.531662046558,2000-01-01,False,False,False,True
-481,457630,13218 102 Avenue Northwest,13218 102 Avenue Northwest,13218 102 Avenue Northwest,4,3.5,3200,5500,Rent,House,outdoor,shared,False,True,53.543186668501,-113.550319763727,2000-01-01,False,False,True,False
-482,531486,11025 Jasper Avenue,11025 Jasper Avenue,11025 Jasper Avenue,1,1,512,950,Rent,Condo Unit,outdoor,shared,False,False,53.5406116,-113.5108438,2000-01-01,False,True,True,False
-483,531432,3735 132 Avenue Northwest,3735 132 Avenue Northwest,3735 132 Avenue Northwest,4.5,3.5,1800,2500,Rent,House,underground,in_suite,True,True,53.5919326,-113.4309494,2000-01-01,False,False,True,True
-484,513451,10635 83 Ave NW,10635 83 Ave NW,10635 83 Ave NW,2,1,,1850,Rent,Apartment,covered,shared,True,False,53.5188737,-113.5057571,2000-01-01,False,False,True,False
-485,479691,3305 Orchards Link Southwest,3305 Orchards Link Southwest,3305 Orchards Link Southwest,3,2.5,1235,1750,Rent,Townhouse,underground,shared,False,True,53.4097862,-113.4602877,2000-01-01,False,True,True,True
-486,508668,10011 89 Ave NW,10011 89 Ave NW,10011 89 Ave NW,1,1,700,1150,Rent,Apartment,underground,in_suite,True,False,53.5243172,-113.4894549,2000-01-01,False,False,False,False
-487,522388,14930 92 Avenue Northwest,14930 92 Avenue Northwest,14930 92 Avenue Northwest,3,2.5,1366,1895,Rent,Main Floor,underground,shared,True,True,53.5268365,-113.579188,2000-01-01,False,True,True,True
-488,274392,9707 -105 st,9707 -105 st,9707 -105 st,2,2,1244,2200,Rent,Apartment,underground,shared,True,False,53.534363,-113.500794,2000-01-01,False,False,False,True
-489,531467,16726 40 Street Northwest,16726 40 Street Northwest,16726 40 Street Northwest,3,2.5,1400,2175,Rent,Duplex,outdoor,in_suite,False,True,53.6281938,-113.4020151,2000-01-01,False,False,True,False
-490,531456,2698 Anderson Crescent Southwest,2698 Anderson Crescent Southwest,2698 Anderson Crescent Southwest,4,3.5,2700,3200,Rent,House,garage,in_suite,False,True,53.4272755,-113.6093115,2000-01-01,False,False,True,False
-491,490090,9715 104 Street NW,9715 104 Street NW,9715 104 Street NW,studio,1,490,729,Rent,Apartment,underground,in_suite,False,True,53.5345096,-113.4987611,2000-01-01,False,False,True,True
-492,289941,11712 University Avenue Northwest,11712 University Avenue Northwest,11712 University Avenue Northwest,3,1,1500,1950,Rent,House,underground,in_suite,False,False,53.5182325,-113.5335765,2000-01-01,False,False,True,False
-493,356476,3111 106 Avenue Northwest,3111 106 Avenue Northwest,3111 106 Avenue Northwest,2,1,,895,Rent,Basement,covered,shared,True,True,53.5595145,-113.3908207,2000-01-01,False,False,True,True
-494,505055,8920 118 Avenue Northwest,8920 118 Avenue Northwest,8920 118 Avenue Northwest,1,1,,799,Rent,Apartment,covered,shared,True,False,53.5706294,-113.478804,2000-01-01,False,True,True,False
-495,531439,8532 Jasper Avenue,8532 Jasper Avenue,8532 Jasper Avenue,2,2,1579,1579,Rent,Apartment,garage,shared,True,True,53.5551303,-113.4717973,2000-01-01,False,True,True,False
-496,530909,9111 155 Street Northwest,9111 155 Street Northwest,9111 155 Street Northwest,1,1,,950,Rent,Basement,garage,in_suite,False,True,53.5253498,-113.5880779,2000-01-01,False,False,True,True
-497,401429,11010 82 Street Northwest,11010 82 Street Northwest,11010 82 Street Northwest,studio,1,400,895,Rent,Apartment,covered,in_suite,False,True,53.558313,-113.467605,2000-01-01,False,True,True,True
-498,531400,15 Rehwinkel Road,15 Rehwinkel Road,15 Rehwinkel Road,3,2.5,,2850,Rent,House,underground,in_suite,False,True,53.4736271,-113.581228,2000-01-01,False,True,True,True
-499,370055,10159 155 St NW,10159 155 St NW,10159 155 St NW,1,1,692,1149,Rent,Apartment,covered,shared,True,True,53.543083,-113.5881699,2000-01-01,False,False,False,False
+13225 - 114  Street NW",1,1,422,845,Rent,Apartment,underground,in_suite,False,True,53.593036,-113.5170725,2000-01-01,False,False,True,False
+372,294094,11124 124 Street,11124 124 Street,1,1,257,775,Rent,Apartment,underground,in_suite,True,True,53.5594913,-113.5364087,2000-01-01,False,False,True,False
+373,289313,10730 109 Street NW,10730 109 Street NW,1,1,553,849,Rent,Apartment,outdoor,shared,False,True,53.5523485,-113.5087132,2000-01-01,False,False,True,True
+374,289291,12235 129A Street NW,12235 129A Street NW,2,1,850,1329,Rent,Townhouse,outdoor,shared,True,True,53.5771894,-113.5470435,2000-01-01,False,False,False,False
+375,466379,11310 109 Avenue NW,11310 109 Avenue NW,1,1,,950,Rent,Apartment,garage,shared,False,True,53.5548969,-113.5174698,2000-01-01,False,False,False,False
+376,299441,3307 116A Avenue N.W.,3307 116A Avenue N.W.,3,1,1120,1250,Rent,Townhouse,garage,in_suite,True,False,53.5688206,-113.392764,2000-01-01,False,True,True,False
+377,289362,15628 100 Avenue NW,15628 100 Avenue NW,1,1,661,975,Rent,Apartment,covered,shared,False,True,53.5395912,-113.592186,2000-01-01,False,False,False,True
+378,397916,12840 129 St NW,12840 129 St NW,2,1,1100,1250,Rent,Basement,covered,in_suite,True,True,53.5872699,-113.5448369,2000-01-01,False,False,False,False
+379,289406,10203 156 Street NW,10203 156 Street NW,1,1,596,1035,Rent,Apartment,covered,shared,False,True,53.5435667,-113.5899243,2000-01-01,False,False,False,True
+380,492889,11708 17 Avenue Southwest,11708 17 Avenue Southwest,3,2.5,1200,1699,Rent,Duplex,outdoor,in_suite,True,False,53.415692,-113.5271949,2000-01-01,False,True,False,True
+381,296454,10625 113 Street NW,10625 113 Street NW,1,1,342,870,Rent,Apartment,underground,in_suite,False,True,53.550499,-113.515114,2000-01-01,False,False,True,True
+382,289309,11217 124 Street NW,11217 124 Street NW,1,1,218,718,Rent,Apartment,covered,shared,True,True,53.561058,-113.535445,2000-01-01,False,False,True,True
+383,289284,10633 110 St NW,10633 110 St NW,1,1,271,849,Rent,Apartment,underground,in_suite,True,True,53.550612,-113.50959,2000-01-01,False,True,True,False
+384,289292,10715 104 Street NW,10715 104 Street NW,1,1,340,775,Rent,Apartment,garage,shared,True,True,53.551999,-113.498709,2000-01-01,False,False,False,True
+385,395850,10360 102 St NW,10360 102 St NW,1,1,560,2500,Rent,Condo Unit,underground,in_suite,False,True,53.5457543,-113.4962335,2000-01-01,False,True,False,False
+386,289327,11930 104 Street NW,11930 104 Street NW,1,1,400,950,Rent,Apartment,underground,shared,False,True,53.5728825,-113.4996809,2000-01-01,False,True,False,False
+387,531576,Beaumaris Road Northwest,Beaumaris Road Northwest,4,1.5,,1700,Rent,Townhouse,garage,shared,True,True,53.6210062,-113.5073151,2000-01-01,False,True,True,False
+388,289272,10729 104 Street NW,10729 104 Street NW,1,1,625,900,Rent,Apartment,underground,in_suite,False,True,53.5523759,-113.4988179,2000-01-01,False,True,True,True
+389,525551,2788 Blatchford Road,2788 Blatchford Road,3,3.5,2159,2695,Rent,Townhouse,outdoor,in_suite,False,False,53.5681782,-113.5194235,2000-01-01,False,True,True,True
+390,289345,11841 105 Street NW,11841 105 Street NW,1,1,435,925,Rent,Apartment,underground,in_suite,False,True,53.5716896,-113.5008046,2000-01-01,False,False,False,True
+391,441307,11312 122 Street Northwest,11312 122 Street Northwest,3,2,,1700,Rent,House,covered,shared,True,True,53.5625523,-113.5328028,2000-01-01,False,True,True,False
+392,294093,11065 149 Street,11065 149 Street,1,1,607,1050,Rent,Apartment,covered,in_suite,True,True,53.5582526,-113.5775054,2000-01-01,False,True,True,False
+393,461200,12503 121 Avenue Northwest,12503 121 Avenue Northwest,2,1,1000,1325,Rent,Basement,garage,shared,False,True,53.574891354337,-113.538115550262,2000-01-01,False,False,False,False
+394,273901,404 McConachie Way NW,404 McConachie Way NW,1,1,604,1418,Rent,Apartment,covered,in_suite,False,True,53.62903,-113.432008,2000-01-01,False,False,False,False
+395,289339,10619 104 Street NW,10619 104 Street NW,1,1,495,849,Rent,Apartment,garage,shared,False,True,53.5503367,-113.4989538,2000-01-01,False,False,False,False
+396,415776,10404 24 Avenue Northwest,10404 24 Avenue Northwest,2,1,,1200,Rent,Townhouse,underground,shared,True,False,53.4547256,-113.4985078,2000-01-01,False,False,True,True
+397,289412,12711 118 Avenue NW,12711 118 Avenue NW,1,1,382,849,Rent,Apartment,underground,in_suite,True,True,53.5695231,-113.5428482,2000-01-01,False,False,True,True
+398,531543,10238 103 St NW,10238 103 St NW,1,1,510,1780,Rent,Condo Unit,outdoor,in_suite,False,True,53.5440505,-113.4979589,2000-01-01,False,True,True,True
+399,289367,11919 105 Street NW,11919 105 Street NW,1,1,550,1070,Rent,Apartment,garage,shared,True,True,53.5726661,-113.5006491,2000-01-01,False,False,True,True
+400,289365,14925 102 Avenue,14925 102 Avenue,1,1,538,850,Rent,Apartment,outdoor,shared,True,True,53.550721,-113.516515,2000-01-01,False,False,True,False
+401,289325,10959 97 Street NW,10959 97 Street NW,1,1,150,629,Rent,Apartment,outdoor,in_suite,True,True,53.5568338,-113.4912602,2000-01-01,False,True,False,False
+402,289359,10155 153 Street NW,10155 153 Street NW,1,1,346,795,Rent,Apartment,outdoor,shared,False,True,53.5430149,-113.584416,2000-01-01,False,False,False,False
+403,289351,11708 124 Street NW,11708 124 Street NW,1,1,280,900,Rent,Apartment,underground,shared,True,True,53.568809,-113.536597,2000-01-01,False,False,False,False
+404,289386,10625 117 Street NW,10625 117 Street NW,1,1,546,849,Rent,Apartment,underground,in_suite,True,True,53.5508453,-113.5227166,2000-01-01,False,True,True,True
+405,289399,11820 102 Street NW,11820 102 Street NW,1,1,489,899,Rent,Apartment,covered,in_suite,False,True,53.571027,-113.496265,2000-01-01,False,False,False,False
+406,289263,11615 124 Street NW,11615 124 Street NW,1,1,332,845,Rent,Apartment,outdoor,shared,False,True,53.5673839,-113.535465,2000-01-01,False,True,True,False
+407,289336,10711 103 Street NW,10711 103 Street NW,1,1,539,799,Rent,Apartment,underground,in_suite,False,True,53.551968,-113.4970064,2000-01-01,False,True,False,False
+408,289277,10041 152 Street NW,10041 152 Street NW,1,1,483,940,Rent,Apartment,garage,shared,True,True,53.540313,-113.582663,2000-01-01,False,True,False,True
+409,530804,10238 103 Street Northwest,10238 103 Street Northwest,2,2,989,2400,Rent,Condo Unit,garage,shared,False,False,53.5440505,-113.4979589,2000-01-01,False,True,True,True
+410,289282,10650 103 Street NW,10650 103 Street NW,1,1,,770,Rent,Apartment,covered,in_suite,False,True,53.550895,-113.497697,2000-01-01,False,False,False,False
+411,289279,2606 139 Avenue NW,2606 139 Avenue NW,1,1,567,1070,Rent,Apartment,outdoor,in_suite,False,True,53.6028405,-113.3827519,2000-01-01,False,False,True,True
+412,481670,,,4,3,1500,2000,Rent,Duplex,underground,shared,False,True,53.4120535,-113.5575404,2000-01-01,False,True,True,True
+413,499099,274 McConachie Way Northwest,274 McConachie Way Northwest,2.5,2,800,1700,Rent,Condo Unit,outdoor,shared,False,False,53.6290076,-113.4320253,2000-01-01,False,False,False,True
+414,399336,11118 76 Ave NW,11118 76 Ave NW,6,3,,2400,Rent,Duplex,outdoor,shared,True,False,53.5124328,-113.5178177,2000-01-01,False,False,True,True
+415,523781,11105 81 Avenue Northwest,11105 81 Avenue Northwest,2,1,968.76,1600,Rent,House,underground,shared,False,True,53.5169501,-113.5182126,2000-01-01,False,True,False,False
+416,481616,10160 114 St NW,10160 114 St NW,1,1,480,925,Rent,Condo Unit,outdoor,in_suite,False,False,53.542408,-113.518322,2000-01-01,False,True,True,True
+417,278868,11615-84 Street NW,11615-84 Street NW,3,1,,1600,Rent,House,outdoor,shared,False,False,53.567571565241,-113.469921069312,2000-01-01,False,False,False,True
+418,410672,2949 26 Street Northwest,2949 26 Street Northwest,2,1,980,1300,Rent,Condo Unit,outdoor,shared,False,True,53.460485,-113.3801381,2000-01-01,False,True,True,False
+419,529443,,,5,2,2000,2100,Rent,House,covered,in_suite,False,True,53.4805933,-113.5257216,2000-01-01,False,False,False,True
+420,285475,11307 99 ave,11307 99 ave,1,1,,1350,Rent,Condo Unit,garage,in_suite,True,True,53.5370309,-113.5164889,2000-01-01,False,False,False,True
+421,415973,20828 61 Avenue Northwest,20828 61 Avenue Northwest,5.5,3.5,2500,3450,Rent,House,underground,shared,False,False,53.4968972,-113.6809713,2000-01-01,False,False,False,False
+422,531801,12141 Jasper Ave,12141 Jasper Ave,1,1,750,1480,Rent,Condo Unit,covered,in_suite,True,False,53.5409719,-113.5321348,2000-01-01,False,True,False,False
+423,531726,10909 106 Street,10909 106 Street,4,2,,2200,Rent,Townhouse,underground,shared,True,True,53.5550567,-113.5019574,2000-01-01,False,True,True,False
+424,531713,,,3,1,,1450,Rent,Main Floor,outdoor,in_suite,False,True,53.5130626,-113.6018863,2000-01-01,False,False,True,False
+425,250297,,,1,1,,975,Rent,Apartment,garage,in_suite,False,True,53.5230394,-113.4670382,2000-01-01,False,True,True,False
+426,531496,5918 172st NW,5918 172st NW,2,1,,1399,Rent,Condo Unit,outdoor,shared,True,False,53.4952098,-113.6212002,2000-01-01,False,False,False,False
+427,530471,4879 Kinney Rd SW,4879 Kinney Rd SW,4,3,1890,2800,Rent,House,garage,shared,True,True,53.4157911,-113.6269298,2000-01-01,False,True,False,True
+428,531711,630 Cheriton Crescent Northwest,630 Cheriton Crescent Northwest,5.5,3.5,2340,3300,Rent,House,covered,in_suite,True,False,53.464867409327,-113.578008457672,2000-01-01,False,True,True,False
+429,397347,9232 91 Street,9232 91 Street,5.5,3.5,2800,2800,Rent,Duplex,underground,in_suite,True,False,53.5281673,-113.4672579,2000-01-01,False,False,True,True
+430,531698,3509 42A Avenue Northwest,3509 42A Avenue Northwest,3,2,,1600,Rent,House,covered,in_suite,True,False,53.4794451,-113.3950245,2000-01-01,False,False,True,False
+431,335560,14810 51 Ave NW,14810 51 Ave NW,2,2,1400+,2000,Rent,Condo Unit,underground,in_suite,True,False,53.489858,-113.5753851,2000-01-01,False,True,True,True
+432,529045,10310 102 St NW,10310 102 St NW,1.5,1,,2995,Rent,Condo Unit,garage,in_suite,False,True,53.5450299,-113.49616,2000-01-01,False,True,True,True
+433,531299,10310 102 St NW,10310 102 St NW,1.5,1,595,2995,Rent,Condo Unit,garage,in_suite,True,True,53.5450299,-113.49616,2000-01-01,False,False,True,True
+434,524955,11025 Jasper Avenue,11025 Jasper Avenue,1,1,,1550,Rent,Condo Unit,underground,in_suite,True,True,53.5406116,-113.5108438,2000-01-01,False,False,True,False
+435,527948,1763 Erker Way Northwest,1763 Erker Way Northwest,3.5,2.5,1840,2500,Rent,House,underground,shared,True,True,53.4748555,-113.6686374,2000-01-01,False,False,True,False
+436,259103,8210 182 St,8210 182 St,1,1,750,1200,Rent,Apartment,covered,shared,True,True,53.5158127,-113.6377704,2000-01-01,False,False,False,True
+437,273368,10933 106 Ave NW,10933 106 Ave NW,2,2,1165,2000,Rent,Condo Unit,garage,shared,False,False,53.549284,-113.5285364,2000-01-01,False,True,False,True
+438,531715,,,1,1,,950,Rent,Basement,garage,in_suite,False,True,53.5130626,-113.6018863,2000-01-01,False,True,False,True
+439,531707,2736 33 Street Northwest,2736 33 Street Northwest,3,2.5,1500,2000,Rent,House,underground,shared,True,False,53.4579706,-113.390487,2000-01-01,False,False,False,False
+440,528122,12411 87 Street Northwest,12411 87 Street Northwest,3,1.5,1433,1375,Rent,Main Floor,garage,shared,False,True,53.5803063,-113.4741267,2000-01-01,False,True,False,False
+441,494219,1343 Erker Crescent NW,1343 Erker Crescent NW,3,2.5,,2300,Rent,Duplex,outdoor,shared,False,False,53.4781521,-113.6656349,2000-01-01,False,True,False,False
+442,456567,10303 105 St NW,10303 105 St NW,2,1,850,1500,Rent,Condo Unit,underground,in_suite,True,False,53.545054851745,-113.500776312303,2000-01-01,False,False,False,True
+443,531527,11503 76 Avenue Northwest,11503 76 Avenue Northwest,1.5,1,660,2000,Rent,Condo Unit,outdoor,shared,False,False,53.5119933,-113.5291808,2000-01-01,False,True,True,True
+444,438492,8518 106 Street NW,8518 106 Street NW,1,1,486,1500,Rent,Condo Unit,garage,shared,True,False,53.5215183,-113.5038349,2000-01-01,False,True,False,False
+445,530442,#1 10129-82 Ave,#1 10129-82 Ave,2,2,,1500,Rent,Condo Unit,outdoor,shared,True,True,53.5177212,-113.4925006,2000-01-01,False,False,True,True
+446,411935,1009 Watt Prom SW,1009 Watt Prom SW,1,1,500,935,Rent,Basement,covered,in_suite,True,True,53.4194449,-113.4301374,2000-01-01,False,False,False,False
+447,425494,14524 56 Street Northwest,14524 56 Street Northwest,3.5,1.5,2100,1950,Rent,Townhouse,outdoor,in_suite,True,True,53.61346253252,-113.42304925572,2000-01-01,False,True,False,True
+448,481461,11211 85 St NW,11211 85 St NW,2,1,,1100,Rent,Apartment,covered,in_suite,False,False,53.5615128,-113.4714035,2000-01-01,False,True,False,True
+449,407723,10617 107 Street Northwest,10617 107 Street Northwest,1,1,,950,Rent,Apartment,covered,shared,False,True,53.5503701,-113.5043731,2000-01-01,False,True,False,True
+450,479144,2012 160 Street Southwest,2012 160 Street Southwest,1,1,,950,Rent,Basement,outdoor,shared,True,False,53.4227507,-113.5991815,2000-01-01,False,False,True,True
+451,528043,10108 125 Street Northwest,10108 125 Street Northwest,2,2,2000,4250,Rent,Loft,garage,shared,True,True,53.5420862,-113.5381721,2000-01-01,False,False,False,True
+452,482336,160 Magrath Rd NW,160 Magrath Rd NW,1.5,1,851,1600,Rent,Condo Unit,garage,in_suite,True,False,53.4532702,-113.5597803,2000-01-01,False,False,True,True
+453,474137,144 Macewan Road,144 Macewan Road,3,2.5,1700,2350,Rent,House,garage,shared,False,True,53.4293068,-113.5199999,2000-01-01,False,False,True,True
+454,303670,13660 38 Street,13660 38 Street,1,1,,925,Rent,Apartment,underground,in_suite,True,True,53.597716,-113.401141,2000-01-01,False,False,False,False
+455,531595,9221 98 Avenue Northwest,9221 98 Avenue Northwest,3,3,1800,2500,Rent,Townhouse,garage,shared,True,False,53.5380236,-113.4697718,2000-01-01,False,False,False,True
+456,531577,,,3,2.5,1490,2495,Rent,Townhouse,underground,shared,True,True,53.569136737519,-113.519731876776,2000-01-01,False,True,False,True
+457,515171,12223 82 St NW,12223 82 St NW,1.5,1,667.37,1000,Rent,Apartment,garage,in_suite,True,True,53.577576,-113.466834,2000-01-01,False,False,True,True
+458,531565,,,3,2.5,1490,2495,Rent,Townhouse,outdoor,shared,True,True,53.568999764928,-113.520556821143,2000-01-01,False,True,False,True
+459,414704,,,3,2,1850,1250,Rent,Basement,covered,in_suite,True,False,53.5650183,-113.5007599,2000-01-01,False,False,False,False
+460,363900,8947 149 Street Northwest,8947 149 Street Northwest,3,1,1049,1850,Rent,Main Floor,underground,shared,False,True,53.5229912,-113.5775039,2000-01-01,False,True,True,True
+461,399718,,,1,1,,800,Rent,Apartment,outdoor,shared,True,True,53.5712265,-113.4694549,2000-01-01,False,False,True,True
+462,489294,,,1,1,500,829,Rent,Apartment,garage,shared,False,False,53.5609206,-113.5363946,2000-01-01,False,False,False,True
+463,279765,10226 104 St NW,10226 104 St NW,2,2,900,2350,Rent,Condo Unit,underground,in_suite,False,True,53.5438488,-113.4993579,2000-01-01,False,True,False,False
+464,529056,3388 Erlanger Bend Northwest,3388 Erlanger Bend Northwest,3,2.5,1619,1975,Rent,House,covered,in_suite,True,True,53.4677379,-113.6828646,2000-01-01,False,True,True,True
+465,323611,8515 106A Avenue NW,8515 106A Avenue NW,1,1,585,1289,Rent,Apartment,outdoor,in_suite,True,True,53.5562371,-113.4727617,2000-01-01,False,True,True,True
+466,531599,9819 104 Street Northwest,9819 104 Street Northwest,2,2,932,1700,Rent,Condo Unit,covered,shared,True,False,53.5364138,-113.4987758,2000-01-01,False,True,True,False
+467,282626,10725 109 Street NW,10725 109 Street NW,1,1,,1095,Rent,Apartment,covered,shared,False,True,53.5522174,-113.5079737,2000-01-01,False,True,True,True
+468,531587,,,2,1,990,1495,Rent,Basement,outdoor,in_suite,True,False,53.4187173,-113.6368967,2000-01-01,False,False,False,False
+469,531300,BSMT 7411 89 Street Northwest,BSMT 7411 89 Street Northwest,2,1,1277,1400,Rent,Basement,covered,shared,False,False,53.5105457,-113.4617925,2000-01-01,False,False,True,False
+470,527853,42 Ebbers Close NW,42 Ebbers Close NW,1,1,560,1150,Rent,Apartment,outdoor,shared,False,False,53.6077784,-113.4089223,2000-01-01,False,True,False,False
+471,510568,8525 107 Street NW,8525 107 Street NW,1,1,,949,Rent,Apartment,outdoor,in_suite,False,False,53.521664,-113.5059961,2000-01-01,False,False,True,True
+472,529909,1641 James Mowatt Trail Southwest,1641 James Mowatt Trail Southwest,3,3.5,1694,2200,Rent,Duplex,garage,in_suite,False,False,53.4140959,-113.5209534,2000-01-01,False,False,False,True
+473,503920,9922 111 Street,9922 111 Street,1.5,1,1177,2050,Rent,Apartment,outdoor,shared,True,True,53.5380082,-113.5124962,2000-01-01,False,False,True,True
+474,527360,,,1,1,720,1250,Rent,Basement,outdoor,in_suite,False,False,53.5332717,-113.7121817,2000-01-01,False,False,True,False
+475,531465,10360 102 St NW,10360 102 St NW,2.5,2,1200,4200,Rent,Apartment,outdoor,in_suite,True,True,53.5458997,-113.4960541,2000-01-01,False,False,False,True
+476,416022,9707 105 St NW,9707 105 St NW,2,2,1200,2150,Rent,Condo Unit,garage,shared,True,False,53.5343372,-113.5005593,2000-01-01,False,True,False,True
+477,526283,10106 111 Avenue Northwest,10106 111 Avenue Northwest,1,1,1065,1195,Rent,Apartment,covered,shared,False,True,53.559083,-113.494215,2000-01-01,False,True,True,True
+478,522393,14930 92 Avenue Northwest,14930 92 Avenue Northwest,1,1,620,985,Rent,Basement,covered,in_suite,False,True,53.5268365,-113.579188,2000-01-01,False,False,True,False
+479,470555,11235 93 Street Northwest,11235 93 Street Northwest,2.5,1,1100,1500,Rent,Main Floor,outdoor,in_suite,True,True,53.5621367,-113.4838163,2000-01-01,False,True,False,True
+480,458973,8935 117 Street Northwest,8935 117 Street Northwest,4.5,2.5,2047,650,Rent,Room For Rent,covered,in_suite,False,False,53.52472928987,-113.531662046558,2000-01-01,False,False,False,False
+481,457630,13218 102 Avenue Northwest,13218 102 Avenue Northwest,4,3.5,3200,5500,Rent,House,garage,shared,False,True,53.543186668501,-113.550319763727,2000-01-01,False,True,True,True
+482,531486,11025 Jasper Avenue,11025 Jasper Avenue,1,1,512,950,Rent,Condo Unit,garage,shared,True,False,53.5406116,-113.5108438,2000-01-01,False,False,False,False
+483,531432,3735 132 Avenue Northwest,3735 132 Avenue Northwest,4.5,3.5,1800,2500,Rent,House,outdoor,shared,False,True,53.5919326,-113.4309494,2000-01-01,False,False,True,True
+484,513451,10635 83 Ave NW,10635 83 Ave NW,2,1,,1850,Rent,Apartment,outdoor,shared,False,False,53.5188737,-113.5057571,2000-01-01,False,False,True,True
+485,479691,3305 Orchards Link Southwest,3305 Orchards Link Southwest,3,2.5,1235,1750,Rent,Townhouse,garage,shared,False,True,53.4097862,-113.4602877,2000-01-01,False,False,False,False
+486,508668,10011 89 Ave NW,10011 89 Ave NW,1,1,700,1150,Rent,Apartment,underground,in_suite,True,False,53.5243172,-113.4894549,2000-01-01,False,False,True,False
+487,522388,14930 92 Avenue Northwest,14930 92 Avenue Northwest,3,2.5,1366,1895,Rent,Main Floor,underground,shared,False,True,53.5268365,-113.579188,2000-01-01,False,True,True,False
+488,274392,9707 -105 st,9707 -105 st,2,2,1244,2200,Rent,Apartment,covered,shared,False,False,53.534363,-113.500794,2000-01-01,False,False,True,True
+489,531467,16726 40 Street Northwest,16726 40 Street Northwest,3,2.5,1400,2175,Rent,Duplex,outdoor,in_suite,False,True,53.6281938,-113.4020151,2000-01-01,False,True,True,False
+490,531456,2698 Anderson Crescent Southwest,2698 Anderson Crescent Southwest,4,3.5,2700,3200,Rent,House,outdoor,in_suite,True,True,53.4272755,-113.6093115,2000-01-01,False,True,True,True
+491,490090,9715 104 Street NW,9715 104 Street NW,1,1,490,729,Rent,Apartment,covered,in_suite,False,True,53.5345096,-113.4987611,2000-01-01,False,True,False,False
+492,289941,11712 University Avenue Northwest,11712 University Avenue Northwest,3,1,1500,1950,Rent,House,covered,in_suite,False,False,53.5182325,-113.5335765,2000-01-01,False,False,False,False
+493,356476,3111 106 Avenue Northwest,3111 106 Avenue Northwest,2,1,,895,Rent,Basement,garage,in_suite,True,True,53.5595145,-113.3908207,2000-01-01,False,False,False,False
+494,505055,8920 118 Avenue Northwest,8920 118 Avenue Northwest,1,1,,799,Rent,Apartment,covered,in_suite,True,False,53.5706294,-113.478804,2000-01-01,False,True,True,True
+495,531439,8532 Jasper Avenue,8532 Jasper Avenue,2,2,1579,1579,Rent,Apartment,outdoor,shared,False,True,53.5551303,-113.4717973,2000-01-01,False,True,True,False
+496,530909,9111 155 Street Northwest,9111 155 Street Northwest,1,1,,950,Rent,Basement,outdoor,shared,False,True,53.5253498,-113.5880779,2000-01-01,False,True,False,False
+497,401429,11010 82 Street Northwest,11010 82 Street Northwest,1,1,400,895,Rent,Apartment,outdoor,in_suite,False,True,53.558313,-113.467605,2000-01-01,False,False,True,True
+498,531400,15 Rehwinkel Road,15 Rehwinkel Road,3,2.5,,2850,Rent,House,covered,in_suite,False,True,53.4736271,-113.581228,2000-01-01,False,True,False,True
+499,370055,10159 155 St NW,10159 155 St NW,1,1,692,1149,Rent,Apartment,underground,shared,True,True,53.543083,-113.5881699,2000-01-01,False,False,False,False
