@@ -69,7 +69,6 @@ class Database:
 
     def get_agent_table_definition(self) -> str:
         return '''CREATE TABLE agent_table (
-                agent_id int not null,
                 property_id int not null,
                 primary_email text,
                 primary_phone text,
@@ -126,10 +125,10 @@ class Database:
             df = pd.read_csv(csv_file_name)
             for row in df.itertuples():
                 sql_script = '''
-                    INSERT INTO agent_table (agent_id, property_id, primary_email, primary_phone)
-                    VALUES (?, ?, ?, ?)
+                    INSERT INTO agent_table (property_id, primary_email, primary_phone)
+                    VALUES (?, ?, ?)
                     '''
-                record = (row.agent_id, row.property_id, row.primary_email, row.primary_phone)
+                record = (row.property_id, row.primary_email, row.primary_phone)
                 cursor.execute(sql_script, record)
             conn.commit()
             conn.close()
