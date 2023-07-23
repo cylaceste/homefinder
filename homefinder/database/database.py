@@ -171,8 +171,22 @@ class Database:
         conn.close()
         return result, field_names
 
+    def get_images_from_property_id(self, property_id):
+        conn, cursor = self.get_connection()
+        query = "Select image_url, image_type from image_table where property_id = "+ str(property_id) 
+        try:
+            cursor.execute(query)
+            result = cursor.fetchall()
+            field_names = [i[0] for i in cursor.description]
+            return result, field_names
+            conn.close()
+        except:
+            conn.close()
+            print ('Error in get_images_from_property_id')
+            return None, None
 
 if __name__ == "__main__":
     sql_class = Database()
-    data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
+    # data = sql_class.fetch_query(query='SELECT * FROM property_table;')[0]
+    data = sql_class.get_images_from_property_id(1)
     print (data)
