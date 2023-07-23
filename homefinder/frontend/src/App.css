@@ -1,9 +1,22 @@
-.App {
+.app {
   display: flex;
   height: 100vh;
 }
 
-.pane {
-  flex: 1;
-  overflow: auto;
+.chat {
+  width: 50%;
+  overflow-y: auto;
+}
+
+.message-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.message-list .user {
+  text-align: left;
+}
+
+.message-list .assistant {
+  text-align: right;
 }

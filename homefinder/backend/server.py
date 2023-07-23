@@ -20,7 +20,7 @@ def sterilize_string(string: str) -> str:
     return string.replace('\n', ' ').replace('  ', ' ')
 
 
-openai.api_key = "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" # os.getenv("OPENAI_API_KEY")
+openai.api_key = 'sk-8Huhxbqe7mlEhbmra3SgT3BlbkFJrldWCYnRf7DAEAWVh591x'[:-1] #os.getenv("OPENAI_API_KEY")
 app = Flask(__name__)
 CORS(app)  # Allow requests from your React app
 property_database = Database()
@@ -85,15 +85,14 @@ def get_agent_response(message_history: List[Dict[str, str]]):
     prompt_messages += message_history
 
     for _ in range(2):
-        # response = openai.ChatCompletion.create(
-        #     model="gpt-4",
-        #     messages=prompt_messages,
-        #     temperature=0,
-        #     max_tokens=4096
-        # )
-        # print('here2')
-        # response_content = response['choices'][0]['message']['content']
-        response_content = """{"sql_query": "SELECT property_table.property_name, property_table.description, property_table.num_bedroom, property_table.num_bathroom, property_table.area_size, property_table.price, property_table.transaction_type, property_table.property_type, property_table.parking, property_table.laundry, property_table.furnished, property_table.pet_friendly, property_table.latitude, property_table.longitude, property_table.build_year, property_table.smoking_allowed, property_table.air_conditioning, property_table.hardwood_floors, property_table.balcony, GROUP_CONCAT(image_table.image_url) as image_urls FROM property_table LEFT JOIN image_table ON property_table.property_id = image_table.property_id WHERE property_table.num_bedroom >= 5 AND property_table.property_type = 'House' GROUP BY property_table.property_id LIMIT 10", "assistant_response": "I'm showing you houses with at least 5 bedrooms to accommodate you and your 4 kids. Do you have a preference for the location, budget, or any specific amenities (like a garage, air conditioning, etc.)?"}"""
+        response = openai.ChatCompletion.create(
+            model="gpt-4",
+            messages=prompt_messages,
+            temperature=0,
+            max_tokens=4096
+        )
+        response_content = response['choices'][0]['message']['content']
+        # response_content = """{"sql_query": "SELECT property_table.property_name, property_table.description, property_table.num_bedroom, property_table.num_bathroom, property_table.area_size, property_table.price, property_table.transaction_type, property_table.property_type, property_table.parking, property_table.laundry, property_table.furnished, property_table.pet_friendly, property_table.latitude, property_table.longitude, property_table.build_year, property_table.smoking_allowed, property_table.air_conditioning, property_table.hardwood_floors, property_table.balcony, GROUP_CONCAT(image_table.image_url) as image_urls FROM property_table LEFT JOIN image_table ON property_table.property_id = image_table.property_id WHERE property_table.num_bedroom >= 5 AND property_table.property_type = 'House' GROUP BY property_table.property_id LIMIT 10", "assistant_response": "I'm showing you houses with at least 5 bedrooms to accommodate you and your 4 kids. Do you have a preference for the location, budget, or any specific amenities (like a garage, air conditioning, etc.)?"}"""
         response_dict: Dict[str, str] = ast.literal_eval(response_content)
         query_for_info = response_dict.get('query_for_info', '')
         if query_for_info:
@@ -107,9 +106,9 @@ def get_agent_response(message_history: List[Dict[str, str]]):
                 "content": sql_query_result
                 })
         else:
-            query_from_gpt = response_dict['sql_query']
-            response_payload = {"properties": get_locations(query_from_gpt),
-            "message_history": message_history + [response_dict['assistant_response']]
+            query_from_gpt = response_dict.get('sql_query', '')
+            response_payload = {"properties": get_locations(query_from_gpt) if query_from_gpt else [],
+            "message_history": message_history + [{"role": "assistant", "content": response_dict['assistant_response']}]
             }
             print('payload')
             print(response_payload)

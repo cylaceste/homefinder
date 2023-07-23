@@ -11,18 +11,20 @@ L.Icon.Default.mergeOptions({
     shadowUrl: require('leaflet/dist/images/marker-shadow.png')
 });
 
-function MapPage() {
-    const [locations, setLocations] = useState([]);
+function MapPage(properties) {
+    var [locations, setLocations] = useState([]);
+    // console.log(properties.properties)
 
-    useEffect(() => {
-        axios.get('http://localhost:5000/get_locations')
-            .then(response => {
-                setLocations(response.data);
-            })
-            .catch(error => {
-                console.log('Error fetching locations:', error);
-            });
-    }, []);
+    var locations = properties.properties
+    // useEffect(() => {
+    //     axios.get('http://localhost:5000/get_locations')
+    //         .then(response => {
+    //             setLocations(response.data);
+    //         })
+    //         .catch(error => {
+    //             console.log('Error fetching locations:', error);
+    //         });
+    // }, []);
 
     const ChangeView = ({ bounds }) => {
         const map = useMap();
