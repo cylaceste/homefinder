@@ -20,12 +20,12 @@ def sterilize_string(string: str) -> str:
     return string.replace('\n', ' ').replace('  ', ' ')
 
 
-openai.api_key = 'sk-8Huhxbqe7mlEhbmra3SgT3BlbkFJrldWCYnRf7DAEAWVh591x'[:-1] #os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 app = Flask(__name__)
 CORS(app)  # Allow requests from your React app
 property_database = Database()
 "Store prompt components to keep things DRY"
-pc = {"preamble": """You are a real estate assistant helping guide a user buy or rent a home in Edmonton. 
+pc = {"preamble": """You are a real estate assistant helping guide a user buy or rent a home in     Edmonton. 
 Your task is to return a JSON formatted string without any additional text.
 Do not include any introductory or concluding text. Your response should be strictly 
 the JSON formatted string.""",
@@ -42,7 +42,7 @@ To respond, provide a JSON string with the format {{"sql_query": sql_query, "ass
 
 Include additional columns if relevant to the user but avoid unnecessary ones like table keys. Make sure to filter the data based on user conversation using a WHERE clause. Specify the table source when joining statements, and remember to use only columns from the schema. Creativity is key; for instance, if a user wants properties in Edmonton or Calgary, use the latitude and longitude to define these areas in your WHERE clause.
 
-'assistant_response' should describe the properties shown and why they were chosen based on the filters used. It should also pose a question to the user that will help refine your query, explaining why the question is necessary. Prioritize questions that a real estate agent would ask, like intent to buy or rent and budget. 
+'assistant_response' should describe the properties shown and why they were chosen based on the filters used. Don't mention how many homes you are showing. It should also pose a question to the user that will help refine your query, explaining why the question is necessary. Prioritize questions that a real estate agent would ask, like intent to buy or rent and budget. 
 
 If you lack sufficient data, generate a generic query and ask the user for more details.
 """
@@ -111,7 +111,7 @@ def get_locations(query: str) -> List[Dict[str, Any]]:
             "latitude": property['latitude'],
             "longitude": property['longitude'],
             "info": '\n'.join([f"{field_name}: {field_value}" for field_name, field_value in property.items() if field_name not in non_info_columns]),
-            "image_urls": property['image_urls'],
+            "image_urls": property.get('image_urls', ''),
         } for property in properties
     ]
     return locations
