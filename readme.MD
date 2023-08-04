@@ -41,7 +41,7 @@ set OPENAI_API_KEY=<your_openai_key>
 2. Install requirements. From root directory, use your terminal to run:
 ```
 pip install -r homefinder/backend/requirements.txt
-
+```
 
 
 Contributor Expectations:
